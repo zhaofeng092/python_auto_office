@@ -6,7 +6,10 @@
 --
 进群方式：[点我查看](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=100000431&idx=1&sn=9dc486a67414a3fd59a2fe8be9db93e6&chksm=6af6a39a5d812a8cb01b77b109d6ceb618393fc3c4671ba58d604814b7efaca4ea289bf52818#rd)
 --
-
+> 20200511
+- Q&A：
+    - Q：有哪些编辑器？
+    - A：新媒体管家、秀米、135编辑器
 > 20200512
 - Q&A：
     - Q：怎么多平台一键发布？
