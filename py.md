@@ -49,3 +49,13 @@ Python学习资源(看门大叔整理，vx：zhaofeng092)
 - Q&A：
     - Q：攀登者视频[视频链接](https://www.bilibili.com/video/BV15E411P7ey?p=2)的爬虫源代码？
     - A：[源代码](http://t.cn/A622qYVl)[来自群友，进群方式，戳我](https://mp.weixin.qq.com/s/6y0lVqn4WNFWmAHzQLRW5A)
+
+> 20200522
+- Q&A：
+    - Q：pip install xxx 无效。
+    - A：有些不能安装，手动下载后，pip install xx.whl ，whl网址：https://www.lfd.uci.edu/~gohlke/pythonlibs/#mysqlclient
+    
+> 20200525
+- Q&A：
+    - Q：这篇推文可以用在公众号里吗？[链接](https://mp.weixin.qq.com/s/mA-GG69kQwxk8CFuMY6NQg)
+    - A：可以，见[全套教程](https://mp.weixin.qq.com/s/xAxcJJivyGdmqiNT-AvWFw)
