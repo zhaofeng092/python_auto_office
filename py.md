@@ -59,3 +59,11 @@ Python学习资源(看门大叔整理，vx：zhaofeng092)
 - Q&A：
     - Q：这篇推文可以用在公众号里吗？[链接](https://mp.weixin.qq.com/s/mA-GG69kQwxk8CFuMY6NQg)
     - A：可以，见[全套教程](https://mp.weixin.qq.com/s/xAxcJJivyGdmqiNT-AvWFw)
+
+> 20200527
+- Q&A：
+    - Q：简单UI
+    - A：[一个Python库](https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)
+    - A：[可以翻一下手册](https://github.com/PySimpleGUI/PySimpleGUI)
+    - Q：截取整个网页的工具
+    - A：chrome 小乐图客

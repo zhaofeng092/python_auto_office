@@ -44,3 +44,7 @@
     - Q：《产品思维30讲》下载
     - A：[链接](https://mp.weixin.qq.com/s/MTpAXMKo8Jmku4JMXwEi1g)
     
+> 20200527
+- Q&A：
+    - Q：阅读原文跳转资源链接是怎么操作的呀？
+    - A：编辑页面-右下角-原文链接
