@@ -4,7 +4,7 @@ Python制造机
 
 大家讨论的Python知识管理（包含其他语言）
 --
-进群方式：[点我查看](https://mp.weixin.qq.com/s/6y0lVqn4WNFWmAHzQLRW5A)
+更多专业群的进群方式：[点我查看](https://mp.weixin.qq.com/s/6y0lVqn4WNFWmAHzQLRW5A)
 --
 
 Python学习资源(看门大叔整理，vx：zhaofeng092)
