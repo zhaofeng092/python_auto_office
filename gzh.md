@@ -69,3 +69,10 @@
 - Tips：
     - 昨天试了一下知乎，大家记得把公众号内容搬过去的时候，不要太刻意引流，例如直接写，可以关注公众号：xxx，我傻傻地也不知道，昨天这样被删帖禁言了
         - 小红书也是，头条没事（app、网页都有）
+        
+        
+> 2020-06-01
+- Q&A：
+    - Q：公众号有哪些接单渠道？微信群也可以接单吗？
+    - A：[优家：https://yj.xmt.cn/media/cpcad.html](https://yj.xmt.cn/media/cpcad.html)
+    - A：[新榜（微信群也可以接单）：https://a.newrank.cn/center/index.html#/user/user_media/wx_account](https://a.newrank.cn/center/index.html#/user/user_media/wx_account)
