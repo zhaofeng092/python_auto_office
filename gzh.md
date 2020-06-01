@@ -78,5 +78,5 @@
     - A：[新榜（微信群也可以接单）：https://a.newrank.cn/center/index.html#/user/user_media/wx_account](https://a.newrank.cn/center/index.html#/user/user_media/wx_account)
 - Tips：
     - 什么是一个公众号的画风？
-    - 画风是为了塑造品牌形象。排版的功能不止以上三个，更重要的是，保持同一的排版格式能塑造品牌形象，对读者潜移默化品牌影响。
-    - 详情请点击：[https://mp.weixin.qq.com/s/nTMD5TreUfz9sELCMpCdHw](https://mp.weixin.qq.com/s/nTMD5TreUfz9sELCMpCdHw)
+        - 画风是为了塑造品牌形象。排版的功能不止以上三个，更重要的是，保持同一的排版格式能塑造品牌形象，对读者潜移默化品牌影响。
+        - 详情请点击：[https://mp.weixin.qq.com/s/nTMD5TreUfz9sELCMpCdHw](https://mp.weixin.qq.com/s/nTMD5TreUfz9sELCMpCdHw)
