@@ -67,6 +67,7 @@ Python学习资源(看门大叔整理，vx：zhaofeng092)
     - A：[可以翻一下手册](https://github.com/PySimpleGUI/PySimpleGUI)
     - Q：截取整个网页的工具
     - A：chrome 小乐图客
+
 > 2020-06-02
 - Q&A：
     - Q：easyui有哪些图标？easyui的官网是什么？
