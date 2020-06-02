@@ -69,6 +69,6 @@ Python学习资源(看门大叔整理，vx：zhaofeng092)
     - A：chrome 小乐图客
 > 2020-06-02
 - Q&A：
-    - Q：easyui有哪些图标？
+    - Q：easyui有哪些图标？easyui的官网是什么？
     - A：图标：[点位查看：https://www.cnblogs.com/jisi2012/p/3805419.html](https://www.cnblogs.com/jisi2012/p/3805419.html)
     - A：官网：[点位查看：http://jeasyui.com/](http://jeasyui.com/)
