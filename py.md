@@ -21,12 +21,12 @@ Python学习资源(看门大叔整理，vx：zhaofeng092)
 
 
 
-> 20200518
+> 2020-05-18
 - Q&A：
     - Q：怎么处理公众号后台的xml格式？
     - A：[源代码](https://mp.weixin.qq.com/s/xAxcJJivyGdmqiNT-AvWFw)
     
-> 20200519
+> 2020-05-19
 - Q&A：
     - Q：请问大家有pdf转word的方法吗？
     - A：[在线PDF转换](https://mp.weixin.qq.com/s/v1-utNxjncj3s3a_h2ZxNQ)
@@ -39,31 +39,36 @@ Python学习资源(看门大叔整理，vx：zhaofeng092)
 - Tips
     - [在线PDF编辑器、PDF格式转换工具（PDF→Word、Excel、PPT等）](https://mp.weixin.qq.com/s/v1-utNxjncj3s3a_h2ZxNQ)
 
-> 20200520
+> 2020-05-20
 - Tips
     - [520福利](https://mp.weixin.qq.com/s/AfovYQ5eIWdoZzhcStmrDw)
     - [Django配置静态资源](http://t.cn/A62wwlh3)
     - psutil库
     
-> 20200521
+> 2020-05-21
 - Q&A：
     - Q：攀登者视频[视频链接](https://www.bilibili.com/video/BV15E411P7ey?p=2)的爬虫源代码？
     - A：[源代码](http://t.cn/A622qYVl)[来自群友，进群方式，戳我](https://mp.weixin.qq.com/s/6y0lVqn4WNFWmAHzQLRW5A)
 
-> 20200522
+> 2020-05-22
 - Q&A：
     - Q：pip install xxx 无效。
     - A：有些不能安装，手动下载后，pip install xx.whl ，whl网址：https://www.lfd.uci.edu/~gohlke/pythonlibs/#mysqlclient
     
-> 20200525
+> 2020-05-25
 - Q&A：
     - Q：这篇推文可以用在公众号里吗？[链接](https://mp.weixin.qq.com/s/mA-GG69kQwxk8CFuMY6NQg)
     - A：可以，见[全套教程](https://mp.weixin.qq.com/s/xAxcJJivyGdmqiNT-AvWFw)
 
-> 20200527
+> 2020-05-27
 - Q&A：
     - Q：简单UI
     - A：[一个Python库](https://towardsdatascience.com/learn-how-to-quickly-create-uis-in-python-a97ae1394d5)
     - A：[可以翻一下手册](https://github.com/PySimpleGUI/PySimpleGUI)
     - Q：截取整个网页的工具
     - A：chrome 小乐图客
+> 2020-06-02
+- Q&A：
+    - Q：easyui有哪些图标？
+    - A：图标：[点位查看：https://www.cnblogs.com/jisi2012/p/3805419.html](https://www.cnblogs.com/jisi2012/p/3805419.html)
+    - A：官网：[点位查看：http://jeasyui.com/](http://jeasyui.com/)
