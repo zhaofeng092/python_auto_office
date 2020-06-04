@@ -15,12 +15,11 @@
     - 报名网站：[https://ielts.neea.edu.cn/](https://ielts.neea.edu.cn/)
     - 资源网站Simon（口语和写作）:[https://ielts-simon.com/](https://ielts-simon.com/)
     - 口语：[https://ted.com/](https://ted.com/)： 听→总结可用的思路和语句
-    - 
 - 学习App：
     - 听力：
         - 小站雅思APP：上面有免费的所有剑雅听力~还蛮好用的，虽然营销人员给打电话有点烦！
     - 阅读
-        - BBC News：
+        - BBC News
         - 朗文词典APP：设计简单，非常纯粹的词典APP，内容清晰，没有广告和其他乱七八糟的功能！
 - 学习用书：
     - 套装1：淘口令，复制到淘宝打开查看：$Un4E1HYsiDt$
@@ -34,7 +33,7 @@
         - 口语：
             - 《慎小嶷十天突破雅思口语》+ 当季口语题库
     - 单册：
-        - 语法：gmat sentence correction
+        - 语法：《GMAT sentence correction》
 - 学习&做题技巧：
     - 听力：
         - section1-2：全对，section3-4错一半，也是6.5
@@ -43,8 +42,3 @@
         - 先看问题，再看文章
     - 写作：
         - 语法比词汇重要
-        
-
-
->2020-06-01
-- 
