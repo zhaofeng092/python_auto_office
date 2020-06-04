@@ -80,3 +80,8 @@
     - 什么是一个公众号的画风？
         - 画风是为了塑造品牌形象。排版的功能不止以上三个，更重要的是，保持同一的排版格式能塑造品牌形象，对读者潜移默化品牌影响。
         - 详情请点击：[https://mp.weixin.qq.com/s/nTMD5TreUfz9sELCMpCdHw](https://mp.weixin.qq.com/s/nTMD5TreUfz9sELCMpCdHw)
+
+> 2020-06-04
+- Q&A：
+    - Q：公众号所属领域和榜单排名怎么看？
+    - A：两个平台：新榜（首推）、西瓜数据
