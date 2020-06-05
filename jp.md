@@ -6,14 +6,10 @@
 
 更多专业群的进群方式：[点我查看](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=100000431&idx=1&sn=9dc486a67414a3fd59a2fe8be9db93e6&chksm=6af6a39a5d812a8cb01b77b109d6ceb618393fc3c4671ba58d604814b7efaca4ea289bf52818#rd)
 
-【日语课程】文档在百度云，视频在B站
---
+- 【日语课程】文档在百度云，视频在B站
+    - 配套文档下载   链接：https://pan.baidu.com/s/1psu-YzFEPgALigQC6SGf3Q ，提取码：9nub 
+    - 全套视频请使用B站观看，传送门：https://www.bilibili.com/video/BV1ka4y1v7ff，记得三连+弹幕哟
 
-配套文档下载   链接：https://pan.baidu.com/s/1psu-YzFEPgALigQC6SGf3Q ，提取码：9nub 
---
-
-全套视频请使用B站观看，传送门：https://www.bilibili.com/video/BV1ka4y1v7ff，记得三连+弹幕哟
----
 
 - Python学习资源(看门大叔整理，vx：zhaofeng092)
 
