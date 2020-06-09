@@ -74,6 +74,6 @@ Python学习资源(看门大叔整理，vx：zhaofeng092)
     - A：图标：[点我查看：https://www.cnblogs.com/jisi2012/p/3805419.html](https://www.cnblogs.com/jisi2012/p/3805419.html)
     - A：官网：[点我查看：http://jeasyui.com/](http://jeasyui.com/)
 
-> 2020-06-02
+> 2020-06-09
 - Tips
     - Django根据数据库生成models命令：python manage.py inspectdb > models.py
