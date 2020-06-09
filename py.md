@@ -77,3 +77,6 @@ Python学习资源(看门大叔整理，vx：zhaofeng092)
 > 2020-06-09
 - Tips
     - Django根据数据库生成models命令：python manage.py inspectdb > models.py
+    - mysql允许某个ip访问：
+        - GRANT ALL PRIVILEGES ON *.* TO 'root'@'10.40.21.12' IDENTIFIED BY 'FJay' WITH GRANT OPTION;
+        - flush privileges;
