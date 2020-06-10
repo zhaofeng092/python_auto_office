@@ -74,3 +74,9 @@
             剑12：题型有所改变，难易程度基本不变，因为紧跟考题趋势，给考生以很大的参考价值；
             剑13/剑14：作为最新版，反映考试的趋势，并进行了A类/G类分册。
         ```
+- Resources：
+    - [可以上班听的词汇课](https://www.bilibili.com/video/BV1K7411u7wT?from=search&seid=12586699784643161847)
+    - [入门课](https://www.bilibili.com/video/BV18Z4y1W7KQ/?p=2&t=65)
+    - [另一个入门课](https://www.bilibili.com/video/BV1D4411C7bY?from=search&seid=9769990998247159232)
+    - [词汇&语法课](https://www.bilibili.com/video/BV1Gb411G78d?from=search&seid=9769990998247159232)
+    - [口语课](https://www.bilibili.com/video/BV14Q4y1P7nw?from=search&seid=9769990998247159232)
