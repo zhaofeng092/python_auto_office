@@ -18,7 +18,7 @@
 
 - Python学习资源(看门大叔整理，vx：zhaofeng092)
 
-    - [点我：B站视频：日语N4-N3-N2全程班录像（170集 · 全 · 配文档）](https://www.bilibili.com/video/BV1ka4y1v7ff)
+    - [点我看视频：日语N4-N3-N2全程班录像（170集 · 全 · 配文档）](https://www.acfun.cn/v/ac16227831_2)
 
     - [点我：5个学日语必备网站](https://mp.weixin.qq.com/s/3Z3gYrfjK86HnhZBqMC65g)
 
