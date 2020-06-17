@@ -84,3 +84,4 @@ Python学习资源(看门大叔整理，vx：zhaofeng092)
 > 2020-06-17
 - Tips
     - [常用 Git 命令简介及使用](https://hezhiqiang.gitbook.io/about-the-author/yun-wei-gong-ju-shi-yong/untitled)
+    - 查询地区经纬度：http://map.jiqrxx.com/jingweidu/
