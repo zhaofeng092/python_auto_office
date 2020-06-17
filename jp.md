@@ -12,7 +12,7 @@
 
 - 【日语课程】文档在百度云，视频在B站
     - 配套文档下载   链接：https://pan.baidu.com/s/1psu-YzFEPgALigQC6SGf3Q ，提取码：9nub 
-    - 全套视频请使用B站观看，传送门：https://www.bilibili.com/video/BV1ka4y1v7ff，
+    - 全套视频请使用B站观看，传送门：https://www.acfun.cn/v/ac16227831_2，
     - 记得三连+弹幕哟
     
 
