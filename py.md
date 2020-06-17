@@ -80,3 +80,7 @@ Python学习资源(看门大叔整理，vx：zhaofeng092)
     - mysql允许某个ip访问：
         - GRANT ALL PRIVILEGES ON *.* TO 'root'@'10.40.21.12' IDENTIFIED BY 'FJay' WITH GRANT OPTION;
         - flush privileges;
+
+> 2020-06-17
+- Tips
+    - [常用 Git 命令简介及使用](https://hezhiqiang.gitbook.io/about-the-author/yun-wei-gong-ju-shi-yong/untitled)
