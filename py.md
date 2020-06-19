@@ -88,6 +88,6 @@ Python学习资源(看门大叔整理，vx：zhaofeng092)
     
 > 2020-06-19
 - Tips
-    - Linux的find命令：
+    - [Linux的find命令](https://www.cnblogs.com/jiftle/p/9707518.html)：
         - 查找文件夹：find . -name '文件夹名称' -type d
         - 查找文件：find . -name "*.xlsx"
