@@ -5,11 +5,13 @@
 
 更多专业群的进群方式：[点我查看](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=100000431&idx=1&sn=9dc486a67414a3fd59a2fe8be9db93e6&chksm=6af6a39a5d812a8cb01b77b109d6ceb618393fc3c4671ba58d604814b7efaca4ea289bf52818#rd)
 
-
+### 运营互联网产品-必修课-产品+运营
 - 【产品思维30讲】
     - 文档在百度云：链接：https://pan.baidu.com/s/1txKRZ7N1ttFpFxgfP0AOzQ ，提取码：oyfy
     - 全套音频在微信：传送门：https://mp.weixin.qq.com/s/MTpAXMKo8Jmku4JMXwEi1g
 
+- 【运营思维15讲】
+    - 全套音频在微信：传送门：https://mp.weixin.qq.com/s/1ktN99HVCUWrMUMdZtKE_A
 
 > 2020-05-11
 - Q&A：
