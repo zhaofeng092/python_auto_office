@@ -8,7 +8,11 @@
     - 上（保定、海口、曼谷）：https://mp.weixin.qq.com/s/zgAW4YZfoodzAQp617BcWw
     - 下（尼泊尔、俄罗斯）：https://mp.weixin.qq.com/s/2Tnw6XEvIj9YCit1_4haJw
 
-2. 唐吉坷德骑遇记
+2. 尼泊尔达尔文酒店
+    - 1000卢比可以买什么？尼泊尔货币购买力指南
+        - https://mp.weixin.qq.com/s/842A3n8PL0W400Z6HFGbAA
+
+3. 唐吉坷德骑遇记
     - https://m.youku.com/profile?uid=UMTc3MzEyNzA0NA==&sharekey=9baa3cb8692503d82930b5fc20224db28
 
 
