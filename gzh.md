@@ -8,16 +8,16 @@
 ### 运营互联网产品-必修课-产品+运营
 - 【增长思维30讲】
     - 音频：https://mp.weixin.qq.com/s/T3N66ypfMk_rLAfXLFA-Vw
-    - 下载链接进群获取：http://t.cn/A62RYScc
+    - 音频+文档，下载链接：http://t.cn/A62RYScc
 - 【运营思维15讲】
     - 音频：https://mp.weixin.qq.com/s/sC5cbmz-aOBcQVx3278GHA
-    - 下载链接进群获取：http://t.cn/A62RYScc
+    - 音频，下载链接：http://t.cn/A62RYScc
 - 【产品思维30讲】
-    - 音频+文档：https://mp.weixin.qq.com/s/OLzK-MvH0_cwGl4VeV-Znw
-    - 下载链接进群获取：http://t.cn/A62RYScc
+    - 音频：https://mp.weixin.qq.com/s/OLzK-MvH0_cwGl4VeV-Znw
+    - 音频+文档，下载链接：http://t.cn/A62RYScc
 - 【商业洞察力30讲】
     - 音频+文档：上传中
-    - 下载链接进群获取：http://t.cn/A62RYScc
+    - 音频+文档，下载链接：http://t.cn/A62RYScc
 > 2020-05-11
 - Q&A：
     - Q：有哪些编辑器？
