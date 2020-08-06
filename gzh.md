@@ -13,7 +13,7 @@
     - 音频：https://mp.weixin.qq.com/s/sC5cbmz-aOBcQVx3278GHA
     - 下载链接进群获取：http://t.cn/A62RYScc
 - 【产品思维30讲】
-    - 音频+文档：上传中
+    - 音频+文档：https://mp.weixin.qq.com/s/OLzK-MvH0_cwGl4VeV-Znw
     - 下载链接进群获取：http://t.cn/A62RYScc
 - 【商业洞察力30讲】
     - 音频+文档：上传中
