@@ -17,7 +17,7 @@ headers = {
 }
 
 if __name__ == '__main__':
-    fp=open('./climb.csv',mode='w',encoding='utf-8')
+    fp=open('climb.csv', mode='w', encoding='utf-8')
     fp.write('author\tcomment\tvote\n')
     #  0,20,40,200ll="108169"; bid=H2Lzyg2h8rU; douban-fav-remind=1; __gads=ID=1aff6df6af19fada:T=1587958933:S=ALNI_MbkgRZlgp-KPZcfo6qbr8CtaMmCJw; _vwo_uuid_v2=DFD453C44679787CAB785201397EC8F2D|57372c8e5f59f81dc5cc26a4001ac9a7; __utma=30149280.476532630.1587958935.1588153265.1589710153.4; __utmc=30149280; __utmz=30149280.1589710153.4.2.utmcsr=cn.bing.com|utmccn=(referral)|utmcmd=referral|utmcct=/; ap_v=0,6.0; __utmb=30149280.2.10.1589710153
     for i in range(11):

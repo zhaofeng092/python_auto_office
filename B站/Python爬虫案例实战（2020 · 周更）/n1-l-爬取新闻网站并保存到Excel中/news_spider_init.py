@@ -4,6 +4,13 @@
 # @File : news_spider_init.py
 # @Software: PyCharm
 # @Description:
+# 全部代码的视频：
+# 新闻爬虫系列：
+# 1、https://www.bilibili.com/video/BV15E411P7ey?p=1
+#
+# 2、https://mp.weixin.qq.com/s/DZb0lw391xkV2tCovCLaPQ
+#
+# 3、https://mp.weixin.qq.com/s/7tInLyxpuj5iIIoBl0qIRA
 
 import requests
 from lxml import html
