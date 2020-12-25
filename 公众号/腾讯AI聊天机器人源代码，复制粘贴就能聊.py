@@ -22,6 +22,10 @@ def curlmd5(src):
     return m.hexdigest().upper()
 
 
+app_id = '戳我获取：https://mp.weixin.qq.com/s/mA-GG69kQwxk8CFuMY6NQg'
+app_key = '戳我获取：https://mp.weixin.qq.com/s/mA-GG69kQwxk8CFuMY6NQg'
+
+
 def get_params(plus_item):
     # 请求时间戳（秒级），用于防止请求重放（保证签名5分钟有效）  
     t = time.time()
@@ -29,15 +33,13 @@ def get_params(plus_item):
     # 请求随机字符串，用于保证签名不可预测  
     nonce_str = ''.join(random.sample(string.ascii_letters + string.digits, 10))
     # 应用标志，这里修改成自己的id和key  
-    app_id = '戳我获取：https://mp.weixin.qq.com/s/mA-GG69kQwxk8CFuMY6NQg'
-    app_key = '戳我获取：https://mp.weixin.qq.com/s/mA-GG69kQwxk8CFuMY6NQg'
 
     params = {'app_id': app_id,
-            'question': plus_item,
-            'time_stamp': time_stamp,
-            'nonce_str': nonce_str,
-            'session': '10000'
-    }
+              'question': plus_item,
+              'time_stamp': time_stamp,
+              'nonce_str': nonce_str,
+              'session': '10000'
+              }
     sign_before = ''
     # 要对key排序再拼接  
     for key in sorted(params):
@@ -49,25 +51,31 @@ def get_params(plus_item):
     sign = curlmd5(sign_before)
     params['sign'] = sign
     return params
-    
-    
-
-
 
 
 def get_content(plus_item):
-    #聊天的API地址
+    # 聊天的API地址
     url = "https://api.ai.qq.com/fcgi-bin/nlp/nlp_textchat"
-    #获取请求参数
+    # 获取请求参数
     plus_item = plus_item.encode('utf-8')
     payload = get_params(plus_item)
-    r = requests.post(url,data=payload)
+    r = requests.post(url, data=payload)
     return r.json()["data"]["answer"]
 
+
 if __name__ == '__main__':
-    while True:
-        comment = input('我：')
-        if comment == 'q':
-            break
-        answer = get_content(comment)
-        print('机器人：' + answer)
+    if app_id != '戳我获取：https://mp.weixin.qq.com/s/mA-GG69kQwxk8CFuMY6NQg':
+
+        while True:
+            comment = input('我：')
+            if comment == 'q':
+                break
+            answer = get_content(comment)
+            print('机器人：' + answer)
+    else:
+        attention = '''-----
+您还没有填写账号密码哦~
+可以自己在腾讯AI平台免费申请,
+也可以使用兆锋私人的，戳我获取：https://mp.weixin.qq.com/s/mA-GG69kQwxk8CFuMY6NQg
+-----'''
+        print(attention)
