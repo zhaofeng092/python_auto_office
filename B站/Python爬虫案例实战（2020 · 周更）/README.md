@@ -7,6 +7,6 @@ Python自动化办公社区的代码仓库
 [我的资料库](http://t.cn/A6Gkrbzw)
 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)
 
-![资料库](https://github.com/zhaofeng092/python_auto_office/blob/master/%E8%B4%A6%E5%8F%B7%E5%85%B1%E7%94%A8%E8%B5%84%E6%BA%90/image/%E8%B5%84%E6%96%99%E5%BA%93.jpg)
+![资料库](https://mmbiz.qpic.cn/mmbiz_jpg/SAHDhZ6pPO8tgmRzkaqpYXw10dzJmxEicGRib6ib0lQUd0KFfxuKdzPB9yrwhbGiaRRFC3x90VGV9QPBZ81x3SpTpw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 ![交流群](https://github.com/zhaofeng092/python_auto_office/blob/master/%E8%B4%A6%E5%8F%B7%E5%85%B1%E7%94%A8%E8%B5%84%E6%BA%90/image/%E4%BA%A4%E6%B5%81%E7%BE%A4.jpg)
 
