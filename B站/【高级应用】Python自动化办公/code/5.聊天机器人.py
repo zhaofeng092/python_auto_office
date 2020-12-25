@@ -22,8 +22,8 @@ def curlmd5(src):
     return m.hexdigest().upper()
 
 
-app_id = '2125174629'
-app_key = 'vSW4Z5ZnXOCnXxGc'
+app_id = '戳我获取：https://mp.weixin.qq.com/s/mA-GG69kQwxk8CFuMY6NQg'
+app_key = '戳我获取：https://mp.weixin.qq.com/s/mA-GG69kQwxk8CFuMY6NQg'
 
 def get_params(plus_item):
     # 请求时间戳（秒级），用于防止请求重放（保证签名5分钟有效）  
