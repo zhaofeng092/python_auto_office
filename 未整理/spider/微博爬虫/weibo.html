@@ -1,0 +1,141 @@
+<!doctype html>\r\n
+<html style="height:100%">\r\n
+<head>\r\n
+    <meta charset="gb2312">
+    \r\n
+    <link rel="dns-prefetch" href="http://h5.sinaimg.cn">
+    \r\n
+    <link rel="dns-prefetch" href="http://u1.sinaimg.cn">
+    \r\n
+    <link rel="dns-prefetch" href="http://ww1.sinaimg.cn">
+    \r\n
+    <link rel="dns-prefetch" href="http://ww2.sinaimg.cn">
+    \r\n
+    <link rel="dns-prefetch" href="http://ww3.sinaimg.cn">
+    \r\n
+    <link rel="dns-prefetch" href="http://ww4.sinaimg.cn">
+    \r\n
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    \r\n
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    \r\n
+    <link rel="apple-touch-icon" href="http://u1.sinaimg.cn/upload/h5/img/apple-touch-icon.png">
+    \r\n <title>\xb5\xc7\xc2\xbc - \xd0\xc2\xc0\xcb\xce\xa2\xb2\xa9</title>\r\n
+    <meta id="viewport" name="viewport" \r\n
+          content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,minimal-ui">
+    \r\n
+    <link rel="stylesheet" href="/css/weibo/signin/login.css?id=20141028160201">
+    \r\n
+</head>
+\r\n
+<body style="height:100%">\r\n
+<div class="login-wrapper" id="loginWrapper" style="display:none">\r\n
+    <!-- \xb5\xc7\xc2\xbd\xb3\xc9\xb9\xa6\xcc\xf8\xd7\xaa\xd2\xb3 -->\r\n <input type="hidden" name="url"
+                                                                                 value=\'https%3A%2F%2Fweibo.cn\'
+                                                                                 id="loginSuccessAddress"/>\r\n
+    <!-- \xb5\xc7\xc2\xbdrf\xb1\xea\xca\xb6 -->\r\n <input type="hidden" name="rf" id="loginRF"/>\r\n <input
+            type="hidden" name="rfcal" id="loginRFCAL"/>\r\n <input type="hidden" id="oldUserName"/>\r\n <input
+            type="hidden" value="" id="loginfrom"/>\r\n <input type="hidden" value="" id="featurecode"/>\r\n <input
+            type="hidden" value="" id="hff" name="hff"/>\r\n <input type="hidden" value="" id="hfp" name="hfp"/>\r\n <a
+            href="javascript:history.go(-1);" class="close">\xb9\xd8\xb1\xd5</a>\r\n
+    <section class="avatar-wrapper" id="avatarWrapper">\r\n        <!-- \xcd\xb7\xcf\xf1 -->\r\n <img src=""
+                                                                                                      onerror="this.src=\'/images/weibo/signin/default-avatar_2x.png\';"></img>\r\n
+    </section>
+    \r\n
+    <form>\r\n
+        <section class="box">\r\n
+            <div class="input-wrapper">\r\n <i class="icon forName"></i>\r\n
+                <!-- \xd3\xc3\xbb\xa7\xc3\xfb -->\r\n <p class="input-box">\r\n <input type="text"
+                                                                                       placeholder="\xd3\xca\xcf\xe4/\xca\xd6\xbb\xfa\xba\xc5"
+                                                                                       id="loginName">\r\n
+                    <!-- \xc7\xe5\xb3\xfd\xd3\xc3\xbb\xa7\xc3\xfb\xd0\xa1\xb2\xe6 -->\r\n <a href="javascript:;"
+                                                                                             class="input-clear"
+                                                                                             id="loginnameclear"
+                                                                                             style="display:none"></a>\r\n
+                </p>\r\n
+            </div>
+            \r\n
+            <div class="input-wrapper">\r\n <i class="icon forPwd"></i>\r\n <p class="input-box"><input type="password"
+                                                                                                        placeholder="\xc7\xeb\xca\xe4\xc8\xeb\xc3\xdc\xc2\xeb"
+                                                                                                        id="loginPassword">
+            </p>\r\n
+            </div>
+            \r\n
+        </section>
+        \r\n\r\n        <!-- \xd2\xaa\xd2\xfe\xb2\xd8\xcc\xed\xbc\xd3 hid -->\r\n
+        <div id="verifyCodeWrapper" style="display:none">\r\n <p class="vcode">\r\n <img src="" alt=""
+                                                                                         id="verifyCodeImage">\r\n <a
+                href="javascript:;" id="changeVerifyCode">\xbb\xbb\xd2\xbb\xd5\xc5</a>\r\n </p>\r\n\r\n\r\n
+            <!-- \xd2\xaa\xd2\xfe\xb2\xd8\xcc\xed\xbc\xd3 hid -->\r\n
+            <div class="box">\r\n <input type="text" placeholder="\xc7\xeb\xca\xe4\xc8\xeb\xd1\xe9\xd6\xa4\xc2\xeb"
+                                         id="loginVCode">\r\n
+            </div>
+            \r\n
+        </div>
+        \r\n\r\n        <!-- \xd2\xaa\xd2\xfe\xb2\xd8\xcc\xed\xbc\xd3 hid -->\r\n
+        <div id="dVerifyCodeWrapper" style="display:none">\r\n <p class="shield-tit">\xb6\xaf\xcc\xac\xc2\xeb</p>
+            \r\n\r\n            <!-- \xd2\xaa\xd2\xfe\xb2\xd8\xcc\xed\xbc\xd3 hid -->\r\n
+            <div class="box">\r\n <input type="text" name="shieldCode"
+                                         placeholder="\xc7\xeb\xca\xe4\xc8\xeb\xce\xa2\xb6\xdc\xb6\xaf\xcc\xac\xc2\xeb"
+                                         id="loginDVCode">\r\n
+            </div>
+            \r\n
+        </div>
+        \r\n
+        <div id="errorMsg" class="error-label" style="display:none">
+            \xca\xd6\xbb\xfa\xba\xc5\xb2\xbb\xc4\xdc\xce\xaa\xbf\xd5
+        </div>
+        \r\n\r\n <a href="javascript:;" class="btn btnRed" id="loginAction">\xb5\xc7\xc2\xbc</a>\r\n
+    </form>
+    \r\n <p class="label">\r\n <a href="https://passport.weibo.cn/signin/other?r=https%3A%2F%2Fweibo.cn">\xb5\xda\xc8\xfd\xb7\xbd\xd5\xca\xba\xc5</a>\r\n
+    </p>\r\n
+    <footer class="footer">\r\n <a
+            href="https://m.weibo.cn/reg/index?&vt=4&wm=3349&wentry=&backURL=https%3A%2F%2Fweibo.cn">\xd7\xa2\xb2\xe1\xd5\xca\xba\xc5</a><a
+            href="https://passport.weibo.cn/forgot/forgot?entry=wapsso&from=0&r=https%3A%2F%2Fm.weibo.cn%2F">\xcd\xfc\xbc\xc7\xc3\xdc\xc2\xeb</a>\r\n
+    </footer>
+    \r\n
+</div>
+\r\n\r\n<!-- \xd2\xaa\xd2\xfe\xb2\xd8\xcc\xed\xbc\xd3 hid --> \r\n
+<div class="popup" style="display:none" id="errorDialog">\r\n
+    <article class="wrapper" style="top:180px;" id="errorDialogPanel">\r\n
+        <header class="title"></header>
+        \r\n <span class="info" id="errorDialogMsg">\xd5\xca\xba\xc5\xbb\xf2\xc3\xdc\xc2\xeb\xb4\xed\xce\xf3\xa3\xac\xc4\xe3\xd2\xb2\xbf\xc9\xd2\xd4\xd1\xa1\xd4\xf1\xb6\xcc\xd0\xc5\xd1\xe9\xd6\xa4\xc2\xeb\xb7\xbd\xca\xbd\xb5\xc7\xc2\xbc\xce\xa2\xb2\xa9\xa1\xa3</span>\r\n
+        <div class="action">\r\n <a href="javascript:;" class="btn cancel" id="errorDialogBtnF">\xc8\xa1\xcf\xfb</a>\r\n
+            <a href="javascript:;" class="btn confirm" id="errorDialogBtnT">\xd1\xe9\xd6\xa4\xc2\xeb\xb5\xc7\xc2\xbc</a>\r\n
+        </div>
+        \r\n
+    </article>
+    \r\n
+</div>
+\r\n\r\n
+<div class="account-wrapper" style="display:none" id="accountWrapper">\r\n <a href="javascript:history.go(-1);"
+                                                                              class="close">\xb9\xd8\xb1\xd5</a>\r\n
+    <section class="avatar-wrapper">\r\n        <!-- \xcd\xb7\xcf\xf1 -->\r\n <img id="ucavatar"
+                                                                                   src="/images/weibo/signin/default-avatar_2x.png"
+                                                                                   onerror="this.src=\'/images/weibo/signin/default-avatar_2x.png\';"
+                                                                                   alt="">\r\n
+    </section>
+    \r\n <p class="label" id="uctext">\xca\xb9\xd3\xc3<span id="ucname"></span>\xb5\xc4\xc9\xed\xb7\xdd\xb5\xc7\xc2\xbc\xcd\xf8\xd2\xb3\xb0\xe6\xce\xa2\xb2\xa9
+    </p>\r\n <p class="label" id="weibotext">
+        \xbc\xec\xb2\xe2\xb5\xbd\xc4\xfa\xd2\xd1\xd4\xda\xce\xa2\xb2\xa9\xbf\xcd\xbb\xa7\xb6\xcb\xb5\xc7\xc2\xbc<br>\xca\xc7\xb7\xf1\xbb\xf1\xc8\xa1\xb8\xc3\xb5\xc7\xc2\xbc\xd7\xb4\xcc\xac\xa3\xbf
+    </p>\r\n <a href="javascript:;" class="btn btnRed" id="ucORweiboLogin">\xc8\xb7\xc8\xcf</a>\r\n <a
+            href="javascript:;" class="btn btnWhite" id="changeLogin">\xca\xb9\xd3\xc3\xc6\xe4\xcb\xfb\xd5\xca\xba\xc5\xb5\xc7\xc2\xbc</a>\r\n
+</div>
+\r\n
+<form method="post" action="https://open.weibo.cn/oauth2/authorize" id="postform">\r\n
+    <button type=\'submit\' style="display:none"></button>
+    \r\n
+</form>
+\r\n
+<script type="text/javascript">\r\n
+var fEntry = \'\';\r\n    var fWentry = \'\';\r\n    var fBackUrl = \'\';\r\n\r\n        fEntry = \'mweibo\';\r\n    \r\n    \r\n        fBackUrl = \'https%3A%2F%2Fweibo.cn\';\r\n        var fClientid = \'\';\r\n        var fCode = \'\';\r\n        var fQq = \'\';\r\n    </script>
+\r\n\r\n<!-- \xb5\xc7\xc2\xbcwifi --> \r\n\r\n
+<script charset="gb2312" type="text/javascript" src="/js/signin/req.js?v=20181220"></script>
+\r\n
+<script charset="gb2312" type="text/javascript" src="/js/signin/weibologin.js?v=20181220"></script>
+\r\n
+<script type="text/javascript">\r\n    //\xbc\xc7\xd7\xa1\xd3\xc3\xbb\xa7\xc3\xfb\xb5\xc4\xca\xb1\xba\xf2\xd0\xe8\xd2\xaa\xb0\xd1mode\xc9\xe8\xd6\xc3\xce\xaa1\r\n    \r\n\r\n    \r\n    //\xd5\xe2\xc0\xef\xca\xc7\xd0\xe8\xd2\xaa\xce\xa2\xb6\xdc\r\n    </script>
+\r\n
+</body>
+\r\n
+</html>
