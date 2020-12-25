@@ -9,7 +9,7 @@
 from PIL import Image
 import numpy as np
 from wordcloud import WordCloud, ImageColorGenerator
-from matplotlib import pyplot as plt
+# from matplotlib import pyplot as plt
 import jieba
 # 分词
 def trans_CN(text):
