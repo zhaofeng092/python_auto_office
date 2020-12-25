@@ -4,7 +4,6 @@
 # @File : write_doc.py
 # @Software: PyCharm
 # @Description:
-# 代码中所需的素材获取，请关注公众号：Python自动化办公社区 ，发送：0816，加入微信群获取
 
 #加载需要使用的类库
 from PIL import Image
@@ -28,7 +27,7 @@ with open("ciyun.txt", encoding='utf8') as fp:
     cloud_text = trans_CN(text)
 
     #加载背景图片
-    cloud_mask = np.array(Image.open("003.jpg"))
+    cloud_mask = np.array(Image.open("ciyun.jpg"))
     #忽略显示的词
     st=set(["东西","这是"])
     #生成wordcloud对象
