@@ -1,8 +1,14 @@
 # python_auto_office
 Python自动化办公社区的代码仓库
+
+推荐两套重要的课程：
+1、[数据分析和可视化精讲](http://t.cn/A6qlcSCV)
+1、[52讲轻松搞定网络爬虫](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow)
+
 ```
 截止-2020.12.25-已上传的B站视频和代码-
 ```
+
 1. 视频链接：[【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ)
 - 代码链接：[传送门](https://github.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/%E3%80%90%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8%E3%80%91Python%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC/code)
 
