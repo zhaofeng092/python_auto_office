@@ -3,7 +3,7 @@ Python自动化办公社区的代码仓库
 
 推荐两套重要的课程：
 1、[数据分析和可视化精讲](http://t.cn/A6qlcSCV)
-1、[52讲轻松搞定网络爬虫](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow)
+2、[52讲轻松搞定网络爬虫](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow)
 
 ```
 截止-2020.12.25-已上传的B站视频和代码-
