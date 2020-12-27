@@ -42,6 +42,9 @@
 | 原文                                                         | 代码                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [腾讯AI聊天机器人源代码，复制粘贴就能聊](https://mp.weixin.qq.com/s/8ZdQtc2zlkUVG_g8__RlJA) | [传送门](https://github.com/zhaofeng092/python_auto_office/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E8%85%BE%E8%AE%AFAI%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%BA%90%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E5%B0%B1%E8%83%BD%E8%81%8A.py) |
+| [47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw) |                                                              |
+| [【福利】10本Python入门到进阶的电子书，15套Python视频教程~](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ) |                                                              |
+| [Python必读好书，这9本份量十足~](https://mp.weixin.qq.com/s/5YTIsyGj0ut5JA8apddVbQ) |                                                              |
 
 
 
