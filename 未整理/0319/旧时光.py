@@ -9,7 +9,7 @@
 
 # In[2]:
 
-#ces003
+
 import tensorflow as tf
 
 
