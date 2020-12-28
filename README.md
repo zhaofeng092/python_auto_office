@@ -4,7 +4,7 @@
 
 这里是法学院毕业的Python程序员兆锋，这里是我的代码仓库，欢迎大家交流使用~
 
-**关于这个代码仓库的使用教程，请看我录制的教程：[传送门](https://www.bilibili.com/video/BV1Ry4y1m7Ai)**
+*<u>**关于这个代码仓库的使用教程，请看我录制的教程：[传送门](https://www.bilibili.com/video/BV1Ry4y1m7Ai)**</u>*
 
 
 
