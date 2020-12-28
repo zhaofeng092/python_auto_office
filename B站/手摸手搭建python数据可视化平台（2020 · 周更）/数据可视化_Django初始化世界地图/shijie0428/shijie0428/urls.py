@@ -15,10 +15,11 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from django.conf.urls import url,include
-
+from django.conf.urls import url, include
+from mydata import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    url(r'^$', views.data_demo),  # 配置根路径打开页面
     url(r'^mydata/', include("mydata.urls")),
 ]
