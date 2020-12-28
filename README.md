@@ -74,7 +74,7 @@
 | 视频（点击直达）                                             | 配套代码                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [腾讯AI聊天机器人源代码，复制粘贴就能聊](https://mp.weixin.qq.com/s/8ZdQtc2zlkUVG_g8__RlJA) | [传送门]([https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E8%85%BE%E8%AE%AFAI%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%BA%90%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E5%B0%B1%E8%83%BD%E8%81%8A.py](https://gitee.com/zhaofeng092/python_auto_office/blob/master/公众号/腾讯AI聊天机器人源代码，复制粘贴就能聊.py)) |
-| [彩虹屁机器人 · 源代码](https://mp.weixin.qq.com/s/KarWOWBxpx2x6V02K2sPHQ) |                                                              |
+| 💖[彩虹屁机器人 · 源代码](https://mp.weixin.qq.com/s/KarWOWBxpx2x6V02K2sPHQ) |                                                              |
 | [彩虹屁机器人 + AI · 全套教程](http://t.cn/A6qaFUZw)         |                                                              |
 
 [](https://mp.weixin.qq.com/s/x-OgceFo2TuILQMUduCmZw)
@@ -105,7 +105,7 @@
 | [推荐5个Python金融免费学习资源](https://mp.weixin.qq.com/s/x-OgceFo2TuILQMUduCmZw) |                                                              |
 | [别说程序员不懂浪漫，用代码一样可以花式表白~](https://www.bilibili.com/video/BV1zi4y1V73n) | [传送门](https://github.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/%E5%88%AB%E8%AF%B4%E7%A8%8B%E5%BA%8F%E5%91%98%E4%B8%8D%E6%87%82%E6%B5%AA%E6%BC%AB%EF%BC%8C%E7%94%A8%E4%BB%A3%E7%A0%81%E4%B8%80%E6%A0%B7%E5%8F%AF%E4%BB%A5%E8%8A%B1%E5%BC%8F%E8%A1%A8%E7%99%BD~) |
 | [Google工程师：TensorFlow2.0入门到进阶](https://www.acfun.cn/v/ac18888954) |                                                              |
-| [Vue高度还原饿了么APP（完结 · 附源码）](https://www.acfun.cn/v/ac21081272) | [传送门](https://mp.weixin.qq.com/s/ftN_CNEN7EgBlWteioSgog)  |
+| 🔨[Vue高度还原饿了么APP（完结 · 附源码）](https://www.acfun.cn/v/ac21081272) | [传送门](https://mp.weixin.qq.com/s/ftN_CNEN7EgBlWteioSgog)  |
 | [武志红：成为你自己（2020 · 全90讲）](https://www.bilibili.com/video/BV1mi4y1j7DF) |                                                              |
 | [荣格心理分析入门【全】](https://www.acfun.cn/v/ac20499334)  |                                                              |
 
@@ -113,8 +113,10 @@
 
 ## 4. 写在最后
 
-资料有很多，但是只有付出时间和行动，才能真正地学到东西。
+资料有太多了，只有付出时间和行动，去学习和练习，才能真正地学以致用。
 
-从法学院毕业后选择了程序员这一行，我是全屏热爱，但是热爱不能当饭吃。为了更好的掌握编程这门技术，我最近也在探索新的方向，学新的知识。
+从法学院毕业后选择了程序员这一行的时候，我是全凭热爱；但是我也渐渐发现热爱没法当饭吃。
 
-如果你也正在IT这条路上探索，欢迎点击加入：🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)  
+为了更好的长久的掌握编程这门技术，我也一直在探索适合自己的方向，不断学习新的知识。
+
+如果你也正在IT这条路上探索，欢迎和我一路同行，点击加入：🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)  
