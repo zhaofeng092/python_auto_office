@@ -1,10 +1,10 @@
 
 
-# Python自动化办公社区的代码仓库
+# Python自动化办公社区的资源仓库
 
 这里是法学院毕业的Python程序员兆锋，这里是我的代码仓库，欢迎大家交流使用~
 
-*<u>**关于这个代码仓库的使用教程，请看我录制的教程：👉[传送门](https://www.bilibili.com/video/BV1Ry4y1m7Ai)**</u>*👈
+*<u>**关于这个资源仓库的使用，请看我录制的教程：👉[传送门](https://www.bilibili.com/video/BV1Ry4y1m7Ai)**</u>*👈
 
 | 🎯  [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [我的资料库](http://t.cn/A6Gkrbzw)   |  🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)   |
 | ---- | ---- | ---- |
@@ -20,7 +20,7 @@
 | 视频                                         | 综合                                              | IT                                              | 生活                                     |
 | -------------------------------------------- | ------------------------------------------------- | ----------------------------------------------- | ---------------------------------------- |
 | 🎪[A站](https://www.acfun.cn/u/35901274)      | 🚀 [知乎](https://www.zhihu.com/people/a-fei-2020) | 🎉 [csdn](https://blog.csdn.net/weixin_42321517) | ⛳ [微博](https://weibo.com/u/7411061007) |
-| 🚗[B站](https://space.bilibili.com/259649365) | [公众号](http://t.cn/A6Gkrbzw)                    | ⌚ [oschina](https://my.oschina.net/u/3888978)   |                                          |
+| 🚗[B站](https://space.bilibili.com/259649365) | [公众号](http://t.cn/A6Gkrbzw)                    | ⌚ [oschina](https://my.oschina.net/u/3888978)   | 📲我的邮箱：1529577833@qq.com             |
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-## 4. 写在最后
+## 4. 写在最后/交流合作
 
 资料有太多了，只有付出时间和行动，去学习和练习，才能真正地学以致用。
 
@@ -119,4 +119,4 @@
 
 为了更好的长久的掌握编程这门技术，我也一直在探索适合自己的方向，不断学习新的知识。
 
-如果你也正在IT这条路上探索，欢迎和我一路同行，点击加入：🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)  
+如果你也正在IT这条路上探索，欢迎一路同行，点击加入：🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)  ；如果有私人问题，欢迎联系📲我的邮箱：1529577833@qq.com
