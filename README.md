@@ -127,8 +127,10 @@
 
 资料太多了，只有付出时间和行动去学习和练习，才能真正地学以致用。
 
-从法学院毕业后选择了程序员这一行的时候，我是全凭热爱；但是我也渐渐发现热爱没法当饭吃。
+从法学院毕业后选择了程序员这一行的时候，我是全凭热爱；但是我也渐渐发现热爱没法当饭吃。🎯  [关于我](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ) 
 
 为了更好的长久的掌握编程这门技术，我也一直在探索适合自己的方向，不断学习新的知识。
 
 如果你也正在IT这条路上探索，欢迎一路同行，点击加入：🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)  ；如果有私人问题，欢迎联系📲我的邮箱：1529577833@qq.com
+
+最后，整理分享知识不易，如果资料对你帮助，感谢赞赏支持哟~💖[点击：打开赞赏码](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E8%B4%A6%E5%8F%B7%E5%85%B1%E7%94%A8%E8%B5%84%E6%BA%90/image/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
