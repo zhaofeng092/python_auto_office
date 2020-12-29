@@ -23,10 +23,6 @@
 
 
 
-
-
-
-
 ## 1、原视频
 
 [Python自动化办公 · 一课通（适合小白）](https://www.bilibili.com/video/BV12K411N7nx)
@@ -38,6 +34,11 @@
 [点我直达](https://gitee.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/Python%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC%20%C2%B7%20%E4%B8%80%E8%AF%BE%E9%80%9A%EF%BC%88%E9%80%82%E5%90%88%E5%B0%8F%E7%99%BD%EF%BC%89)
 
 *<u>**关于这个配套资料的下载和使用，请看我录制的教程：👉[传送门](https://www.bilibili.com/video/BV1Ry4y1m7Ai)**</u>*👈
+
+> 小白请直接用百度云下载：
+>
+> 链接：https://pan.baidu.com/s/1zp9YAlaD6Lf7SiLKy2aqhw 
+> 提取码：h973  
 
 
 

@@ -23,10 +23,6 @@
 
 
 
-
-
-
-
 ## 1、原视频
 
 [内幕 | 报价上万的大屏数据可视化，成本只有10分钟？](https://www.bilibili.com/video/BV1Kz4y1r76w)
@@ -38,6 +34,11 @@
 [点我直达](https://gitee.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/%E5%86%85%E5%B9%95-%E6%8A%A5%E4%BB%B7%E4%B8%8A%E4%B8%87%E7%9A%84%E5%A4%A7%E5%B1%8F%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%EF%BC%8C%E6%88%90%E6%9C%AC%E5%8F%AA%E6%9C%8910%E5%88%86%E9%92%9F%EF%BC%9F%EF%BC%88%E9%99%8418%E5%A5%97%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A8%A1%E6%9D%BF%EF%BC%89)
 
 *<u>**关于这个配套资料的下载和使用，请看我录制的教程：👉[传送门](https://www.bilibili.com/video/BV1Ry4y1m7Ai)**</u>*👈
+
+> 小白请直接用百度云下载：
+>
+> 链接：https://pan.baidu.com/s/1dAkpg_NfrcMATravmIZecw 
+> 提取码：pzm7 
 
 
 
