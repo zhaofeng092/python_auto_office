@@ -40,7 +40,7 @@
 | 1109                   | [47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw) | 点击查看置顶留言：[传送门](https://mp.weixin.qq.com/s/5YTIsyGj0ut5JA8apddVbQ) |
 | 12306                  | [买到回家的票了吗？用Python免费刷票，还不快来试试！(建议收藏)](https://mp.weixin.qq.com/s/zLsxpAmvtBvms2l0GNiC_Q) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/tree/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E4%B9%B0%E5%88%B0%E5%9B%9E%E5%AE%B6%E7%9A%84%E7%A5%A8%E4%BA%86%E5%90%97%EF%BC%9F%E7%94%A8Python%E5%85%8D%E8%B4%B9%E5%88%B7%E7%A5%A8%EF%BC%8C%E8%BF%98%E4%B8%8D%E5%BF%AB%E6%9D%A5%E8%AF%95%E8%AF%95%EF%BC%81(%E5%BB%BA%E8%AE%AE%E6%94%B6%E8%97%8F)) |
 | 0711                   | 《Office2019 办公应用三合一（Word Excel PPT）》              | 复制到淘宝打开：8.0￥59M0cqiSDTj￥                           |
-| 贪吃蛇001              | [玩过自己开发的贪吃蛇吗？点这里，教你用Python写一个贪吃蛇小游戏！（附源代码）](https://mp.weixin.qq.com/s/Cd1iDcZq9nKxk-mV8phTpA) |                                                              |
+| 贪吃蛇001              | [玩过自己开发的贪吃蛇吗？点这里，教你用Python写一个贪吃蛇小游戏！（附源代码）](https://mp.weixin.qq.com/s/Cd1iDcZq9nKxk-mV8phTpA) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/tree/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E7%8E%A9%E8%BF%87%E8%87%AA%E5%B7%B1%E5%BC%80%E5%8F%91%E7%9A%84%E8%B4%AA%E5%90%83%E8%9B%87%E5%90%97%EF%BC%9F%E7%82%B9%E8%BF%99%E9%87%8C%EF%BC%8C%E6%95%99%E4%BD%A0%E7%94%A8Python%E5%86%99%E4%B8%80%E4%B8%AA%E8%B4%AA%E5%90%83%E8%9B%87%E5%B0%8F%E6%B8%B8%E6%88%8F%EF%BC%81%EF%BC%88%E9%99%84%E6%BA%90%E4%BB%A3%E7%A0%81%EF%BC%89) |
 
 
 
