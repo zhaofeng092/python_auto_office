@@ -85,7 +85,7 @@
 | [Power BI教程_商业数据可视化](https://www.acfun.cn/v/ac19838235) |                                                              |
 | 我最近关注、社区里大家最感兴趣的领域                         | 🉑[数据分析和可视化精讲](http://t.cn/A6qlcSCV)                |
 | [掌握高效数据可视化技法（完结）](https://www.acfun.cn/v/ac20848856) |                                                              |
-| [内幕：报价上万的大屏数据可视化，成本只有10分钟？（附18套可视化模板）](https://www.bilibili.com/video/BV1Kz4y1r76w) | [传送门](https://mp.weixin.qq.com/s/d3qcadHz9sFDRn_GGWOh4g)  |
+| [内幕：报价上万的大屏数据可视化，成本只有10分钟？（附18套可视化模板）](https://www.bilibili.com/video/BV1Kz4y1r76w) | [传送门]([https://github.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/%E5%86%85%E5%B9%95-%E6%8A%A5%E4%BB%B7%E4%B8%8A%E4%B8%87%E7%9A%84%E5%A4%A7%E5%B1%8F%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%EF%BC%8C%E6%88%90%E6%9C%AC%E5%8F%AA%E6%9C%8910%E5%88%86%E9%92%9F%EF%BC%9F%EF%BC%88%E9%99%8418%E5%A5%97%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A8%A1%E6%9D%BF%EF%BC%89](https://github.com/zhaofeng092/python_auto_office/tree/master/B站/内幕-报价上万的大屏数据可视化，成本只有10分钟？（附18套可视化模板）)) |
 | [手摸手搭建python数据可视化平台（2020 · 周更）](https://www.bilibili.com/video/BV1zi4y1t7YU) | [传送门](https://github.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/%E6%89%8B%E6%91%B8%E6%89%8B%E6%90%AD%E5%BB%BApython%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%B9%B3%E5%8F%B0%EF%BC%882020%20%C2%B7%20%E5%91%A8%E6%9B%B4%EF%BC%89) |
 
 
