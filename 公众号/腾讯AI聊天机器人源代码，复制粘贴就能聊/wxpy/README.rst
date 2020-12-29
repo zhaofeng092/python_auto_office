@@ -153,12 +153,4 @@ wxpy 支持 Python 3.4-3.6，以及 2.7 版本
 
 http://wxpy.readthedocs.io
 
-更新日志
-----------------
 
-https://github.com/youfou/wxpy/releases
-
-项目主页
-----------------
-
-https://github.com/youfou/wxpy
