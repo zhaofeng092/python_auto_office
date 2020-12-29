@@ -64,6 +64,7 @@
 | Excel从入门到精通（最新，Excel2019版，附资料）               | [全套视频，限时删除](https://mp.weixin.qq.com/s/a7sV6d-UfIqSYxxgyTr_8A) |
 | [计算机二级MS office高级应用考试攻略（附模拟软件）](https://www.acfun.cn/v/ac21081586)（上传中） | （上传中）                                                   |
 | [【超详细】EXCEL数据分析（分析、公式、函数、可视化）](https://www.bilibili.com/video/BV195411t7vN) |                                                              |
+| 《Office2019 办公应用三合一（Word Excel PPT）》              | 复制到淘宝打开：8.0￥59M0cqiSDTj￥                           |
 
 
 
