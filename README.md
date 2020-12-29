@@ -10,13 +10,13 @@
 
 
 
-这里是法学院毕业的Python程序员兆锋，这里是我的代码仓库，欢迎大家交流使用~
+这里是法学院毕业的Python程序员兆锋，这里是我的资源仓库，欢迎大家交流使用~
 
 *<u>**关于这个资源仓库的使用，请看我录制的教程：👉[传送门](https://www.bilibili.com/video/BV1Ry4y1m7Ai)**</u>*👈
 
 
 
-| Python自动化办公社区<br/>全网同名账号 | 🎯 [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ) | 📚[我的资料库](http://t.cn/A6Gkrbzw)                         | 🚸[我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA) |
+| Python自动化办公社区：<br/>全网同名账号 | 🎯 [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ) | 📚[我的资料库](http://t.cn/A6Gkrbzw)                         | 🚸[我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA) |
 | --------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 🚗 [B站](https://space.bilibili.com/259649365) | [知乎](https://www.zhihu.com/people/a-fei-2020)              | 🌴[csdn](https://blog.csdn.net/weixin_42321517)、[简书](https://www.jianshu.com/u/b84b890b3431) | ⛳ [微博](https://weibo.com/u/7411061007)                     |
 | [A站](https://www.acfun.cn/u/35901274)        | 🚀 [公众号](http://t.cn/A6Gkrbzw)                             | [oschina](https://my.oschina.net/u/3888978)、[github](https://github.com/zhaofeng092/python_auto_office) | 📲 联系邮箱：1529577833@qq.com                                |
@@ -39,7 +39,7 @@
 
 
 
-## 2、资源分类
+## 2、学习资源分类
 
 
 ### Python自动化办公系列
@@ -131,7 +131,7 @@
 
 
 
-## 3、写在最后/交流合作
+## 3、写在最后/交流合作/赞赏
 
 资料太多了，只有付出时间和行动去学习和练习，才能真正地学以致用。
 
