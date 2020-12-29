@@ -40,6 +40,7 @@
 | 1109                   | [47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw) | 点击查看置顶留言：[传送门](https://mp.weixin.qq.com/s/5YTIsyGj0ut5JA8apddVbQ) |
 | 12306                  | [买到回家的票了吗？用Python免费刷票，还不快来试试！(建议收藏)](https://mp.weixin.qq.com/s/zLsxpAmvtBvms2l0GNiC_Q) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/tree/master/%E5%85%AC%E4%BC%97%E5%8F%B7/12306%E6%99%BA%E8%83%BD%E5%88%B7%E7%A5%A8) |
 | 0711                   | 《Office2019 办公应用三合一（Word Excel PPT）》              | 复制到淘宝打开：8.0￥59M0cqiSDTj￥                           |
+| 贪吃蛇001              | [玩过自己开发的贪吃蛇吗？点这里，教你用Python写一个贪吃蛇小游戏！（附源代码）](https://mp.weixin.qq.com/s/Cd1iDcZq9nKxk-mV8phTpA) |                                                              |
 
 
 
