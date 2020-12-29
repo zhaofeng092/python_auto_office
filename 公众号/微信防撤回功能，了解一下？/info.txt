@@ -1,0 +1,2 @@
+在电脑浏览器打开链接，自动开始下载：
+https://github.com/huiyadanli/RevokeMsgPatcher/releases/download/0.9/RevokeMsgPatcher.v0.9.zip
