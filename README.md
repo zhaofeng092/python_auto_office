@@ -95,7 +95,7 @@
 
 | 视频（点击直达）                                             | 配套代码                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [腾讯AI聊天机器人源代码，复制粘贴就能聊](https://mp.weixin.qq.com/s/8ZdQtc2zlkUVG_g8__RlJA) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E8%85%BE%E8%AE%AFAI%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%BA%90%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E5%B0%B1%E8%83%BD%E8%81%8A.py) |
+| [腾讯AI聊天机器人源代码，复制粘贴就能聊](https://mp.weixin.qq.com/s/8ZdQtc2zlkUVG_g8__RlJA) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/tree/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E8%85%BE%E8%AE%AFAI%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%BA%90%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%A4%8D%E5%88%B6%E7%B2%98%E8%B4%B4%E5%B0%B1%E8%83%BD%E8%81%8A) |
 | 💖[彩虹屁机器人 · 源代码](https://mp.weixin.qq.com/s/KarWOWBxpx2x6V02K2sPHQ) |                                                              |
 | [彩虹屁机器人 + AI · 全套教程](http://t.cn/A6qaFUZw)         |                                                              |
 
