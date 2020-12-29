@@ -41,7 +41,8 @@
 | 彩虹屁机器人 | [微信彩虹屁机器人の源代码](https://mp.weixin.qq.com/s/KarWOWBxpx2x6V02K2sPHQ) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E5%BE%AE%E4%BF%A1%E5%BD%A9%E8%99%B9%E5%B1%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%81%AE%E6%BA%90%E4%BB%A3%E7%A0%81/info.txt) |
 | pdf转换      |                                                              | [点我查看第二个网站](https://mp.weixin.qq.com/s/qv5qOaG9BOCZHleg9gXtQA) |
 | 1028         | [Python安装手册](https://mp.weixin.qq.com/s/PXklcPu9IY68b4zviA8f_g) | [传送门](https://www.python.org/downloads/)                  |
-| 1022         | [](https://mp.weixin.qq.com/s/hVR1NDcxc3sh6v6k4g1QZQ)        |                                                              |
+| 1022         | [用 Python 修改微信（支付宝）运动步数，轻松 TOP1](https://mp.weixin.qq.com/s/hVR1NDcxc3sh6v6k4g1QZQ) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E7%94%A8%20Python%20%E4%BF%AE%E6%94%B9%E5%BE%AE%E4%BF%A1%EF%BC%88%E6%94%AF%E4%BB%98%E5%AE%9D%EF%BC%89%E8%BF%90%E5%8A%A8%E6%AD%A5%E6%95%B0%EF%BC%8C%E8%BD%BB%E6%9D%BE%20TOP1/info.txt) |
+| 1019         | [自从我用了这 7 个神奇的办公软件，效率提高了，人也精神了](https://mp.weixin.qq.com/s/SaCpaqbsOp2AU6f7F4MqgA) |                                                              |
 
 
 
