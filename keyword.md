@@ -43,3 +43,10 @@
 | [A站](https://www.acfun.cn/u/35901274)       | [知乎](https://www.zhihu.com/people/a-fei-2020) | [csdn](https://blog.csdn.net/weixin_42321517) | ⛳ [微博](https://weibo.com/u/7411061007) |
 | 🚗[B站](https://space.bilibili.com/259649365) | 🚀[公众号](http://t.cn/A6Gkrbzw)                 | [oschina](https://my.oschina.net/u/3888978)   | 📲我的邮箱：1529577833@qq.com             |
 
+
+
+## 4、鼓励博主
+
+如果资料对你帮助，感谢赞赏支持哟~
+
+[点击：打开赞赏码](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E8%B4%A6%E5%8F%B7%E5%85%B1%E7%94%A8%E8%B5%84%E6%BA%90/image/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
