@@ -74,6 +74,7 @@
 | 🍓[【福利】10本Python入门到进阶的电子书，15套Python视频教程~](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ) | [传送门](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ) |
 | [Python必读好书，这9本份量十足~](https://mp.weixin.qq.com/s/5YTIsyGj0ut5JA8apddVbQ) |                                                             |
 | [经验分享 \| 小白如何准备，才能找到Python工作？](https://mp.weixin.qq.com/s/MzfcN6-d7zpzWujPyKO9uA) |                                                             |
+| [Python经典练习题100道（附链接）](https://mp.weixin.qq.com/s/2xJ_OjGNCN15B1WlN6O_GQ) |                                                             |
 
 
 
