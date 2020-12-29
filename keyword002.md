@@ -40,6 +40,8 @@
 | 电子书网站   |                                                              | [点我查看第一个网站](https://mp.weixin.qq.com/s/qv5qOaG9BOCZHleg9gXtQA) |
 | 彩虹屁机器人 | [微信彩虹屁机器人の源代码](https://mp.weixin.qq.com/s/KarWOWBxpx2x6V02K2sPHQ) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E5%BE%AE%E4%BF%A1%E5%BD%A9%E8%99%B9%E5%B1%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%81%AE%E6%BA%90%E4%BB%A3%E7%A0%81/info.txt) |
 | pdf转换      |                                                              | [点我查看第二个网站](https://mp.weixin.qq.com/s/qv5qOaG9BOCZHleg9gXtQA) |
+| 1028         | [Python安装手册](https://mp.weixin.qq.com/s/PXklcPu9IY68b4zviA8f_g) | [传送门](https://www.python.org/downloads/)                  |
+| 1022         | [](https://mp.weixin.qq.com/s/hVR1NDcxc3sh6v6k4g1QZQ)        |                                                              |
 
 
 
