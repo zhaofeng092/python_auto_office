@@ -26,7 +26,9 @@
 | datav     | [内幕 \| 报价上万的大屏数据可视化，成本只有10分钟？（附18套可视化模板）](https://mp.weixin.qq.com/s/vyRPVdtDIKb6lu845BRhFA) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/%E5%86%85%E5%B9%95-%E6%8A%A5%E4%BB%B7%E4%B8%8A%E4%B8%87%E7%9A%84%E5%A4%A7%E5%B1%8F%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%EF%BC%8C%E6%88%90%E6%9C%AC%E5%8F%AA%E6%9C%8910%E5%88%86%E9%92%9F%EF%BC%9F%EF%BC%88%E9%99%8418%E5%A5%97%E5%8F%AF%E8%A7%86%E5%8C%96%E6%A8%A1%E6%9D%BF%EF%BC%89) |
 | 高级应用2 | [【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/%E3%80%90%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8%E3%80%91Python%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC/code) |
 | 0828      | [Python自动化办公 · 一课通（适合小白）](https://www.bilibili.com/video/BV12K411N7nx) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/Python%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC%20%C2%B7%20%E4%B8%80%E8%AF%BE%E9%80%9A%EF%BC%88%E9%80%82%E5%90%88%E5%B0%8F%E7%99%BD%EF%BC%89) |
-| 1127      | [Python&PyCharm的下载、安装、使用、进阶（1127直播）](https://www.bilibili.com/video/BV1sy4y1q7zH) |                                                              |
+| 1127      | [Python&PyCharm的下载、安装、使用、进阶（1127直播）](https://www.bilibili.com/video/BV1sy4y1q7zH) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/B%E7%AB%99/Python&PyCharm%E7%9A%84%E4%B8%8B%E8%BD%BD%E3%80%81%E5%AE%89%E8%A3%85%E3%80%81%E4%BD%BF%E7%94%A8%E3%80%81%E8%BF%9B%E9%98%B6%EF%BC%881127%E7%9B%B4%E6%92%AD%EF%BC%89/%E7%99%BE%E5%BA%A6%E4%BA%91%E9%93%BE%E6%8E%A5.txt) |
+| 120501    | [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S) |                                                              |
+|           |                                                              |                                                              |
 
 
 
