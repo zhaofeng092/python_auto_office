@@ -27,8 +27,8 @@
 | 高级应用2 | [【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/%E3%80%90%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8%E3%80%91Python%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC/code) |
 | 0828      | [Python自动化办公 · 一课通（适合小白）](https://www.bilibili.com/video/BV12K411N7nx) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/Python%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC%20%C2%B7%20%E4%B8%80%E8%AF%BE%E9%80%9A%EF%BC%88%E9%80%82%E5%90%88%E5%B0%8F%E7%99%BD%EF%BC%89) |
 | 1127      | [Python&PyCharm的下载、安装、使用、进阶（1127直播）](https://www.bilibili.com/video/BV1sy4y1q7zH) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/B%E7%AB%99/Python&PyCharm%E7%9A%84%E4%B8%8B%E8%BD%BD%E3%80%81%E5%AE%89%E8%A3%85%E3%80%81%E4%BD%BF%E7%94%A8%E3%80%81%E8%BF%9B%E9%98%B6%EF%BC%881127%E7%9B%B4%E6%92%AD%EF%BC%89/%E7%99%BE%E5%BA%A6%E4%BA%91%E9%93%BE%E6%8E%A5.txt) |
-| 120501    | [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S) |                                                              |
-|           |                                                              |                                                              |
+| 120501    | [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/B%E7%AB%99/Python%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC--Pandas%E7%8E%A9%E8%BD%ACExcel%EF%BC%88%E5%85%A830%E9%9B%86%EF%BC%89/%E8%8E%B7%E5%8F%96%E6%BA%90%E4%BB%A3%E7%A0%81.md) |
+| 120503    | Excel2019全套教程                                            |                                                              |
 
 
 
