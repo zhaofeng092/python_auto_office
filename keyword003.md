@@ -25,7 +25,7 @@
 
 | 关键词 | 原视频/原文（点击直达）                                      | 资源（点击直达）                                             |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 123001 | [Python&Tableau：商业数据分析与可视化](https://www.acfun.cn/v/ac19918703) | 点开查看置顶留言：[传送门](https://mp.weixin.qq.com/s/hVR1NDcxc3sh6v6k4g1QZQ) |
+| 123001 | [Python&Tableau：商业数据分析与可视化](https://www.acfun.cn/v/ac19918703) | 点开查看置顶留言：[传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/A%E7%AB%99/Python&Tableau%EF%BC%9A%E5%95%86%E4%B8%9A%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E4%B8%8E%E5%8F%AF%E8%A7%86%E5%8C%96/pan.txt) |
 |        |                                                              |                                                              |
 
 
