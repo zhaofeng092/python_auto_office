@@ -2,24 +2,37 @@
 
 # Python自动化办公社区的资源仓库
 
+> 点击关注，即可展开全文
+
+| 版本 | 编辑                    | 更新时间   | 备注     |
+| ---- | ----------------------- | ---------- | -------- |
+| v2.0 | 兆锋（微信：hdylw1024） | 2020-12-30 | 资源分类 |
+| v1.0 | 兆锋（微信：hdylw1024） | 2020-12-29 | 资源汇总 |
 
 
-| 版本 | 编辑                    | 更新时间   |
-| ---- | ----------------------- | ---------- |
-| v1.0 | 兆锋（微信：hdylw1024） | 2020-12-29 |
 
-*<u>**关于这个资源仓库的使用，请看我录制的教程：👉[传送门](https://www.bilibili.com/video/BV1Ry4y1m7Ai)**</u>*👈
+[TOC]
 
-这里是法学院毕业的Python程序员兆锋，这里有我的🚀[全部资源仓库](https://gitee.com/zhaofeng092/python_auto_office)，欢迎大家交流使用~
+### 0、写在前面
+
+这里是法学院毕业的Python程序员兆锋，这里有我的🚀[全部资源仓库](https://gitee.com/zhaofeng092/python_auto_office)，
+
+下面内容，根据资源种类不同，进行了分类，请大家按需获取使用~
 
 | 🎯  [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [我的公众号](http://t.cn/A6Gkrbzw)   |  🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)   |
 | ---- | ---- | ---- |
 
-[TOC]
+> 首先推荐3套非常经典的学习课程（社区专属价格，物有所值）
+
+| 推荐理由                                       | 链接                                                         |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| 帮我找到Python工作的，我用过最好的Python入门课 | 🆒[52讲轻松搞定网络爬虫](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow) |
+| 我最近关注、社区里同学最近最感兴趣的领域       | 🉑[数据分析和可视化精讲](http://t.cn/A6qlcSCV)                |
+| 我的原创自动化办公教程，2020年浏览量10万+      | 🏆[Python自动化办公精讲](https://www.bilibili.com/video/BV12K411N7nx) |
 
 
 
-### 1、按平台分类
+### 1、资源汇总-按平台分类
 
 > 这种方式获取全面，优先查看[B站](https://space.bilibili.com/259649365)和 [公众号](http://t.cn/A6Gkrbzw)，宝藏内容在[A站](https://www.acfun.cn/u/35901274)和[CSDN](https://blog.csdn.net/weixin_42321517)
 
@@ -30,12 +43,12 @@
 
 
 
-### 2、按功能分类
+### 2、资源汇总-按功能分类
 
 > 这种方式不全部罗列，只列举部分高赞内容，如需探索更多，请点击上方平台
 >
 
-##### ①Python&自动化办公
+##### ①Python入门&自动化办公
 
 - 👍[2020年-Python自动化办公（可能是B站内容最全的！有源代码 ，适合小白~）](https://www.bilibili.com/video/BV12K411N7nx)
 - [2021年-【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ)
@@ -50,9 +63,9 @@
 
 ##### ②Excel专项
 
-- [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S)
+- 👉[Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S)
 - [【超详细】EXCEL数据分析（分析、公式、函数、可视化）](https://www.bilibili.com/video/BV195411t7vN)
-- [Excel高效学习班（完结 · 附资料）](https://www.acfun.cn/v/ac21081575)
+- 👉[Excel高效学习班（完结 · 附资料）](https://www.acfun.cn/v/ac21081575)
 - [Excel从入门到精通（最新，Excel2019版，附资料）](https://mp.weixin.qq.com/s/a7sV6d-UfIqSYxxgyTr_8A)
 - 推荐教材《Office2019 办公应用三合一（Word Excel PPT）》，复制到淘宝打开：8.0￥59M0cqiSDTj￥
 
@@ -87,7 +100,7 @@
 
 ##### ⑥心理分析
 
-- [武志红：成为你自己（2020 · 全90讲）](https://www.bilibili.com/video/BV1mi4y1j7DF)
+- 👉[武志红：成为你自己（2020 · 全90讲）](https://www.bilibili.com/video/BV1mi4y1j7DF)
 - [荣格心理分析入门：认识你自己【全】](https://www.acfun.cn/v/ac20499334)
 
 
@@ -100,19 +113,7 @@
 
 
 
-### 3、兆锋推荐的付费课程
-
-##### （社区专属价格，物有所值）
-
-| 推荐理由                                       | 链接                                                         |
-| ---------------------------------------------- | ------------------------------------------------------------ |
-| 帮我找到Python工作的，我用过最好的Python入门课 | 🆒[52讲轻松搞定网络爬虫](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow) |
-| 我最近关注、社区里同学最近最感兴趣的领域       | 🉑[数据分析和可视化精讲](http://t.cn/A6qlcSCV)                |
-| 我的原创自动化办公教程，2020年浏览量10万+      | 🏆[Python自动化办公精讲](https://www.bilibili.com/video/BV12K411N7nx) |
-
-
-
-### 4、写在最后/交流合作/赞赏
+### 3、写在最后/交流合作/赞赏
 
 资料有很多了，只有付出时间和行动去学习和练习，才能真正地学以致用。
 
