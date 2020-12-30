@@ -6,7 +6,11 @@
 
 这里是法学院毕业的Python程序员兆锋，这里是我的代码仓库，欢迎大家交流使用~
 
-*<u>**关于这个资源仓库的使用，请看我录制的教程：👉[传送门](https://www.bilibili.com/video/BV1Ry4y1m7Ai)**</u>*👈
+- 一定要看！！！*<u>**关于这个资源仓库的使用，请看我录制的教程：👉[点我打开](https://www.bilibili.com/video/BV1Ry4y1m7Ai?p=2)**</u>*👈
+- 一定要看！！！*<u>**关于这个资源仓库的使用，请看我录制的教程：👉[点我打开](https://www.bilibili.com/video/BV1Ry4y1m7Ai?p=2)**</u>*👈
+- 一定要看！！！*<u>**关于这个资源仓库的使用，请看我录制的教程：👉[点我打开](https://www.bilibili.com/video/BV1Ry4y1m7Ai?p=2)**</u>*👈
+
+
 
 | 🎯  [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [我的公众号](http://t.cn/A6Gkrbzw)   |  🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)   |
 | ---- | ---- | ---- |

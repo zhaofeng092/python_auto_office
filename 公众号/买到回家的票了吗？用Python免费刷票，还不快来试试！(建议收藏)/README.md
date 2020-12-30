@@ -1,4 +1,5 @@
 
+
 ### 资源说明
 
 这里是法学院毕业的Python程序员兆锋，这里有我的🚀[全部资源仓库](https://gitee.com/zhaofeng092/python_auto_office)，欢迎大家交流使用~
@@ -20,7 +21,7 @@
 
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [内幕 \| 报价上万的大屏数据可视化，成本只有10分钟？](https://www.bilibili.com/video/BV1Kz4y1r76w) | 链接：https://pan.baidu.com/s/1yOtoyXSmmYa4PWmS_CLutQ <br/>提取码：4plr <br/> |
+| [买到回家的票了吗？用Python免费刷票，还不快来试试!](https://mp.weixin.qq.com/s/zLsxpAmvtBvms2l0GNiC_Q) | 链接：[https://pan.baidu.com/s/1nfCZBiGWv3lk6sRYKk4heQ](https://pan.baidu.com/s/1nfCZBiGWv3lk6sRYKk4heQ) <br/>提取码：g9u0 <br/> |
 
 
 

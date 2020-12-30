@@ -20,7 +20,8 @@
 
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [内幕 \| 报价上万的大屏数据可视化，成本只有10分钟？](https://www.bilibili.com/video/BV1Kz4y1r76w) | 链接：https://pan.baidu.com/s/1yOtoyXSmmYa4PWmS_CLutQ <br/>提取码：4plr <br/> |
+| [如何用Python处理Excel？Pandas视频教程&官方文档来啦~](https://mp.weixin.qq.com/s/v8GdZ1YpVSy-bwRZyo2n1g) | 链接：[https://pan.baidu.com/s/1j15L7i1Uw1YfFHiL_PKlTQ](https://pan.baidu.com/s/1j15L7i1Uw1YfFHiL_PKlTQ) <br/>提取码：9bsg |
+|                                                              | [视频教程](https://www.bilibili.com/video/BV1hk4y1C73S)      |
 
 
 
