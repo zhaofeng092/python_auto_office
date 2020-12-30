@@ -15,6 +15,8 @@
 | 🎯  [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [我的公众号](http://t.cn/A6Gkrbzw)   |  🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)   |
 | ---- | ---- | ---- |
 
+[TOC]
+
 
 
 ### 1、按平台分类
@@ -28,11 +30,33 @@
 
 ### 2、按功能分类
 
-| Python&自动化办公                                            | Excel专项                                                    | 数据分析&数据可视化                                      | 爬虫                                                         | 聊天机器人                                                   | 心理分析                                                     | 更多精彩                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 👍[2020年-Python自动化办公（可能是B站内容最全的！有源代码 ，适合小白~）](https://www.bilibili.com/video/BV12K411N7nx) | [Excel高效学习班（完结 · 附资料）](https://www.acfun.cn/v/ac21081575) | 🔥[七周成为数据分析师](https://www.acfun.cn/v/ac19843284) | [Python爬虫案例实战（2020 · 周更）](https://www.bilibili.com/video/BV15E411P7ey?p=1) | [腾讯AI聊天机器人源代码，复制粘贴就能聊](https://mp.weixin.qq.com/s/8ZdQtc2zlkUVG_g8__RlJA) | [武志红：成为你自己（2020 · 全90讲）](https://www.bilibili.com/video/BV1mi4y1j7DF) | [别说程序员不懂浪漫，用代码一样可以花式表白~](https://www.bilibili.com/video/BV1zi4y1V73n) |
-|                                                              |                                                              |                                                          |                                                              |                                                              |                                                              |                                                              |
-|                                                              |                                                              |                                                          |                                                              |                                                              |                                                              |                                                              |
+##### ①Python&自动化办公
+
+- 👍[2020年-Python自动化办公（可能是B站内容最全的！有源代码 ，适合小白~）](https://www.bilibili.com/video/BV12K411N7nx)
+- [2021年-【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ)
+- [47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw)
+
+
+
+##### ②Excel专项
+
+- [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S)
+- [【超详细】EXCEL数据分析（分析、公式、函数、可视化）](https://www.bilibili.com/video/BV195411t7vN)
+- [Excel高效学习班（完结 · 附资料）](https://www.acfun.cn/v/ac21081575)
+- [Excel从入门到精通（最新，Excel2019版，附资料）](https://mp.weixin.qq.com/s/a7sV6d-UfIqSYxxgyTr_8A)
+
+
+
+##### ③数据分析&数据可视化
+
+- 🔥[七周成为数据分析师](https://www.acfun.cn/v/ac19843284)
+- 
+
+| Python&自动化办公 | Excel专项 | 数据分析&数据可视化 | 爬虫                                                         | 聊天机器人                                                   | 心理分析                                                     | 更多精彩                                                     |
+| ----------------- | --------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                   |           |                     | [Python爬虫案例实战（2020 · 周更）](https://www.bilibili.com/video/BV15E411P7ey?p=1) | [腾讯AI聊天机器人源代码，复制粘贴就能聊](https://mp.weixin.qq.com/s/8ZdQtc2zlkUVG_g8__RlJA) | [武志红：成为你自己（2020 · 全90讲）](https://www.bilibili.com/video/BV1mi4y1j7DF) | [别说程序员不懂浪漫，用代码一样可以花式表白~](https://www.bilibili.com/video/BV1zi4y1V73n) |
+|                   |           |                     |                                                              |                                                              |                                                              |                                                              |
+|                   |           |                     |                                                              |                                                              |                                                              |                                                              |
 
 
 
@@ -53,12 +77,12 @@
 
 ### Python自动化办公系列
 
-| 视频（点击直达）                                             | 配套代码（点击直达）                                         |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              | [传送门](https://mp.weixin.qq.com/s/XXi1XrQov9U7JFlAZBwDkw)  |
-| [2021年-【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ)（持续更新中） | [传送门](https://gitee.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/%E3%80%90%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8%E3%80%91Python%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC/code) |
-| [47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw) |                                                              |
-| [Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S) | [传送门](https://mp.weixin.qq.com/s/842wU4tJGrKXULHJ9EgvAA)  |
+| 视频（点击直达） | 配套代码（点击直达）                                         |
+| ---------------- | ------------------------------------------------------------ |
+|                  | [传送门](https://mp.weixin.qq.com/s/XXi1XrQov9U7JFlAZBwDkw)  |
+|                  | [传送门](https://gitee.com/zhaofeng092/python_auto_office/tree/master/B%E7%AB%99/%E3%80%90%E9%AB%98%E7%BA%A7%E5%BA%94%E7%94%A8%E3%80%91Python%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC/code) |
+|                  |                                                              |
+|                  | [传送门](https://mp.weixin.qq.com/s/842wU4tJGrKXULHJ9EgvAA)  |
 
 ### Excel系列
 
@@ -67,9 +91,9 @@
 | 原文（点击直达）                                             | 代码                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |
-| Excel从入门到精通（最新，Excel2019版，附资料）               | [全套视频，限时删除](https://mp.weixin.qq.com/s/a7sV6d-UfIqSYxxgyTr_8A) |
+|                                                              | [全套视频，限时删除](https://mp.weixin.qq.com/s/a7sV6d-UfIqSYxxgyTr_8A) |
 | [计算机二级MS office高级应用考试攻略（附模拟软件）](https://www.acfun.cn/v/ac21081586)（上传中） | （上传中）                                                   |
-| [【超详细】EXCEL数据分析（分析、公式、函数、可视化）](https://www.bilibili.com/video/BV195411t7vN) |                                                              |
+|                                                              |                                                              |
 | 《Office2019 办公应用三合一（Word Excel PPT）》              | 复制到淘宝打开：8.0￥59M0cqiSDTj￥                           |
 
 
