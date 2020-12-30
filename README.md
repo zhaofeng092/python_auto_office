@@ -11,7 +11,7 @@
 
 [TOC]
 
-### 0、写在前面
+# 0、写在前面
 
 这里是法学院毕业的Python程序员兆锋，这里有我的🚀[全部资源仓库](https://gitee.com/zhaofeng092/python_auto_office)，
 
@@ -30,7 +30,7 @@
 
 
 
-### 1、资源汇总-按平台分类
+# 1、资源汇总-按平台分类
 
 
 
@@ -45,12 +45,12 @@
 
 
 
-### 2、资源汇总-按功能分类
+# 2、资源汇总-按功能分类
 
 > 这种方式不全部罗列，只列举部分高赞内容，如需探索更多，请点击上方平台
 >
 
-##### ①Python入门&自动化办公
+### ①Python入门&自动化办公
 - 视频
     - 👉[2020年-Python自动化办公（可能是B站内容最全的！有源代码 ，适合小白~）](https://www.bilibili.com/video/BV12K411N7nx)
 - [2021年-【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ)
@@ -73,7 +73,7 @@
 
   
 
-##### ②Excel专项
+### ②Excel专项
 
 - 👉[Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S)
 - [【超详细】EXCEL数据分析（分析、公式、函数、可视化）](https://www.bilibili.com/video/BV195411t7vN)
@@ -83,7 +83,7 @@
 
 
 
-##### ③Python爬虫
+### ③Python爬虫
 
 - [Python爬虫案例实战（2020 · 周更）](https://www.bilibili.com/video/BV15E411P7ey?p=1)
 - [2020年Python爬虫全套课程（学完可做项目）](https://www.acfun.cn/v/ac20437401)
@@ -91,7 +91,7 @@
 
 
 
-##### ④数据分析&数据可视化
+### ④数据分析&数据可视化
 
 - 🔥[七周成为数据分析师](https://www.acfun.cn/v/ac19843284)
 
@@ -111,7 +111,7 @@
 
 
 
-##### ⑤聊天机器人&微信机器人
+### ⑤聊天机器人&微信机器人
 
 - [腾讯AI聊天机器人源代码，复制粘贴就能聊](https://mp.weixin.qq.com/s/8ZdQtc2zlkUVG_g8__RlJA)
 - 💖[彩虹屁机器人 · 源代码](https://mp.weixin.qq.com/s/KarWOWBxpx2x6V02K2sPHQ)
@@ -119,14 +119,14 @@
 
 
 
-##### ⑥心理分析
+### ⑥心理分析
 
 - 👉[武志红：成为你自己（2020 · 全90讲）](https://www.bilibili.com/video/BV1mi4y1j7DF)
 - [荣格心理分析入门：认识你自己【全】](https://www.acfun.cn/v/ac20499334)
 
 
 
-##### ⑦更多精彩
+### ⑦更多精彩
 
 - [Google工程师：TensorFlow2.0入门到进阶](https://www.acfun.cn/v/ac18888954)
 - 🔨[Vue高度还原饿了么APP（完结 · 附源码）](https://www.acfun.cn/v/ac21081272)
@@ -135,7 +135,7 @@
 
 
 
-### 3、写在最后/交流合作/赞赏
+# 3、写在最后/交流合作/赞赏
 
 资料有很多了，只有付出时间和行动去学习和练习，才能真正地学以致用。
 
