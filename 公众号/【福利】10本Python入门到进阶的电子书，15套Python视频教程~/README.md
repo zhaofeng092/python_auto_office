@@ -16,4 +16,4 @@
 
 ## → 社区资源仓库：🚀[点我查看](http://t.cn/A6qTvrFK)
 
-![社区资源仓库]()
+![社区资源仓库](https://gitee.com/zhaofeng092/python_auto_office/blob/master/source_base.jpg)
