@@ -1,4 +1,4 @@
-![社区资源仓库](https://img-blog.csdnimg.cn/202012301808527.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center)
+<img src="https://img-blog.csdnimg.cn/202012301808527.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="社区资源仓库" style="zoom: 50%;" />
 
 # [【福利】10本Python入门到进阶的电子书，15套Python视频教程~](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ)
 
