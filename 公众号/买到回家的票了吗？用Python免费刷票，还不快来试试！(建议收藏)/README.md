@@ -1,7 +1,3 @@
-
-
-### 资源说明
-
 这里是法学院毕业的Python程序员兆锋，这里有我的🚀[全部资源仓库](https://gitee.com/zhaofeng092/python_auto_office)，欢迎大家交流使用~
 
 | 🎯  [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [我的公众号](http://t.cn/A6Gkrbzw)   |  🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)   |
@@ -22,10 +18,11 @@
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [买到回家的票了吗？用Python免费刷票，还不快来试试!](https://mp.weixin.qq.com/s/zLsxpAmvtBvms2l0GNiC_Q) | 链接：[https://pan.baidu.com/s/1nfCZBiGWv3lk6sRYKk4heQ](https://pan.baidu.com/s/1nfCZBiGWv3lk6sRYKk4heQ) <br/>提取码：g9u0 <br/> |
+| 部署上面的代码之前，建议你先听听右侧入门教程，把Python和PyCharm安装一下 | [Python&PyCharm的下载、安装、使用、进阶](https://www.bilibili.com/video/BV1sy4y1q7zH) |
 
 
 
-## 社区平台
+#### 社区平台
 
 | 视频                                          | 综合                                            | IT                                                           | 生活                                     |
 | --------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
@@ -34,7 +31,7 @@
 
 
 
-## 推荐课程
+### 推荐配套课程
 
 | 推荐理由                                       | 链接                                                         |
 | ---------------------------------------------- | ------------------------------------------------------------ |
@@ -44,7 +41,7 @@
 
 
 
-## 赞赏博主
+#### 赞赏博主
 
 资料太多了，只有付出时间和行动去学习和练习，才能真正地学以致用。
 
@@ -60,5 +57,5 @@
 
 最后，整理分享知识不易，如果资料对你帮助，感谢赞赏支持哟~💖[点击：打开赞赏码](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E8%B4%A6%E5%8F%B7%E5%85%B1%E7%94%A8%E8%B5%84%E6%BA%90/image/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
 
-https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E8%B4%A6%E5%8F%B7%E5%85%B1%E7%94%A8%E8%B5%84%E6%BA%90/image/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
+
 
