@@ -48,7 +48,7 @@
 | 1022                                 | [用 Python 修改微信（支付宝）运动步数，轻松 TOP1](https://mp.weixin.qq.com/s/hVR1NDcxc3sh6v6k4g1QZQ) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E7%94%A8%20Python%20%E4%BF%AE%E6%94%B9%E5%BE%AE%E4%BF%A1%EF%BC%88%E6%94%AF%E4%BB%98%E5%AE%9D%EF%BC%89%E8%BF%90%E5%8A%A8%E6%AD%A5%E6%95%B0%EF%BC%8C%E8%BD%BB%E6%9D%BE%20TOP1/info.txt) |
 | 1019                                 | [自从我用了这 7 个神奇的办公软件，效率提高了，人也精神了](https://mp.weixin.qq.com/s/SaCpaqbsOp2AU6f7F4MqgA) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E8%87%AA%E4%BB%8E%E6%88%91%E7%94%A8%E4%BA%86%E8%BF%99%207%20%E4%B8%AA%E7%A5%9E%E5%A5%87%E7%9A%84%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6%EF%BC%8C%E6%95%88%E7%8E%87%E6%8F%90%E9%AB%98%E4%BA%86%EF%BC%8C%E4%BA%BA%E4%B9%9F%E7%B2%BE%E7%A5%9E%E4%BA%86/info.txt) |
 | 1124                                 | [阿里云盘23M/s满速下载体验！百度云盘应该慌了~（附下载链接和邀请码）](https://mp.weixin.qq.com/s/Qno3A701rlEnwcgmjjlTnw) | [申请地址](https://survey.aliyun.com/apps/zhiliao/_o6XQjioM) |
-| 1202                                 | [用上这12个Chrome扩展功能，每年省出1个年假的时间~](https://mp.weixin.qq.com/s/adB8_C9SD_WZvNURu-wMfw) | [点击打开下载链接](https://www.google.cn/chrome/index.html)  |
+| 1202                                 | [用上这12个Chrome扩展功能，每年省出1个年假的时间~](https://mp.weixin.qq.com/s/adB8_C9SD_WZvNURu-wMfw) | [在电脑浏览器，点击打开下载Chrome](https://www.google.cn/chrome/index.html) |
 
 
 
