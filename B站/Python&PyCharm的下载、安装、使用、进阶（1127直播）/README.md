@@ -1,6 +1,6 @@
 
 
-# [47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw)
+# [Python&PyCharm的下载、安装、使用、进阶](https://www.bilibili.com/video/BV1sy4y1q7zH)
 
 
 
@@ -10,7 +10,7 @@
 
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw) | 链接：[https://pan.baidu.com/s/1M6K9pwWuNnXjP7PSQNYJjA](https://pan.baidu.com/s/1M6K9pwWuNnXjP7PSQNYJjA) <br/>提取码：4123 <br/> |
+| [Python&PyCharm的下载、安装、使用、进阶](https://www.bilibili.com/video/BV1sy4y1q7zH) | 链接：[https://pan.baidu.com/s/1uXQIBZtqPu4tSAAAEDI2Gg](https://pan.baidu.com/s/1uXQIBZtqPu4tSAAAEDI2Gg)<br/> 提取码：h2vh |
 
 > 直接复制打开百度云链接，进行下载即可~
 >
