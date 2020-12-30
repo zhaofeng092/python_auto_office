@@ -36,7 +36,6 @@
 
 > 这种方式获取全面，优先查看[B站](https://space.bilibili.com/259649365)和 [公众号](http://t.cn/A6Gkrbzw)，宝藏内容在[A站](https://www.acfun.cn/u/35901274)和[CSDN](https://blog.csdn.net/weixin_42321517)
 >
-> 下面这个表格分2列，左边1列是公众号热门文章，右边1列是各个平台的地址。
 
 | 视频                                          | 综合                                            | IT                                                           | 生活                                     |
 | --------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
@@ -53,9 +52,9 @@
 ### ①Python入门&自动化办公
 - 视频
     - 👉[2020年-Python自动化办公（可能是B站内容最全的！有源代码 ，适合小白~）](https://www.bilibili.com/video/BV12K411N7nx)
-- [2021年-【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ)
+    - [2021年-【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ)
     - [花了2万多买的Python教程全套，现在分享给大家，入门到精通(Python全栈开发教程)](https://www.acfun.cn/v/ac20463077)
-- [推荐5个Excel自动化办公免费学习资源~（数据分析、Python、VBA等）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486060&idx=1&sn=d659e07f6f720130e5e58ba43be4cb4d&chksm=eaf6ab59dd81224f148f798639c5995a8ab24620a00869231598ee31249e7f827d3b1055f5e3#rd)
+    - [推荐5个Excel自动化办公免费学习资源~（数据分析、Python、VBA等）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486060&idx=1&sn=d659e07f6f720130e5e58ba43be4cb4d&chksm=eaf6ab59dd81224f148f798639c5995a8ab24620a00869231598ee31249e7f827d3b1055f5e3#rd)
     - [推荐5个Python金融免费学习资源](https://mp.weixin.qq.com/s/x-OgceFo2TuILQMUduCmZw)
     - [学了Python，可以做哪些兼职月入过万？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486237&idx=1&sn=27659d6e6703d3a7a2c229dccba75e0a&chksm=eaf6aa28dd81233ea76c79537912fd334ea21d75dced913b243165eb5e3772b2b04661e91e6f#rd)
 - 文字：
