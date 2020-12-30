@@ -34,12 +34,27 @@
 
 ### 1、资源汇总-按平台分类
 
-> 这种方式获取全面，优先查看[B站](https://space.bilibili.com/259649365)和 [公众号](http://t.cn/A6Gkrbzw)，宝藏内容在[A站](https://www.acfun.cn/u/35901274)和[CSDN](https://blog.csdn.net/weixin_42321517)
 
-| 视频 | 文章                                            | 综合                                                         | 生活                                     |
-| --------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 🚗 [B站](https://space.bilibili.com/259649365) | [知乎](https://www.zhihu.com/people/a-fei-2020)              | 🌴[CSDN](https://blog.csdn.net/weixin_42321517)、[简书](https://www.jianshu.com/u/b84b890b3431) | ⛳ [微博](https://weibo.com/u/7411061007)                     |
-| [A站](https://www.acfun.cn/u/35901274)        | 🚀 [公众号](http://t.cn/A6Gkrbzw)                             | [oschina](https://my.oschina.net/u/3888978)、[github](https://github.com/zhaofeng092/python_auto_office) | 📲 联系邮箱：1529577833@qq.com                                |
+
+> 这种方式获取全面，优先查看[B站](https://space.bilibili.com/259649365)和 [公众号](http://t.cn/A6Gkrbzw)，宝藏内容在[A站](https://www.acfun.cn/u/35901274)和[CSDN](https://blog.csdn.net/weixin_42321517)
+>
+> 下面这个表格分2列，左边1列是公众号热门文章，右边1列是各个平台的地址。
+
+
+
+| 🚀[点我查看：公众号汇总](http://t.cn/A6Gkrbzw) | 其他平台                                      |
+| --------------------------------------------- | ------------------------------------------------------------ |
+| 👉[买到回家的火车票了吗？用Python免费在12306刷票，还不快来试试~](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247488665&idx=1&sn=e227f4a916cb7149b8a7bad8ff952bb1&chksm=eaf6b5acdd813cbae215fbc5d0c5ad92db762be876c8453667e6f6e224985b35058fff99f79f#rd) | 🚗 [B站](https://space.bilibili.com/259649365) |
+| [Python必读好书，这9本份量十足~](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486593&idx=1&sn=b4d9226cb02272ae014561692ff9fd0b&chksm=eaf6adb4dd8124a2af3525fb73e6dc6f7cc85b9c5bd5efce220c5a8f293d1b88352706828b05#rd) | ⛳ [微博](https://weibo.com/u/7411061007) |
+| [你以为打上马赛克就安全了吗？用Python一键还原，了解一下？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247487609&idx=1&sn=3b6adaf948b4480dc0cd76afcd044248&chksm=eaf6b14cdd81385a91d0db36243aae7df096816a376acc9632e1e6483e197ed2b555ca748bde#rd) | [知乎](https://www.zhihu.com/people/a-fei-2020) |
+| 👉[47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw) | [A站](https://www.acfun.cn/u/35901274) |
+| [用上这12个Chrome扩展功能，每年省出1个年假的时间~](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247487179&idx=1&sn=2246bc53f52d738001538d9ffff9a14a&chksm=eaf6affedd8126e85f389c4e9fcd1ba0b6a5f07364ec786bfc7e82c1e8ef4ec003e56484e56f#rd) | 🌴[CSDN](https://blog.csdn.net/weixin_42321517) |
+| [耗子尾汁！各行业都极其加分的数据分析，到底应该怎么学？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486878&idx=1&sn=3515dcfefce834965458906dc9ce2880&chksm=eaf6acabdd8125bdefd77bf34c50b9afa916df9aec0652fe9d87ed78e1230f7d99da4edbddbc#rd) |  |
+| [Python经典练习题100道（附链接）](https://mp.weixin.qq.com/s/2xJ_OjGNCN15B1WlN6O_GQ) | [简书](https://www.jianshu.com/u/b84b890b3431) |
+| [推荐5个Python金融免费学习资源](https://mp.weixin.qq.com/s/x-OgceFo2TuILQMUduCmZw) | [oschina](https://my.oschina.net/u/3888978) |
+| 🍓[【福利】10本Python入门到进阶的电子书，15套Python视频教程~](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ) | [github](https://github.com/zhaofeng092/python_auto_office) |
+| [学了Python，可以做哪些兼职月入过万？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486237&idx=1&sn=27659d6e6703d3a7a2c229dccba75e0a&chksm=eaf6aa28dd81233ea76c79537912fd334ea21d75dced913b243165eb5e3772b2b04661e91e6f#rd) | 📲 联系邮箱：1529577833@qq.com |
+| [推荐5个Excel自动化办公免费学习资源~（数据分析、Python、VBA等）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486060&idx=1&sn=d659e07f6f720130e5e58ba43be4cb4d&chksm=eaf6ab59dd81224f148f798639c5995a8ab24620a00869231598ee31249e7f827d3b1055f5e3#rd) |  |
 
 
 
@@ -50,14 +65,9 @@
 
 ##### ①Python入门&自动化办公
 
-- 👍[2020年-Python自动化办公（可能是B站内容最全的！有源代码 ，适合小白~）](https://www.bilibili.com/video/BV12K411N7nx)
+- 👉[2020年-Python自动化办公（可能是B站内容最全的！有源代码 ，适合小白~）](https://www.bilibili.com/video/BV12K411N7nx)
 - [2021年-【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ)
-- [47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw)
 - [花了2万多买的Python教程全套，现在分享给大家，入门到精通(Python全栈开发教程)](https://www.acfun.cn/v/ac20463077)
-- 🍓[【福利】10本Python入门到进阶的电子书，15套Python视频教程~](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ)
-- [Python经典练习题100道（附链接）](https://mp.weixin.qq.com/s/2xJ_OjGNCN15B1WlN6O_GQ) 
-- [Python必读好书，这9本份量十足~](https://mp.weixin.qq.com/s/5YTIsyGj0ut5JA8apddVbQ) 
-- [推荐5个Python金融免费学习资源](https://mp.weixin.qq.com/s/x-OgceFo2TuILQMUduCmZw)
 
 
 
