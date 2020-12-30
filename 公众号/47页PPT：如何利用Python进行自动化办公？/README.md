@@ -14,11 +14,10 @@
 
 > 直接复制打开百度云链接，进行下载即可~
 >
-> 如果对资源有疑问，请加入🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA) 告知群主，进行修改~
+> 如果对资源有疑问，请加入🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA) 联系群主解决~
 >
-> 另外，查看**Python自动化办公社区**的资源仓库，请点击：🚀[打开资源仓库](https://gitee.com/zhaofeng092/python_auto_office)
 
 
 
-### → 资源仓库：[点我查看](http://t.cn/A6qTvrFK)
+## → 社区资源仓库：[点我查看](http://t.cn/A6qTvrFK)
 
