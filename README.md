@@ -1,7 +1,10 @@
 # Python自动化办公社区的资源仓库
 
-> 📱我们的Python自动化办公社区共有10+个平台账号（B站、公众号、微博、CSDN等等），微信🈲禁止添加外部超链接，为了方便大家查看，特将资源汇总于此~
+> 📱我们的Python自动化办公社区共有10+个平台账号（B站、公众号、微博、CSDN等等），
 >
+> 微信🈲禁止添加外部超链接，为了方便大家查看，特将资源汇总于此~
+
+
 > 下拉可查看全部资源，点击关注，即可展开全文哦~💖
 
 
@@ -16,7 +19,7 @@
 
 下面内容，根据资源种类不同，进行了分类，请大家按需获取使用~
 
-| 🎯  [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [我的公众号](http://t.cn/A6Gkrbzw)   |  🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)   |
+| 🎯  [关于作者](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [社区公众号](http://t.cn/A6Gkrbzw)   |  🚸 [社区交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)   |
 | ---- | ---- | ---- |
 
 > 首先推荐3套经典的学习课程，在各自领域都是排名第一的课程哦~
