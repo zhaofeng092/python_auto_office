@@ -1,9 +1,14 @@
 # Python自动化办公社区的资源仓库
 
-> 点击关注，即可展开全文
+> 📱我们的Python自动化办公社区共有10+个平台账号（B站、公众号、微博、CSDN等等），微信🈲禁止添加外部超链接，为了方便大家查看，特将资源汇总于此~
+>
+> 下拉可查看全部资源，点击关注，即可展开全文哦~💖
+
 
 
 [TOC]
+
+
 
 # 0、写在前面
 
@@ -29,7 +34,6 @@
 
 
 > 这种方式获取全面，优先查看[B站](https://space.bilibili.com/259649365)和 [公众号](http://t.cn/A6Gkrbzw)，宝藏内容在[A站](https://www.acfun.cn/u/35901274)和[CSDN](https://blog.csdn.net/weixin_42321517)
->
 
 | 视频                                          | 综合                                            | IT                                                           | 生活                                     |
 | --------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
@@ -41,28 +45,28 @@
 # 2、资源汇总-按功能分类
 
 > 这种方式不全部罗列，只列举[高赞/高收藏/高阅读](http://t.cn/A6Gkrbzw)内容，如需探索更多，请点击上方平台
->
 
 ### ①Python入门&自动化办公
+
 - 视频
-    - 👉[2020年-Python自动化办公（可能是B站内容最全的！有源代码 ，适合小白~）](https://www.bilibili.com/video/BV12K411N7nx)
-    - [2021年-【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ)
-    - [花了2万多买的Python教程全套，现在分享给大家，入门到精通(Python全栈开发教程)](https://www.acfun.cn/v/ac20463077)
-    - [推荐5个Excel自动化办公免费学习资源~（数据分析、Python、VBA等）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486060&idx=1&sn=d659e07f6f720130e5e58ba43be4cb4d&chksm=eaf6ab59dd81224f148f798639c5995a8ab24620a00869231598ee31249e7f827d3b1055f5e3#rd)
-    - [推荐5个Python金融免费学习资源](https://mp.weixin.qq.com/s/x-OgceFo2TuILQMUduCmZw)
-    - [学了Python，可以做哪些兼职月入过万？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486237&idx=1&sn=27659d6e6703d3a7a2c229dccba75e0a&chksm=eaf6aa28dd81233ea76c79537912fd334ea21d75dced913b243165eb5e3772b2b04661e91e6f#rd)
+  - 👉[2020年-Python自动化办公（可能是B站内容最全的！有源代码 ，适合小白~）](https://www.bilibili.com/video/BV12K411N7nx)
+  - [2021年-【高级应用】Python自动化办公](https://www.bilibili.com/video/BV1Ty4y1D7wZ)
+  - [花了2万多买的Python教程全套，现在分享给大家，入门到精通(Python全栈开发教程)](https://www.acfun.cn/v/ac20463077)
+  - [推荐5个Excel自动化办公免费学习资源~（数据分析、Python、VBA等）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486060&idx=1&sn=d659e07f6f720130e5e58ba43be4cb4d&chksm=eaf6ab59dd81224f148f798639c5995a8ab24620a00869231598ee31249e7f827d3b1055f5e3#rd)
+  - [推荐5个Python金融免费学习资源](https://mp.weixin.qq.com/s/x-OgceFo2TuILQMUduCmZw)
+  - [学了Python，可以做哪些兼职月入过万？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486237&idx=1&sn=27659d6e6703d3a7a2c229dccba75e0a&chksm=eaf6aa28dd81233ea76c79537912fd334ea21d75dced913b243165eb5e3772b2b04661e91e6f#rd)
 - 文字：
-    - [Python必读好书，这9本份量十足~](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486593&idx=1&sn=b4d9226cb02272ae014561692ff9fd0b&chksm=eaf6adb4dd8124a2af3525fb73e6dc6f7cc85b9c5bd5efce220c5a8f293d1b88352706828b05#rd)
+  - [Python必读好书，这9本份量十足~](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486593&idx=1&sn=b4d9226cb02272ae014561692ff9fd0b&chksm=eaf6adb4dd8124a2af3525fb73e6dc6f7cc85b9c5bd5efce220c5a8f293d1b88352706828b05#rd)
 
-    - 👉[47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw)
+  - 👉[47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw)
 
-    - 🍓[【福利】10本Python入门到进阶的电子书，15套Python视频教程~](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ)
+  - 🍓[【福利】10本Python入门到进阶的电子书，15套Python视频教程~](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ)
 
-    - [Python经典练习题100道（附链接）](https://mp.weixin.qq.com/s/2xJ_OjGNCN15B1WlN6O_GQ)
+  - [Python经典练习题100道（附链接）](https://mp.weixin.qq.com/s/2xJ_OjGNCN15B1WlN6O_GQ)
 
-    - 👉[买到回家的火车票了吗？用Python免费在12306刷票，还不快来试试~](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247488665&idx=1&sn=e227f4a916cb7149b8a7bad8ff952bb1&chksm=eaf6b5acdd813cbae215fbc5d0c5ad92db762be876c8453667e6f6e224985b35058fff99f79f#rd)
+  - 👉[买到回家的火车票了吗？用Python免费在12306刷票，还不快来试试~](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247488665&idx=1&sn=e227f4a916cb7149b8a7bad8ff952bb1&chksm=eaf6b5acdd813cbae215fbc5d0c5ad92db762be876c8453667e6f6e224985b35058fff99f79f#rd)
 
-    - [你以为打上马赛克就安全了吗？用Python一键还原，了解一下？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247487609&idx=1&sn=3b6adaf948b4480dc0cd76afcd044248&chksm=eaf6b14cdd81385a91d0db36243aae7df096816a376acc9632e1e6483e197ed2b555ca748bde#rd)
+  - [你以为打上马赛克就安全了吗？用Python一键还原，了解一下？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247487609&idx=1&sn=3b6adaf948b4480dc0cd76afcd044248&chksm=eaf6b14cdd81385a91d0db36243aae7df096816a376acc9632e1e6483e197ed2b555ca748bde#rd)
 
   
 
@@ -128,7 +132,7 @@
 
 
 
-# 3、写在最后/交流合作/赞赏
+# 3、写在最后/交流合作
 
 资料有很多了，只有付出时间和行动去学习和练习，才能真正地学以致用。
 
@@ -142,12 +146,13 @@
 - 也欢迎点击加入：🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)  ；
 - 如果有私人问题/交流合作，欢迎联系📲我的邮箱：1529577833@qq.com
 
-最后，整理分享知识不易，如果资料对你帮助，感谢赞赏支持哟~💖[点击：打开赞赏码](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E8%B4%A6%E5%8F%B7%E5%85%B1%E7%94%A8%E8%B5%84%E6%BA%90/image/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
 
-# 4、更新日志
+
+# 4、更新日志/赞赏
+
 | 版本 | 编辑                    | 更新时间   | 备注     |
 | ---- | ----------------------- | ---------- | -------- |
 | v2.0 | 兆锋（微信：hdylw1024） | 2020-12-30 | 资源分类 |
 | v1.0 | 兆锋（微信：hdylw1024） | 2020-12-29 | 资源汇总 |
 
-
+最后，整理分享知识不易，如果资料对你帮助，感谢赞赏支持哟~💖[点击：打开赞赏码](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E8%B4%A6%E5%8F%B7%E5%85%B1%E7%94%A8%E8%B5%84%E6%BA%90/image/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)
