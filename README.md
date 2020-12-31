@@ -1,6 +1,6 @@
 # Python自动化办公社区的资源仓库
 
-> 📱我们的Python自动化办公社区共有10+个平台账号（B站、公众号、微博、CSDN等等），
+> 📱我们的Python自动化办公社区共有10+个平台账号（[B站](https://space.bilibili.com/259649365)、 [公众号](http://t.cn/A6Gkrbzw)、 [微博](https://weibo.com/u/7411061007)、[CSDN](https://blog.csdn.net/weixin_42321517)，等等），
 >
 > 微信🈲禁止添加外部超链接，为了方便大家查看，特将资源汇总于此~
 
