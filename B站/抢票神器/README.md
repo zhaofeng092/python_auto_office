@@ -1,4 +1,4 @@
-# [内幕 \| 报价上万的大屏数据可视化，成本只有10分钟？](https://www.bilibili.com/video/BV1Kz4y1r76w)
+# [买到回家的火车票了吗？分享一款抢票神器，免费在12306极速刷票，祝小伙伴都顺利到家~](https://www.bilibili.com/video/BV13Z4y137BA)
 
 
 
@@ -8,7 +8,8 @@
 
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [内幕 \| 报价上万的大屏数据可视化，成本只有10分钟？](https://www.bilibili.com/video/BV1Kz4y1r76w) | 链接：https://pan.baidu.com/s/1yOtoyXSmmYa4PWmS_CLutQ <br/>提取码：4plr <br/> |
+| [买到回家的火车票了吗？分享一款抢票神器，免费在12306极速刷票，祝小伙伴都顺利到家~](https://www.bilibili.com/video/BV13Z4y137BA) | 抢票神器：<br/>链接：[https://pan.baidu.com/s/1hU-UripN1VD_lJW-yUn85A](https://pan.baidu.com/s/1hU-UripN1VD_lJW-yUn85A)<br/>提取码：k0y7 <br/> |
+| 另外，除了以上神器，还有附赠礼物哦：如果你会Python，也可以尝试一下用代码的方式解决：[python for 12306](https://mp.weixin.qq.com/s/nkjJ3F-kAt1uCWD9Fp41yg) |                                                              |
 
 > 直接复制打开百度云链接，进行下载即可~
 >
