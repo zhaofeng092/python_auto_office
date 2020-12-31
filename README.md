@@ -109,13 +109,14 @@
 
   
 
-
-
 ### ⑤聊天机器人&微信机器人
 
 - [腾讯AI聊天机器人源代码，复制粘贴就能聊](https://mp.weixin.qq.com/s/8ZdQtc2zlkUVG_g8__RlJA)
 - 💖[彩虹屁机器人 · 源代码](https://mp.weixin.qq.com/s/KarWOWBxpx2x6V02K2sPHQ)
 - [彩虹屁机器人 + AI · 全套教程](http://t.cn/A6qaFUZw)
+- [部署机器人](https://mp.weixin.qq.com/s/xT3TSZTPH4O7uDMuJBElgw)(以下两家性能无差别)：
+  - [阿里云（市场占有率高）](http://t.cn/A6qV0C42)
+  - [腾讯云（方便在微信操作）](https://curl.qcloud.com/HBu2xulk)
 
 
 
