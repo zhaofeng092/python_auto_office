@@ -8,8 +8,8 @@
 
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [如何用Python处理Excel？Pandas视频教程&官方文档来啦~](https://mp.weixin.qq.com/s/v8GdZ1YpVSy-bwRZyo2n1g) | 链接：[https://pan.baidu.com/s/1j15L7i1Uw1YfFHiL_PKlTQ](https://pan.baidu.com/s/1j15L7i1Uw1YfFHiL_PKlTQ) <br/>提取码：9bsg |
-|                                                              | [全套视频教程](https://www.bilibili.com/video/BV1hk4y1C73S)  |
+| [如何用Python处理Excel？Pandas视频教程&官方文档来啦~](https://mp.weixin.qq.com/s/v8GdZ1YpVSy-bwRZyo2n1g) | 《Pandas中文文档》<br/>链接：[https://pan.baidu.com/s/1j15L7i1Uw1YfFHiL_PKlTQ](https://pan.baidu.com/s/1j15L7i1Uw1YfFHiL_PKlTQ) <br/>提取码：9bsg |
+|                                                              | [点我查看：全套视频教程](https://www.bilibili.com/video/BV1hk4y1C73S)<br/>视频配套源代码，下载链接: https://pan.baidu.com/s/1ByKKo0NX9C_4kzWgD5DlCg <br/>提取码: r5h9 |
 
 > 直接复制打开百度云链接，进行下载即可~
 >
