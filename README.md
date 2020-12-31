@@ -40,8 +40,8 @@
 
 | 视频                                          | 综合                                            | IT                                                           | 生活                                     |
 | --------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
-| 🚗 [B站](https://space.bilibili.com/259649365) | [知乎](https://www.zhihu.com/people/a-fei-2020) | [csdn](https://blog.csdn.net/weixin_42321517)、[简书](https://www.jianshu.com/u/b84b890b3431) | ⛳ [微博](https://weibo.com/u/7411061007) |
-| [A站](https://www.acfun.cn/u/35901274)        | 🚀 [公众号](http://t.cn/A6Gkrbzw)                | [oschina](https://my.oschina.net/u/3888978)、[github](https://github.com/zhaofeng092/python_auto_office) | 📲 我的邮箱：1529577833@qq.com            |
+| 🚗 [B站](https://space.bilibili.com/259649365) | [知乎](https://www.zhihu.com/people/a-fei-2020) | [开源中国](https://my.oschina.net/u/3888978)、[简书](https://www.jianshu.com/u/b84b890b3431)、[掘金](https://juejin.cn/user/87612266651021) | ⛳ [微博](https://weibo.com/u/7411061007) |
+| [A站](https://www.acfun.cn/u/35901274)        | 🚀 [公众号](http://t.cn/A6Gkrbzw)                | [CSDN](https://blog.csdn.net/weixin_42321517)、[Github](https://github.com/zhaofeng092/python_auto_office)、[Gitee](https://gitee.com/zhaofeng092/python_auto_office) | 📲 我的邮箱：1529577833@qq.com            |
 
 
 
