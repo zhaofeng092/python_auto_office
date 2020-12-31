@@ -10,7 +10,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [文章：买到回家的火车票了吗？用Python免费在12306刷票，还不快来试试~](https://mp.weixin.qq.com/s/nkjJ3F-kAt1uCWD9Fp41yg) | 链接：[https://pan.baidu.com/s/1nfCZBiGWv3lk6sRYKk4heQ](https://pan.baidu.com/s/1nfCZBiGWv3lk6sRYKk4heQ) <br/>提取码：g9u0 <br/> |
 | 部署上面的代码之前，建议你先听听右侧入门教程，把Python和PyCharm安装一下 | [Python&PyCharm的下载、安装、使用、进阶](https://www.bilibili.com/video/BV1sy4y1q7zH) |
-| [视频：另外，除了以上代码以外，这里还附赠了一个给小白的免费抢票软件（视频教程），黑科技~！感兴趣可点](https://www.bilibili.com/video/BV13Z4y137BA) |                                                              |
+| [视频：另外，除了以上代码以外，这里还附赠了一个给小白的免费抢票软件（视频教程），黑科技~！感兴趣可点](https://www.bilibili.com/video/BV13Z4y137BA) | 🚋左侧软件，和上面的Python代码无关。如果不懂技术，只看左侧视频就可以~ |
 
 
 
