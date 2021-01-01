@@ -1,0 +1,25 @@
+# [【超详细】EXCEL数据分析（分析、公式、函数、可视化）](https://www.bilibili.com/video/BV195411t7vN)
+
+
+
+
+# → 资源获取
+
+
+
+| 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [【超详细】EXCEL数据分析（分析、公式、函数、可视化）](https://www.bilibili.com/video/BV195411t7vN) | [https://mp.weixin.qq.com/s/3K3336PBvIS1y0tdF46vZw](https://mp.weixin.qq.com/s/3K3336PBvIS1y0tdF46vZw) |
+| 备注：                                                       | 朋友们，一定要认真看文中介绍啊，这个51套模板包含并且超过，课程中的所有知识点。<br/>东西是好东西，但不是老师课上使用的课件原件是更丰富的内容 |
+| 更多Excel自动化&数据分析教程                                 | [传送门](https://blog.csdn.net/weixin_42321517/article/details/111885246) |
+
+> 直接复制打开百度云链接，进行下载即可~
+>
+> 如果对资源有疑问，请加入🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA) 联系群主解决~
+
+
+
+## → 🚀社区资源仓库&社区交流群：
+
+<img src="https://img-blog.csdnimg.cn/20201231105911656.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="csdn资源仓库" style="zoom:50%;" />
+<img src="https://img-blog.csdnimg.cn/20201230181619243.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="group" style="zoom: 50%;" />
