@@ -1,10 +1,3 @@
-这里是法学院毕业的Python程序员兆锋，这里有我的🚀[全部资源仓库](https://gitee.com/zhaofeng092/python_auto_office)，欢迎大家交流使用~
-
-| 🎯  [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [我的公众号](http://t.cn/A6Gkrbzw)   |  🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)   |
-| ---- | ---- | ---- |
-
-
-
 # → 资源获取
 
 > 直接复制打开百度云链接，进行下载即可~
