@@ -9,6 +9,7 @@
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [内幕 \| 报价上万的大屏数据可视化，成本只有10分钟？](https://www.bilibili.com/video/BV1Kz4y1r76w) | 链接：https://pan.baidu.com/s/1yOtoyXSmmYa4PWmS_CLutQ <br/>提取码：4plr <br/> |
+| UP推荐：数据分析与可视化精讲                                 | [数据分析与可视化精讲](https://mp.weixin.qq.com/s/uz0PgHj9O-yTf4mXZN21EA) |
 | 🔥更多：数据分析&数据可视化课程                               | [传送门](https://mp.weixin.qq.com/s/rJVy8DLIdqdyjMPY1SHpag)  |
 
 > 直接复制打开百度云链接，进行下载即可~
