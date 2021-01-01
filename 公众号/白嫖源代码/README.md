@@ -6,9 +6,9 @@
 
 请把所需资源名称，写在下面链接的留言板里，我看到后第一时间回复：
 
-[l链接在这里，点我直达~](https://mp.weixin.qq.com/s/xIiawqD6X2u1ei4zk7_JNw)
+[链接在这里，点我直达~](https://mp.weixin.qq.com/s/xIiawqD6X2u1ei4zk7_JNw)
 
-我会努力发布更多有用的学习资料~爱你哟~
+可以点赞文章鼓励哦~我会努力发布更多有用的学习资料~爱你哟~
 
 
 
