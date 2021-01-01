@@ -5,7 +5,7 @@
 需要进群的同学，看这里~
 学习群，请按需加入：
 
- 1、普通群（课程更新、活动通知）：[http://t.cn/A6qInZ2c ](http://t.cn/A6qInZ2c  )  
+ 1、通用群（课程更新、活动通知）：[http://t.cn/A6qInZ2c ](http://t.cn/A6qInZ2c  )  
 
  2、粉丝群（资料分享、同学交流）：[http://t.cn/A6bs6zyd](http://t.cn/A6bs6zyd)
 
