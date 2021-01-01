@@ -71,6 +71,10 @@
 
   - [你以为打上马赛克就安全了吗？用Python一键还原，了解一下？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247487609&idx=1&sn=3b6adaf948b4480dc0cd76afcd044248&chksm=eaf6b14cdd81385a91d0db36243aae7df096816a376acc9632e1e6483e197ed2b555ca748bde#rd)
 
+  - [成为一名优秀程序员的101个小建议](https://mp.weixin.qq.com/s/FgX-p3pF-_e3e9ZBjM3nEQ)
+  
+    
+  
   
 
 ### ②Excel专项
@@ -120,7 +124,7 @@
 
 
 
-### ⑥心理分析
+### ⑥[心理分析](https://mp.weixin.qq.com/s/SaCpaqbsOp2AU6f7F4MqgA)
 
 - 👉[武志红：成为你自己（2020 · 全90讲）](https://www.bilibili.com/video/BV1mi4y1j7DF)
 - [荣格心理分析入门：认识你自己【全】](https://www.acfun.cn/v/ac20499334)
@@ -133,6 +137,11 @@
 - 🔨[Vue高度还原饿了么APP（完结 · 附源码）](https://www.acfun.cn/v/ac21081272)
 - [别说程序员不懂浪漫，用代码一样可以花式表白~](https://www.bilibili.com/video/BV1zi4y1V73n)
 - [用上这12个Chrome扩展功能，每年省出1个年假的时间~](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247487179&idx=1&sn=2246bc53f52d738001538d9ffff9a14a&chksm=eaf6affedd8126e85f389c4e9fcd1ba0b6a5f07364ec786bfc7e82c1e8ef4ec003e56484e56f#rd)
+- [用代码写了一段银河](https://mp.weixin.qq.com/s/ySzv7ychUjof0lhFjSjS7w)
+- [早知道这些查询数据的API，我还学什么爬虫啊.doc](https://mp.weixin.qq.com/s/QFlh0OB-niHupylvTPC24g)
+- [一个开源工具箱，帮你找出被偷走的个人数据~！](https://mp.weixin.qq.com/s/szHwiXrC6Xl1gsjEPm6APw)
+- [用 Python 修改微信（支付宝）运动步数，轻松 TOP1](https://mp.weixin.qq.com/s/hVR1NDcxc3sh6v6k4g1QZQ)
+- [自从我用了这 7 个神奇的办公软件，效率提高了，人也精神了](https://mp.weixin.qq.com/s/SaCpaqbsOp2AU6f7F4MqgA)
 
 
 
