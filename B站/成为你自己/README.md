@@ -7,7 +7,7 @@
 
 ## 心理测试的链接
 
-1. 🌟[潜在心理创伤测试](https://mp.weixin.qq.com/s/Sz5V7w3cW3q7CNipBSlFRQ)
+1. 🌟[潜在心理创伤测试](http://www.urlort.cn/2SIUm2)
 2. [童年阴影评估](https://mp.weixin.qq.com/s/4n32XlNOmGBebVwpF7NnHQ)
 3. [荣格经典八维认知功能测评](https://mp.weixin.qq.com/s/22PBzxlrsEyRNGoUbCVuaQ)
 
