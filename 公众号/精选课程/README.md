@@ -2,12 +2,13 @@
 
 
 
-| 课程链接                                                     | 推荐理由                                                     |
+| 课程链接                                                     | 备注                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [云原生微信小程序开发实战](http://mp.weixin.qq.com/s?__biz=MzUzNTc5NjA4NQ==&mid=2247488146&idx=1&sn=a6409f4dc90b36f98a1862729b3c4722&chksm=fa815288cdf6db9ebd2824fcda6efe229a57de2c12236bb5a4b16f560e8f94dc41e71573d6a3#rd) | [传送门](https://mp.weixin.qq.com/s/qv5qOaG9BOCZHleg9gXtQA)<br/>电子书网站，见文中第1个网站<br/>PDF万能转换，见文中第2个网站 |
-| 🐮温馨资源：                                                  |                                                              |
-| [用上这12个Chrome扩展功能，每年省出1个年假的时间~](https://mp.weixin.qq.com/s/adB8_C9SD_WZvNURu-wMfw) |                                                              |
-| [自从我用了这 7 个神奇的办公软件，效率提高了，人也精神了](https://mp.weixin.qq.com/s/SaCpaqbsOp2AU6f7F4MqgA) |                                                              |
+| [云原生微信小程序开发实战](http://mp.weixin.qq.com/s?__biz=MzUzNTc5NjA4NQ==&mid=2247488146&idx=1&sn=a6409f4dc90b36f98a1862729b3c4722&chksm=fa815288cdf6db9ebd2824fcda6efe229a57de2c12236bb5a4b16f560e8f94dc41e71573d6a3#rd) | 腾讯小程序团队自己出的课程，想学小程序的话，还能有比这更好的课程？ |
+|                                                              |                                                              |
+| [数据分析与可视化精讲](http://mp.weixin.qq.com/s?__biz=MzUzNTc5NjA4NQ==&mid=2247488146&idx=2&sn=56ed7204f84e19283bb930b07f69f5c4&chksm=fa815288cdf6db9e641a2e60cd92512445046aa89abfcf8ca0f0a632dda9b6d4613081de2921#rd) | 官网68，社区价格12                                           |
+| [7天带你搞定数据分析](http://mp.weixin.qq.com/s?__biz=MzUzNTc5NjA4NQ==&mid=2247488146&idx=3&sn=37f6583fae979c3959c37f93fb35d539&chksm=fa815288cdf6db9e027204e40ec0ed128ec8ef16b8c406f1045bac71a0f5ffa3e5f7e4a58a3c#rd) |                                                              |
+| [52讲轻松搞定网络爬虫](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247487228&idx=1&sn=88ad0b89155a9b2373113550feae0a6f&chksm=eaf6afc9dd8126df8aafcf60e868342c236afecb9bbd3312866e9fe381054c191ab34f2c4948#rd) | 站在程序员的角度评判，这是全网最好的爬虫课程                 |
 
 
 

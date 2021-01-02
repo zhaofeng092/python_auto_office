@@ -29,6 +29,7 @@
 | 帮我找到Python工作的，我用过最好的Python入门课       | 🆒[52讲轻松搞定网络爬虫](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow) | 如果你想学爬虫，听这一套足够了，不用听其它课程了。           |
 | 小程序，是目前仅次于Python的实用领域，而且入门极简单 | 🉑[腾讯官方：微信小程序开发](https://mp.weixin.qq.com/s/Zs9KrzSonUfKPU4JFgEFPg) | 这是腾讯小程序团队自己出的课程，想学小程序的话，还有比这更好的课吗？没了吧~ |
 | 我的原创自动化办公教程，配套资料齐全                 | 🏆[Python自动化办公精讲](https://www.bilibili.com/video/BV12K411N7nx) | 2020年8月-12月，播放量超过10万                               |
+| 找到自己的优势，再努力，会走的更快~你说呢？          | 🏃[职业优势测试](https://mp.weixin.qq.com/s/OKQYnpnnSmUyl33-WVak3g) | 比起弥补缺点，我更支持巩固优点。                             |
 
 
 
