@@ -121,6 +121,7 @@
 - [部署机器人](https://mp.weixin.qq.com/s/xT3TSZTPH4O7uDMuJBElgw)(以下两家性能无差别)：
   - [阿里云（市场占有率高）](http://t.cn/A6qV0C42)
   - [腾讯云（方便在微信操作）](https://curl.qcloud.com/HBu2xulk)
+- [Django：机器人如何部署在服务器上？](https://www.bilibili.com/video/BV1t54y127y3)
 
 
 
