@@ -10,6 +10,8 @@
 | [7天带你搞定数据分析](http://mp.weixin.qq.com/s?__biz=MzUzNTc5NjA4NQ==&mid=2247488146&idx=3&sn=37f6583fae979c3959c37f93fb35d539&chksm=fa815288cdf6db9e027204e40ec0ed128ec8ef16b8c406f1045bac71a0f5ffa3e5f7e4a58a3c#rd) | 如果说当下有一种技能，是每个高级岗位必备的，那就是数据分析了。 |
 | [52讲轻松搞定网络爬虫](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247487228&idx=1&sn=88ad0b89155a9b2373113550feae0a6f&chksm=eaf6afc9dd8126df8aafcf60e868342c236afecb9bbd3312866e9fe381054c191ab34f2c4948#rd) | 站在程序员的角度评判，这是全网最好的爬虫课程                 |
 | 🏃[职业优势测试](https://mp.weixin.qq.com/s/OKQYnpnnSmUyl33-WVak3g) | 找到自己的优势，巩固优势，并用优势取胜，这个【田忌赛马】的故事，从上小学开始就明白。但是长大后，很多人却把时间花在寻找并改正自己的缺点上。我觉得这是一个悲哀。 |
+| [程序员的数学课](https://blog.csdn.net/weixin_42321517/article/details/112095703) | 中科院博士授课，不讲深奥理论，而是实用原理，不听听？         |
+| [跟着华为学管理](https://blog.csdn.net/weixin_42321517/article/details/112095694) | 顶级科技公司，是如何管理的？                                 |
 
 
 
