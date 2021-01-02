@@ -1,0 +1,1 @@
+<img src="D:\workplace\doc\自媒体\华为管理.jpg" alt="华为管理" style="zoom:50%;" />
