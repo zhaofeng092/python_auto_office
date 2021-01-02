@@ -1,0 +1,17 @@
+## → 社区交流群
+
+
+学习群，请按需加入：
+
+ 1、通用群（课程更新、活动通知）：http://t.cn/A6qInZ2c    
+
+ 2、粉丝群（资料分享、同学交流）：http://t.cn/A6bs6zyd
+
+3、答疑群（向我提问，有问必答）：http://t.cn/A6GD4tHx
+
+> 这里是法学院毕业的Python程序员兆锋，专注于：Python入门、自动化办公、知识变现。
+>
+> 🎯  [我的故事](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ) 
+
+## → 🚀社区资源仓库：
+<img src="https://img-blog.csdnimg.cn/20201231105911656.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="csdn资源仓库" style="zoom:50%;" />
