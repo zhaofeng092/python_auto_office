@@ -3,11 +3,11 @@
 
 学习群，请按需加入：
 
- 1、通用群（课程更新、活动通知）：http://t.cn/A6qInZ2c    
+ 1、通用群（课程更新、活动通知）：[http://t.cn/A6qInZ2c](http://t.cn/A6qInZ2c)  
 
- 2、粉丝群（资料分享、同学交流）：http://t.cn/A6bs6zyd
+ 2、粉丝群（资料分享、同学交流）：[http://t.cn/A6bs6zyd](http://t.cn/A6bs6zyd)
 
-3、答疑群（向我提问，有问必答）：http://t.cn/A6GD4tHx
+3、答疑群（向我提问，有问必答）：[http://t.cn/A6GD4tHx](http://t.cn/A6GD4tHx)
 
 > 这里是法学院毕业的Python程序员兆锋，专注于：Python入门、自动化办公、知识变现。
 >
