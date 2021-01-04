@@ -48,7 +48,7 @@
 
 - [Python爬虫案例实战（2020 · 周更）](https://www.bilibili.com/video/BV15E411P7ey?p=1)
 - [2020年Python爬虫全套课程（学完可做项目）](https://www.acfun.cn/v/ac20437401)
-- 🆒[52讲轻松搞定网络爬虫](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow)
+- 🆒[52讲轻松搞定网络爬虫](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow)：如果你想学爬虫，听这一套足够了，不用听其它课程了。
 
 
 
@@ -82,10 +82,18 @@
 
 
 
-### ⑥[心理分析](https://mp.weixin.qq.com/s/SaCpaqbsOp2AU6f7F4MqgA)
+### ⑥小程序开发
+
+- 🉑[腾讯官方：微信小程序开发](https://mp.weixin.qq.com/s/Zs9KrzSonUfKPU4JFgEFPg)：这是腾讯小程序团队自己出的课程，想学小程序的话，还有比这更好的课吗？
+- [纯干货！5小时搞定小程序开发~](https://www.bilibili.com/video/BV1Vp4y1k71p)
+
+
+
+### [心理分析](https://mp.weixin.qq.com/s/SaCpaqbsOp2AU6f7F4MqgA)
 
 - 👉[武志红：成为你自己（2020 · 全90讲）](https://www.bilibili.com/video/BV1mi4y1j7DF)
 - [荣格心理分析入门：认识你自己【全】](https://www.acfun.cn/v/ac20499334)
+- 🏃[职业优势测试](https://mp.weixin.qq.com/s/OKQYnpnnSmUyl33-WVak3g)：找到自己的优势，巩固优势，并用优势取胜，这个【田忌赛马】的故事，从上小学开始就明白。但是长大后，很多人却把时间花在寻找并改正自己的缺点上。我觉得这是一个悲哀。
 
 
 
@@ -104,15 +112,6 @@
 
 
 # 写在最后/交流合作/赞赏
-
-
-
-| 推荐理由                                             | 课程链接                                                     | 走心备注                                                     |
-| ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 帮我找到Python工作的，我用过最好的Python入门课       | 🆒[52讲轻松搞定网络爬虫](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow) | 如果你想学爬虫，听这一套足够了，不用听其它课程了。           |
-| 小程序，是目前仅次于Python的实用领域，而且入门极简单 | 🉑[腾讯官方：微信小程序开发](https://mp.weixin.qq.com/s/Zs9KrzSonUfKPU4JFgEFPg) | 这是腾讯小程序团队自己出的课程，想学小程序的话，还有比这更好的课吗？没了吧~ |
-| 我的原创自动化办公教程，配套资料齐全                 | 🏆[Python自动化办公精讲](https://www.bilibili.com/video/BV12K411N7nx) | 2020年8月-12月，播放量超过10万                               |
-| 找到自己的优势，再努力，会走的更快~你说呢？          | 🏃[职业优势测试](https://mp.weixin.qq.com/s/OKQYnpnnSmUyl33-WVak3g) | 找到自己的优势，巩固优势，并用优势取胜，这个【田忌赛马】的故事，从上小学开始就明白。但是长大后，很多人却把时间花在寻找并改正自己的缺点上。我觉得这是一个悲哀。 |
 
 
 
