@@ -1,74 +1,11 @@
 <div align="center">
-    <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/badge/online/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB?icon=sourcegraph&color=4ab8a1"></a>
+    <a href="https://gitee.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/badge/online/%E5%9B%BD%E5%86%85%E7%94%A8%E6%88%B7?icon=sourcegraph&color=red"></a>
     <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/github/stars/zhaofeng092/python_auto_office?icon=github&color=4ab8a1"></a>
-    <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/github/forks/zhaofeng092/python_auto_office?icon=github&color=4ab8a1"></a>
-    <a href="assets/download.md"> <img src="https://badgen.net/badge/%e5%85%ac%e4%bc%97%e5%8f%b7/Python?icon=rss&color=4ab8a1"></a>
+    <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/github/forks/zhaofeng092/python_auto_office?icon=github&color=orange"></a>
+    <a href="http://t.cn/A6Gkrbzw"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
+    <a href="https://space.bilibili.com/259649365"> <img src="https://badgen.net/badge/pick/B%E7%AB%99?icon=dependabot&color=blue"></a>
+    <a href="https://weibo.com/u/7411061007"> <img src="https://badgen.net/badge/sina/%E5%BE%AE%E5%8D%9A?icon=wiki&color=yellow"></a>
 </div>
-
-
-
-
-# Python自动化办公社区的资源仓库
-
-| 更新版本 | 编辑                    | 更新时间   | 备注              |
-| -------- | ----------------------- | ---------- | ----------------- |
-| v2.0     | [兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ) | 2021-1-2   | 资源分类+课程推荐 |
-| v1.0     | [兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ) | 2020-12-29 | 资源汇总          |
-
-
-
-> 📱我们的Python自动化办公社区共有10+个平台账号（[B站](https://space.bilibili.com/259649365)、 [公众号](http://t.cn/A6Gkrbzw)、 [微博](https://weibo.com/u/7411061007)、[CSDN](https://blog.csdn.net/weixin_42321517)，等等），
->
-> 微信🈲禁止添加外部超链接，为了方便大家查看，特将资源汇总于此~
-
-
-> 下拉可查看全部资源，点击关注，即可展开全文哦~💖
-
-
-
-[TOC]
-
-
-
-# 0、写在前面
-
-# 
-
-
-这里是法学院毕业的Python程序员兆锋，这里有我的🚀[全部资源仓库](https://gitee.com/zhaofeng092/python_auto_office)，
-
-下面内容，根据资源种类不同，进行了分类，请大家按需获取使用~
-
-| 🎯  [关于作者](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [社区公众号](http://t.cn/A6Gkrbzw)   |  🚸 [社区交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)   |
-| ---- | ---- | ---- |
-
-> 首先推荐3套经典的学习课程，在各自领域都是排名第一的课程哦~
-
-| 推荐理由                                             | 课程链接                                                     | 走心备注                                                     |
-| ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 帮我找到Python工作的，我用过最好的Python入门课       | 🆒[52讲轻松搞定网络爬虫](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow) | 如果你想学爬虫，听这一套足够了，不用听其它课程了。           |
-| 小程序，是目前仅次于Python的实用领域，而且入门极简单 | 🉑[腾讯官方：微信小程序开发](https://mp.weixin.qq.com/s/Zs9KrzSonUfKPU4JFgEFPg) | 这是腾讯小程序团队自己出的课程，想学小程序的话，还有比这更好的课吗？没了吧~ |
-| 我的原创自动化办公教程，配套资料齐全                 | 🏆[Python自动化办公精讲](https://www.bilibili.com/video/BV12K411N7nx) | 2020年8月-12月，播放量超过10万                               |
-| 找到自己的优势，再努力，会走的更快~你说呢？          | 🏃[职业优势测试](https://mp.weixin.qq.com/s/OKQYnpnnSmUyl33-WVak3g) | 找到自己的优势，巩固优势，并用优势取胜，这个【田忌赛马】的故事，从上小学开始就明白。但是长大后，很多人却把时间花在寻找并改正自己的缺点上。我觉得这是一个悲哀。 |
-
-
-
-# 1、资源汇总-按平台分类
-
-
-
-> 这种方式获取全面，优先查看[B站](https://space.bilibili.com/259649365)和 [公众号](http://t.cn/A6Gkrbzw)，宝藏内容在[A站](https://www.acfun.cn/u/35901274)和[CSDN](https://blog.csdn.net/weixin_42321517)
-
-| 视频                                          | 综合                                            | IT                                                           | 生活                                     |
-| --------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
-| 🚗 [B站](https://space.bilibili.com/259649365) | [知乎](https://www.zhihu.com/people/a-fei-2020) | [开源中国](https://my.oschina.net/u/3888978)、[简书](https://www.jianshu.com/u/b84b890b3431)、[掘金](https://juejin.cn/user/87612266651021) | ⛳ [微博](https://weibo.com/u/7411061007) |
-| [A站](https://www.acfun.cn/u/35901274)        | 🚀 [公众号](http://t.cn/A6Gkrbzw)                | [CSDN](https://blog.csdn.net/weixin_42321517)、[Github](https://github.com/zhaofeng092/python_auto_office)、[Gitee](https://gitee.com/zhaofeng092/python_auto_office) | 📲 我的邮箱：1529577833@qq.com            |
-
-
-
-# 2、资源汇总-按功能分类
-
-> 这种方式不全部罗列，只列举[高赞/高收藏/高阅读](http://t.cn/A6Gkrbzw)内容，如需探索更多，请点击上方平台
 
 ### ①Python入门&自动化办公
 
@@ -96,7 +33,6 @@
   
     
   
-  
 
 ### ②Excel专项
 
@@ -104,7 +40,7 @@
 - [【超详细】EXCEL数据分析（分析、公式、函数、可视化）](https://www.bilibili.com/video/BV195411t7vN)
 - 👉[Excel高效学习班（完结 · 附资料）](https://www.acfun.cn/v/ac21081575)
 - [Excel从入门到精通（最新，Excel2019版，附资料）](https://mp.weixin.qq.com/s/a7sV6d-UfIqSYxxgyTr_8A)
-- 推荐教材《Office2019 办公应用三合一（Word Excel PPT）》，复制到淘宝打开：8.0￥59M0cqiSDTj￥
+- [Excel自动化办公推荐教材](https://gitee.com/zhaofeng092/python_auto_office/blob/master/B%E7%AB%99/%E3%80%90%E8%B6%85%E8%AF%A6%E7%BB%86%E3%80%91EXCEL%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/book.md)
 
 
 
@@ -167,9 +103,20 @@
 
 
 
-# 3、写在最后/交流合作/赞赏
+# 写在最后/交流合作/赞赏
 
-资料有很多了，只有付出时间和行动去学习和练习，才能真正地学以致用。
+
+
+| 推荐理由                                             | 课程链接                                                     | 走心备注                                                     |
+| ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 帮我找到Python工作的，我用过最好的Python入门课       | 🆒[52讲轻松搞定网络爬虫](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow) | 如果你想学爬虫，听这一套足够了，不用听其它课程了。           |
+| 小程序，是目前仅次于Python的实用领域，而且入门极简单 | 🉑[腾讯官方：微信小程序开发](https://mp.weixin.qq.com/s/Zs9KrzSonUfKPU4JFgEFPg) | 这是腾讯小程序团队自己出的课程，想学小程序的话，还有比这更好的课吗？没了吧~ |
+| 我的原创自动化办公教程，配套资料齐全                 | 🏆[Python自动化办公精讲](https://www.bilibili.com/video/BV12K411N7nx) | 2020年8月-12月，播放量超过10万                               |
+| 找到自己的优势，再努力，会走的更快~你说呢？          | 🏃[职业优势测试](https://mp.weixin.qq.com/s/OKQYnpnnSmUyl33-WVak3g) | 找到自己的优势，巩固优势，并用优势取胜，这个【田忌赛马】的故事，从上小学开始就明白。但是长大后，很多人却把时间花在寻找并改正自己的缺点上。我觉得这是一个悲哀。 |
+
+
+
+资料有很多，只有付出时间和行动去学习和练习，才能真正地学以致用。
 
 从法学院毕业后选择了程序员这一行的时候，我是全凭热爱；但是我也渐渐发现热爱没法当饭吃。🎯  [关于我](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ) 
 
