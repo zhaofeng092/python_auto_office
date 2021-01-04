@@ -7,6 +7,13 @@
     <a href="https://weibo.com/u/7411061007"> <img src="https://badgen.net/badge/sina/%E5%BE%AE%E5%8D%9A?icon=wiki&color=yellow"></a>
 </div>
 
+
+> 点击目录，自动跳转
+
+[TOC]
+
+
+
 ### ①Python入门&自动化办公
 
 - 视频
@@ -89,7 +96,7 @@
 
 
 
-### [心理分析](https://mp.weixin.qq.com/s/SaCpaqbsOp2AU6f7F4MqgA)
+### ⑦心理分析
 
 - 👉[武志红：成为你自己（2020 · 全90讲）](https://www.bilibili.com/video/BV1mi4y1j7DF)
 - [荣格心理分析入门：认识你自己【全】](https://www.acfun.cn/v/ac20499334)
@@ -97,7 +104,7 @@
 
 
 
-### ⑦更多精彩
+### 待分类
 
 - [Google工程师：TensorFlow2.0入门到进阶](https://www.acfun.cn/v/ac18888954)
 - 🔨[Vue高度还原饿了么APP（完结 · 附源码）](https://www.acfun.cn/v/ac21081272)
@@ -111,7 +118,7 @@
 
 
 
-# 写在最后/交流合作/赞赏
+### 写在最后
 
 
 
