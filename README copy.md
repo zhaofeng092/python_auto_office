@@ -11,7 +11,7 @@
 
 | Python入门&nbsp; | 自动化办公 | Excel专项&nbsp;|Python爬虫| &nbsp;数据分析&可视化&nbsp;&nbsp;|&nbsp;微信机器人&nbsp;&nbsp;|心理分析| &nbsp;&nbsp;更多精彩&nbsp;&nbsp; |社区平台| &nbsp;&nbsp;后记&nbsp;&nbsp; |
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
+| [:pencil2:](#pencil2-Python入门) | [:computer:](#computer-自动化办公) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
 
 
 
@@ -28,7 +28,7 @@
 - [算法](https://github.com/CyC2018/CS-Notes/blob/master/notes/算法%20-%20目录.md)
 - [字节跳动内推](assets/内推.md)
 
-## :computer: 操作系统
+## :computer: 自动化办公
 
 - [计算机操作系统](https://github.com/CyC2018/CS-Notes/blob/master/notes/计算机操作系统%20-%20目录.md)
 - [Linux](https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md)
