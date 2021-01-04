@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://gitee.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/badge/online/%E5%9B%BD%E5%86%85%E7%94%A8%E6%88%B7?icon=sourcegraph&color=red"></a>
+    <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/badge/Github/%E7%A8%8B%E5%BA%8F%E5%91%98?icon=github&color=red"></a>
     <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/github/stars/zhaofeng092/python_auto_office?icon=github&color=4ab8a1"></a>
     <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/github/forks/zhaofeng092/python_auto_office?icon=github&color=orange"></a>
     <a href="http://t.cn/A6Gkrbzw"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
@@ -8,7 +8,9 @@
 </div>
 
 
-> 点击目录，自动跳转
+- [ ] 我是程序员：请点击👆上方第一个红色按钮，进行star/fork即可~
+
+- [x] 我是编程小白：请点击👇下方目录，自动跳转~
 
 [TOC]
 
