@@ -10,7 +10,8 @@
 
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Python&PyCharm的下载、安装、使用、进阶](https://www.bilibili.com/video/BV1sy4y1q7zH) | 链接：[https://pan.baidu.com/s/1uXQIBZtqPu4tSAAAEDI2Gg](https://pan.baidu.com/s/1uXQIBZtqPu4tSAAAEDI2Gg)<br/> 提取码：h2vh |
+| [Python&PyCharm的下载、安装、使用、进阶](https://www.bilibili.com/video/BV1sy4y1q7zH) | 直播时文档的链接：[https://pan.baidu.com/s/1uXQIBZtqPu4tSAAAEDI2Gg](https://pan.baidu.com/s/1uXQIBZtqPu4tSAAAEDI2Gg)<br/> 提取码：h2vh |
+|                                                              | 获取直播时的福利：代码，请点击查看这个视频的简介：[https://www.bilibili.com/video/BV1y54y1i78U](https://www.bilibili.com/video/BV1y54y1i78U) |
 
 > 直接复制打开百度云链接，进行下载即可~
 >

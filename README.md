@@ -93,8 +93,8 @@
 
 ### ⑥小程序开发
 
-- 🉑[腾讯官方：微信小程序开发](https://mp.weixin.qq.com/s/Zs9KrzSonUfKPU4JFgEFPg)：这是腾讯小程序团队自己出的课程，想学小程序的话，还有比这更好的课吗？
-- [纯干货！5小时搞定小程序开发~](https://www.bilibili.com/video/BV1Vp4y1k71p)
+- 🉑[新视频：腾讯官方！微信小程序开发](https://mp.weixin.qq.com/s/Zs9KrzSonUfKPU4JFgEFPg)：这是腾讯小程序团队自己出的课程，想学小程序的话，还有比这更好的课吗？
+- [老视频：纯干货！5小时搞定小程序开发~](https://www.bilibili.com/video/BV1Vp4y1k71p)
 
 
 
@@ -103,6 +103,9 @@
 - 👉[武志红：成为你自己（2020 · 全90讲）](https://www.bilibili.com/video/BV1mi4y1j7DF)
 - [荣格心理分析入门：认识你自己【全】](https://www.acfun.cn/v/ac20499334)
 - 🏃[职业优势测试](https://mp.weixin.qq.com/s/OKQYnpnnSmUyl33-WVak3g)：找到自己的优势，巩固优势，并用优势取胜，这个【田忌赛马】的故事，从上小学开始就明白。但是长大后，很多人却把时间花在寻找并改正自己的缺点上。我觉得这是一个悲哀。
+- 🌟[潜在心理创伤测试](http://www.urlort.cn/2SIUm2)
+- [你延续着哪些来自童年的性格陷阱？](http://www.urlort.cn/2SIUK8)
+- [恋爱心理成熟度评估](http://www.urlort.cn/2SIV69)
 
 
 
