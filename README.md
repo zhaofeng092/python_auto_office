@@ -9,7 +9,7 @@
 
 - [ ] if 你是程序员：👆请点击上方第一个红色按钮，进行<a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/github/stars/zhaofeng092/python_auto_office?icon=github&color=4ab8a1"></a>/<a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/github/forks/zhaofeng092/python_auto_office?icon=github&color=orange"></a>即可~
 
-- [x] else 你是编程小白：👇请点击下方目录，自动跳转~💖随时更新，记得收藏/点赞哟~
+- [x] else 你是编程小白：👇请点击下方目录，自动跳转。💖随时更新，记得收藏/点赞哟~
 
 [TOC]
 
