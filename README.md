@@ -1,25 +1,13 @@
 <div align="center">
     <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/badge/Github/%E7%A8%8B%E5%BA%8F%E5%91%98?icon=github&color=red"></a>
-    <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/github/stars/zhaofeng092/python_auto_office?icon=github&color=4ab8a1"></a>
-    <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/github/forks/zhaofeng092/python_auto_office?icon=github&color=orange"></a>
     <a href="http://t.cn/A6Gkrbzw"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
     <a href="https://space.bilibili.com/259649365"> <img src="https://badgen.net/badge/pick/B%E7%AB%99?icon=dependabot&color=blue"></a>
     <a href="https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
 </div>
 
 
-| 🎯  [关于作者](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ) | 📚 [社区公众号](http://t.cn/A6Gkrbzw) | 🚸 [社区交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA) |
-| ------------------------------------------------------------ | ------------------------------------ | ------------------------------------------------------------ |
 
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-
-
-
-- [ ] if 你是程序员：👆请点击上方第一个红色按钮，进行star/fork即可~
+- [ ] if 你是程序员：👆请点击上方第一个红色按钮，进行<a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/github/stars/zhaofeng092/python_auto_office?icon=github&color=4ab8a1"></a>/<a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/github/forks/zhaofeng092/python_auto_office?icon=github&color=orange"></a>即可~
 
 - [x] else 你是编程小白：👇请点击下方目录，自动跳转~💖随时更新，记得收藏/点赞哟~
 
