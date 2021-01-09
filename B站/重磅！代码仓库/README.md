@@ -15,8 +15,8 @@
 
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [重要！GitHub的下载和使用教程~(附：开放我的社区全部资源仓库）](https://www.bilibili.com/video/BV1Ry4y1m7Ai) | [国外用户-点我查看：Github国外代码仓库](https://github.com/zhaofeng092/python_auto_office)（推荐） |
-|                                                              | [国内用户-点我查看：Gitee国内代码仓库](https://gitee.com/zhaofeng092/python_auto_office) |
+| [重要！GitHub的下载和使用教程~(附：开放我的社区全部资源仓库）](https://www.bilibili.com/video/BV1Ry4y1m7Ai) | [点我查看：Github国外代码仓库](https://github.com/zhaofeng092/python_auto_office)（程序员&国外用户，适用；国内非专业用户可能打不开） |
+| 备注：右侧代码仓库，请根据自己情况，点击查看→                | [点我查看：Gitee国内代码仓库](https://gitee.com/zhaofeng092/python_auto_office)（小白，适用；会和上面仓库，同步更新，两者择一即可） |
 
 > 直接点击打开链接，进行查看即可~
 >
