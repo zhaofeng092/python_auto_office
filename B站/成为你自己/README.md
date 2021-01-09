@@ -1,3 +1,9 @@
+<div align="center">
+    <a href="http://t.cn/A6Gkrbzw"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
+    <a href="https://space.bilibili.com/259649365"> <img src="https://badgen.net/badge/pick/B%E7%AB%99?icon=dependabot&color=blue"></a>
+    <a href="https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
+</div>
+
 ## 心理视频的链接
 
 1. 🔥[武志红《成为你自己》](https://www.bilibili.com/video/BV1mi4y1j7DF)
