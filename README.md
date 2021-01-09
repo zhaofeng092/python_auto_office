@@ -42,13 +42,16 @@
     
   
 
-### ②Excel专项
+### ②Excel、Word、PPT专项
 
 - 👉[Python自动化办公--Pandas玩转Excel（全30集）](https://www.bilibili.com/video/BV1hk4y1C73S)
 - [【超详细】EXCEL数据分析（分析、公式、函数、可视化）](https://www.bilibili.com/video/BV195411t7vN)
 - 👉[Excel高效学习班（完结 · 附资料）](https://www.acfun.cn/v/ac21081575)
 - [Excel从入门到精通（最新，Excel2019版，附资料）](https://mp.weixin.qq.com/s/a7sV6d-UfIqSYxxgyTr_8A)
 - [Excel自动化办公推荐教材](https://gitee.com/zhaofeng092/python_auto_office/blob/master/B%E7%AB%99/%E3%80%90%E8%B6%85%E8%AF%A6%E7%BB%86%E3%80%91EXCEL%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/book.md)
+- [88个你不知道的Word神技能：5秒搞定排版、算数、翻译、去水印、文档恢复，一套解决所有办公软件难题！](http://www.urlort.cn/2INdQ9)
+- [微软MOS专家教你：学完这8堂课，普通人也能快速高效做出高质量PPT](http://www.urlort.cn/2TcFXb)
+- [微软OFFICE讲师：实用有趣的Excel课，轻松搞定各种表格，让你工作更高效](http://www.urlort.cn/2TcG46)
 
 
 
