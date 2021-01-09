@@ -6,7 +6,7 @@
 
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [【福利】10本Python入门到进阶的电子书，15套Python视频教程~](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ) | 链接：[https://pan.baidu.com/s/1YOEKwvr4hvCacwmHbgqirQ](https://pan.baidu.com/s/1YOEKwvr4hvCacwmHbgqirQ) <br/>提取码：yfug <br/> |
+| [【福利】10本Python入门到进阶的电子书，15套Python视频教程~](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ) | [https://mp.weixin.qq.com/s/OlHsJIKftDzH2xYBkJOjNg](https://mp.weixin.qq.com/s/OlHsJIKftDzH2xYBkJOjNg) |
 
 > 直接点击打开百度云链接，进行下载即可~
 >
