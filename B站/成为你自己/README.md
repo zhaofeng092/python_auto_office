@@ -23,6 +23,15 @@
 
 👉关注公众号：Python自动化办公社区，在后台发送：**心理分析**，即可加入群聊~
 
+
+
+## → 🚀社区资源仓库&社区交流群：
+
+##### 📚知识星球
+
+<img src="https://img-blog.csdnimg.cn/20210109190431333.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" style="zoom: 80%;" />
+
+
 ##### 📱社区资源仓库
 
 <img src="https://img-blog.csdnimg.cn/20201231105911656.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="csdn资源仓库" style="zoom:50%;" />
@@ -30,9 +39,6 @@
 ##### 🆗社区交流群
 
 <img src="https://img-blog.csdnimg.cn/20210102004119705.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="交流群" style="zoom:50%;" />
-
-
-
 
 
 
