@@ -1,3 +1,10 @@
+<div align="center">
+    <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/badge/Github/%E7%A8%8B%E5%BA%8F%E5%91%98?icon=github&color=red"></a>
+    <a href="http://t.cn/A6Gkrbzw"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
+    <a href="https://space.bilibili.com/259649365"> <img src="https://badgen.net/badge/pick/B%E7%AB%99?icon=dependabot&color=blue"></a>
+    <a href="https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
+</div>
+
 # Python 资源大全中文版 
 
 [awesome-python](https://github.com/vinta/awesome-python) 是 vinta 发起维护的 Python 资源列表，内容包括：Web 框架、网络爬虫、网络内容提取、模板引擎、数据库、数据可视化、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析等。由「开源前哨」和「Python开发者」微信公号团队维护更新。

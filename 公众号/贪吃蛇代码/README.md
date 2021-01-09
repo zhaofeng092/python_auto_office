@@ -1,4 +1,9 @@
-
+<div align="center">
+    <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/badge/Github/%E7%A8%8B%E5%BA%8F%E5%91%98?icon=github&color=red"></a>
+    <a href="http://t.cn/A6Gkrbzw"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
+    <a href="https://space.bilibili.com/259649365"> <img src="https://badgen.net/badge/pick/B%E7%AB%99?icon=dependabot&color=blue"></a>
+    <a href="https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
+</div>
 
 # [玩过自己开发的贪吃蛇吗？点这里，教你用Python写一个贪吃蛇小游戏！（附源代码）](https://mp.weixin.qq.com/s/Cd1iDcZq9nKxk-mV8phTpA)
 
