@@ -80,6 +80,9 @@
 
 ### ⑤聊天机器人&微信机器人
 
+- [我是如何通过微信机器人，实现自动回复的？](https://www.bilibili.com/video/BV1Q64y1Z7TB)
+- [机器人的软件和源代码](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E6%9C%BA%E5%99%A8%E4%BA%BA.md)
+
 - [腾讯AI聊天机器人源代码，复制粘贴就能聊](https://mp.weixin.qq.com/s/8ZdQtc2zlkUVG_g8__RlJA)
 - 💖[彩虹屁机器人 · 源代码](https://mp.weixin.qq.com/s/KarWOWBxpx2x6V02K2sPHQ)
 - [彩虹屁机器人 + AI · 全套教程](http://t.cn/A6qaFUZw)
