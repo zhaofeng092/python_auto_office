@@ -3,7 +3,7 @@
     <a href="http://t.cn/A6Gkrbzw"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
     <a href="https://space.bilibili.com/259649365"> <img src="https://badgen.net/badge/pick/B%E7%AB%99?icon=dependabot&color=blue"></a>
     <a href="https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
-    </div>
+</div>
 
 
 往日回顾：[内幕 | 报价上万的大屏数据可视化，成本只有10分钟？（附18套可视化模板）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247487795&idx=1&sn=2c5c03e79779e5c3771c6907fb86ef75&chksm=eaf6b006dd81391003d372e4d73447b01e296655222564d8e262ee36c5b7a146c02ed2d8ea0e&scene=21#wechat_redirect)
