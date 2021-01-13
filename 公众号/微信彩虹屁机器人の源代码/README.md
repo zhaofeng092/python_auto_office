@@ -24,6 +24,30 @@
 
 
 
+# :radio: 微信机器人：软件和源代码、说明文档
+
+
+
+## 1、直接获取软件
+
+🍑[我是如何通过微信机器人，实现自动回复的？](https://www.bilibili.com/video/BV1Q64y1Z7TB)
+
+## 2、获取源代码
+
+- 🍒[机器人初始化](https://mp.weixin.qq.com/s/LlIH0Ldz3YDVpH3Enj-1ww)
+
+- 🍓[开启自动回复](https://mp.weixin.qq.com/s/KarWOWBxpx2x6V02K2sPHQ)
+
+- 🍅[增加人工智能](https://mp.weixin.qq.com/s/8ZdQtc2zlkUVG_g8__RlJA)
+
+- 🍊[接入你的设备](http://t.cn/A6qaFUZw)
+
+## 3、wxpy全套文档
+
+- [https://wxpy.readthedocs.io/zh/latest/](https://wxpy.readthedocs.io/zh/latest/)
+
+
+
 ## → 🚀社区资源仓库&社区交流群：
 
 ##### 📚知识星球
