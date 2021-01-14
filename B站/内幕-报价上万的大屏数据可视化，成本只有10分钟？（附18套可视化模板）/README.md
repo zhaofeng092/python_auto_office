@@ -17,6 +17,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [内幕 \| 报价上万的大屏数据可视化，成本只有10分钟？](https://www.bilibili.com/video/BV1Kz4y1r76w) | 百度云下载链接：[https://mp.weixin.qq.com/s/vrPNVhiMazI1ERLfcldb2g](https://mp.weixin.qq.com/s/vrPNVhiMazI1ERLfcldb2g) |
 |                                                              | UP推荐：🔥数据分析&数据可视化课程：[传送门](https://mp.weixin.qq.com/s/rJVy8DLIdqdyjMPY1SHpag) |
+|                                                              | [106本Python电子书：一网打尽全网Python学习资源~！](http://mp.weixin.qq.com/s?__biz=MzUzNTc5NjA4NQ==&mid=2247488524&idx=1&sn=1556474b8662b8497efa87a3fd116dc7&chksm=fa815416cdf6dd0005e672eeca0a99d7d9ca520c291d80abf32652acce4e0e91e23253b0d1b6#rd) |
 
 > 直接复制打开百度云链接，进行下载即可~
 >

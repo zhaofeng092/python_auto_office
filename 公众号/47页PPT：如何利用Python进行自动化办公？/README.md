@@ -16,6 +16,9 @@
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw) | [https://mp.weixin.qq.com/s/OpXj2hh2VnkPS0ccOl7tNQ](https://mp.weixin.qq.com/s/OpXj2hh2VnkPS0ccOl7tNQ) |
+|                                                              | 更多资源：                                                   |
+|                                                              | [106本Python电子书：一网打尽全网Python学习资源~！](http://mp.weixin.qq.com/s?__biz=MzUzNTc5NjA4NQ==&mid=2247488524&idx=1&sn=1556474b8662b8497efa87a3fd116dc7&chksm=fa815416cdf6dd0005e672eeca0a99d7d9ca520c291d80abf32652acce4e0e91e23253b0d1b6#rd) |
+|                                                              | UP推荐：🔥数据分析&数据可视化课程：[传送门](https://mp.weixin.qq.com/s/rJVy8DLIdqdyjMPY1SHpag) |
 
 > 直接点击打开百度云链接，进行下载即可~
 >
