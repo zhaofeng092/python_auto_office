@@ -3,6 +3,7 @@
     <a href="http://t.cn/A6Gkrbzw"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
     <a href="https://space.bilibili.com/259649365"> <img src="https://badgen.net/badge/pick/B%E7%AB%99?icon=dependabot&color=blue"></a>
     <a href="https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
+</div>
 
 往日回顾：**[Python必读好书，这9本份量十足~](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247486593&idx=1&sn=b4d9226cb02272ae014561692ff9fd0b&chksm=eaf6adb4dd8124a2af3525fb73e6dc6f7cc85b9c5bd5efce220c5a8f293d1b88352706828b05&scene=21#wechat_redirect)**
 
