@@ -7,7 +7,7 @@
 
 
 
-# [中文开源！豆瓣9.4分 《Python数据科学》PDF下载](http://mp.weixin.qq.com/s?__biz=MzUzNTc5NjA4NQ==&tempkey=MTA5Nl8rNCs3MGF6bjVyVE54OHlqdGtqY3VDaC1LSHc3c05ucUVqQnlybzMxSFR0M2ZyLVh2cUQ2ajAtZ0NfVzdsU0NYSXhrSlRYZEtBLWE5a0N2NlNfamdDMUo0b2JYZTBaR2tGZ05xX0lHSXBDNVNTWXdjZjkyYzdRRjN0bzBOck9SUWJDeExRX0V3Qlg4QmEzMHNkRGJvVVFTVGVlOElaYWRHeGVVV3J3fn4%3D&chksm=fa815427cdf6dd31a467fc01894d35e1f5a1f7f39c7e2e415e7edb7acaf2735c6e83cbc399d1&token=1734592402&lang=zh_CN#rd)
+# [中文开源！豆瓣9.4分 《Python数据科学》PDF下载](https://mp.weixin.qq.com/s/GuuWaXyzVcf3mD7P_b3ctg)
 
 
 
@@ -17,7 +17,7 @@
 
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [中文开源！豆瓣9.4分 《Python数据科学》PDF下载](http://mp.weixin.qq.com/s?__biz=MzUzNTc5NjA4NQ==&tempkey=MTA5Nl8rNCs3MGF6bjVyVE54OHlqdGtqY3VDaC1LSHc3c05ucUVqQnlybzMxSFR0M2ZyLVh2cUQ2ajAtZ0NfVzdsU0NYSXhrSlRYZEtBLWE5a0N2NlNfamdDMUo0b2JYZTBaR2tGZ05xX0lHSXBDNVNTWXdjZjkyYzdRRjN0bzBOck9SUWJDeExRX0V3Qlg4QmEzMHNkRGJvVVFTVGVlOElaYWRHeGVVV3J3fn4%3D&chksm=fa815427cdf6dd31a467fc01894d35e1f5a1f7f39c7e2e415e7edb7acaf2735c6e83cbc399d1&token=1734592402&lang=zh_CN#rd) | 百度云下载链接：<br/>链接：[https://pan.baidu.com/s/1FBbII0ULJ9RTSKeAzWmpGw](https://pan.baidu.com/s/1FBbII0ULJ9RTSKeAzWmpGw) <br/>提取码：in90 <br/> |
+| [中文开源！豆瓣9.4分 《Python数据科学》PDF下载](https://mp.weixin.qq.com/s/GuuWaXyzVcf3mD7P_b3ctg) | 百度云下载链接：<br/>链接：[https://pan.baidu.com/s/1FBbII0ULJ9RTSKeAzWmpGw](https://pan.baidu.com/s/1FBbII0ULJ9RTSKeAzWmpGw) <br/>提取码：in90 <br/> |
 |                                                              | UP推荐：🔥数据分析&数据可视化课程：[传送门](https://mp.weixin.qq.com/s/rJVy8DLIdqdyjMPY1SHpag) |
 
 > 直接复制打开百度云链接，进行下载即可~
