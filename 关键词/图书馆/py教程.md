@@ -7,7 +7,7 @@
 
 
 
-# [中文开源！豆瓣9.4分 《Python数据科学》PDF下载](https://mp.weixin.qq.com/s/GuuWaXyzVcf3mD7P_b3ctg)
+# [重磅 ！微软官方出了免费 Python 视频教程](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489780&idx=1&sn=ff00b3e4d5fed6edf1aea91425df2071&chksm=eaf6b9c1dd8130d70aba3251e09906232f430e015a7a7307b5a835efef9b62e38885175f482d&token=2042020719&lang=zh_CN#rd)
 
 
 
@@ -17,11 +17,12 @@
 
 | 资源介绍（点击直达）                                         | 资源下载（点击直达）                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [中文开源！豆瓣9.4分 《Python数据科学》PDF下载](https://mp.weixin.qq.com/s/GuuWaXyzVcf3mD7P_b3ctg) | 微软py教程：https://docs.microsoft.com/zh-cn/windows/python/ |
+| [重磅 ！微软官方出了免费 Python 视频教程](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489780&idx=1&sn=ff00b3e4d5fed6edf1aea91425df2071&chksm=eaf6b9c1dd8130d70aba3251e09906232f430e015a7a7307b5a835efef9b62e38885175f482d&token=2042020719&lang=zh_CN#rd) | 微软py教程：https://docs.microsoft.com/zh-cn/windows/python/ |
 |                                                              | 更多Python入门教程：                                         |
 |                                                              | 1、[Python和Excel选哪个？Python学到什么程度才能实战？学Python到底在学什么？](https://www.bilibili.com/video/BV19X4y1K7TG) |
 |                                                              | 2、[Python入门教程 · 23讲（生死看淡，不会就看）](https://www.bilibili.com/video/BV17p4y1i7Vn) |
 |                                                              | 3、🔥数据分析&数据可视化课程：[传送门](https://mp.weixin.qq.com/s/rJVy8DLIdqdyjMPY1SHpag) |
+|                                                              | 4、[Python · 资源仓库&学习指南](http://mp.weixin.qq.com/s?__biz=MzUzNTc5NjA4NQ==&mid=2247488186&idx=1&sn=7d685fc8669bbf0499e38f32fcb6dcec&chksm=fa8152a0cdf6dbb63a3797e05830293dd155a6321d2105ae4e841492b119e0d6b7186a951924#rd) |
 
 > 直接复制打开百度云链接，进行下载即可~
 >
