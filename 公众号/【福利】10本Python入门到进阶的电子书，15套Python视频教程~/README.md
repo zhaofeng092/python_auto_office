@@ -1,6 +1,13 @@
 # [【福利】10本Python入门到进阶的电子书，15套Python视频教程~](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ)
 
+必中，可叠加!
 
+淘宝年底的无门槛红包，1.30号前有效，最低0.66元，
+
+💰每天一次，复制到淘宝打开
+4.0￥RLv5cGyZZDH￥
+
+和双十一的超级红包一样，无门槛抵现
 
 # → 资源获取
 
