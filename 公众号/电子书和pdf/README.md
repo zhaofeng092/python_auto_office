@@ -16,7 +16,7 @@
 ### PDF编辑器：
 
 - 在线软件：[传送门](https://mp.weixin.qq.com/s/qv5qOaG9BOCZHleg9gXtQA) ，PDF万能转换，见文中第2个网站
-- 离线软件：[传送门](https://mp.weixin.qq.com/s/IsBRwdLA6tdeXXOnvRI5OA) ，获取方式，见文末二维码~~不要发错了公众号哦，亲。
+- 离线软件：[传送门](http://www.xitongtiandi.net/soft_yy/9942.html) ，限时删除，抓紧安装~
 
 
 
