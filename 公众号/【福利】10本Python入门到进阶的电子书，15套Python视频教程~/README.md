@@ -14,6 +14,7 @@
 
   - 10本书链接：[https://pan.baidu.com/s/1YOEKwvr4hvCacwmHbgqirQ](https://pan.baidu.com/s/1YOEKwvr4hvCacwmHbgqirQ)
   - 提取码：yfug
+  - 🔥[Python入门 · 合集](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E7%BE%A4%E8%81%8A/%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B/%E5%85%A5%E9%97%A8.md)
 
 
 
