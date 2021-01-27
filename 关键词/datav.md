@@ -6,13 +6,11 @@
 </div>
 
 
-
-
-
-
 - 📚资源介绍：[内幕 \| 报价上万的大屏数据可视化，成本只有10分钟？](https://www.bilibili.com/video/BV1Kz4y1r76w)
-
-- 🚀资源下载：[百度云-永久有效](https://mp.weixin.qq.com/s/vrPNVhiMazI1ERLfcldb2g)
+- 🚀资源下载
+  - 链接：[https://pan.baidu.com/s/1ts1ikrx39n1_X_5rO9AkCA](https://pan.baidu.com/s/1ts1ikrx39n1_X_5rO9AkCA)
+  - 提取码：90qb
+  - 更多🔥数据分析&数据可视化课程：[传送门](https://mp.weixin.qq.com/s/rJVy8DLIdqdyjMPY1SHpag)
 
 
 
