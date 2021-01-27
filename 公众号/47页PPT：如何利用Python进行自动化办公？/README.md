@@ -15,7 +15,7 @@
 
 
 
-- 🚸资源交流群：[进群](https://mp.weixin.qq.com/s/oLSUxE1RwTFK5iJFb-jFgQ) 
+- 🚸学习交流群：[进群](https://mp.weixin.qq.com/s/oLSUxE1RwTFK5iJFb-jFgQ) 
 - 📱社区资源合集：[合集](https://mp.weixin.qq.com/s/cgn4pmSt3NN9TlUGvWtMOA)
 
 <img src="https://img-blog.csdnimg.cn/20201231105911656.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="csdn资源仓库" style="zoom:50%;" />
