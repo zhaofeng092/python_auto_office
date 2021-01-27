@@ -20,27 +20,12 @@
 
 
 
-### 👉更多：[办公神器 · 合集](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E7%BE%A4%E8%81%8A/%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B/%E5%8A%9E%E5%85%AC%E7%A5%9E%E5%99%A8.md)
+### 👉更多：
 
-> (建议加入群聊：[交流群](https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ) ，每次更新资源，兆锋都会在群里通知哟~)
-
-
-
-## → 🚀
-
-
-
-
-##### 📱社区资源仓库
+- 🚸学习交流群：[进群](https://mp.weixin.qq.com/s/oLSUxE1RwTFK5iJFb-jFgQ) 
+- 📱社区资源合集：[合集](https://mp.weixin.qq.com/s/cgn4pmSt3NN9TlUGvWtMOA)
 
 <img src="https://img-blog.csdnimg.cn/20201231105911656.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="csdn资源仓库" style="zoom:50%;" />
 
-##### 🆗社区交流群
-
-<img src="https://img-blog.csdnimg.cn/20210102004119705.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="交流群" style="zoom:50%;" />
 
 
-
-##### 📚知识星球
-
-<img src="https://img-blog.csdnimg.cn/20210109190431333.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" style="zoom: 80%;" />
