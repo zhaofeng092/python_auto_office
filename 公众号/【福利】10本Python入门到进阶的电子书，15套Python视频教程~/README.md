@@ -10,8 +10,10 @@
 
 
 - 📚资源介绍：[【福利】10本Python入门到进阶的电子书，15套Python视频教程~](https://mp.weixin.qq.com/s/J4zNQ1heLmZyQBGremqbPQ)
+- 🚀资源下载：
 
-- 🚀资源下载：[https://mp.weixin.qq.com/s/OlHsJIKftDzH2xYBkJOjNg](https://mp.weixin.qq.com/s/OlHsJIKftDzH2xYBkJOjNg)
+  - 10本书链接：[https://pan.baidu.com/s/1YOEKwvr4hvCacwmHbgqirQ](https://pan.baidu.com/s/1YOEKwvr4hvCacwmHbgqirQ)
+  - 提取码：yfug
 
 
 

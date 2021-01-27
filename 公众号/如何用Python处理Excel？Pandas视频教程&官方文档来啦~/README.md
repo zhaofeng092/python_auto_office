@@ -12,7 +12,9 @@
 
 - 📚资源介绍：[如何用Python处理Excel实现自动化办公？视频教程&官方文档来啦~](https://mp.weixin.qq.com/s/v8GdZ1YpVSy-bwRZyo2n1g)
 - 🚀视频教程：[Pandas处理Excel30讲](https://www.bilibili.com/video/BV1hk4y1C73S)
-- ⛳文档下载：[Pandas中文文档](https://mp.weixin.qq.com/s/KUxWYDhOXt4f9sOh1zvWwA)
+- ⛳文档下载：
+  - 链接：[https://pan.baidu.com/s/1j15L7i1Uw1YfFHiL_PKlTQ](https://pan.baidu.com/s/1j15L7i1Uw1YfFHiL_PKlTQ) 
+  - 提取码：9bsg
 
 
 

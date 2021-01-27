@@ -10,8 +10,10 @@
 
 
 - 📚资源介绍：[47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw)
+- 🚀资源下载：
 
-- 🚀资源下载：[https://mp.weixin.qq.com/s/OpXj2hh2VnkPS0ccOl7tNQ](https://mp.weixin.qq.com/s/OpXj2hh2VnkPS0ccOl7tNQ)
+  - 链接：[https://pan.baidu.com/s/1M6K9pwWuNnXjP7PSQNYJjA](https://pan.baidu.com/s/1M6K9pwWuNnXjP7PSQNYJjA ) 
+  - 提取码：4123
 
 
 
