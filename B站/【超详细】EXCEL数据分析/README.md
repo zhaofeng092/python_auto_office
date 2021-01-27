@@ -8,7 +8,7 @@
 
 配套课件获取（免费）：
 
-1. 关注社区微博，微博名：Python自动化办公社区
+1. 关注社区微博，微博名：[Python自动化办公社区](https://weibo.com/u/7411061007)
 
 2. 转发该课程到微博，并@Python自动化办公社区：👉 [【超详细】EXCEL数据分析（分析、公式、函数、可视化）](https://www.bilibili.com/video/BV195411t7vN)
 
