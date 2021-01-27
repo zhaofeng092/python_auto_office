@@ -20,13 +20,13 @@
 
 
 
-### 更多：[办公神器 · 合集](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E7%BE%A4%E8%81%8A/%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B/%E5%8A%9E%E5%85%AC%E7%A5%9E%E5%99%A8.md)
+### 👉更多：[办公神器 · 合集](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E7%BE%A4%E8%81%8A/%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B/%E5%8A%9E%E5%85%AC%E7%A5%9E%E5%99%A8.md)
+
+> (建议加入群聊：[交流群](https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ) ，每次更新资源，兆锋都会在群里通知哟~)
 
 
 
-
-
-## → 🚀社区资源仓库&社区交流群：
+## → 🚀
 
 
 
