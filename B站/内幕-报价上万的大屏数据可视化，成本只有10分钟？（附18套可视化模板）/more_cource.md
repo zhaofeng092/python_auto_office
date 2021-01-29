@@ -2,15 +2,37 @@
 
 
 
-- 🔥[七周成为数据分析师](https://www.acfun.cn/v/ac19843284)
-- [Power BI教程_商业数据可视化](https://www.acfun.cn/v/ac19838235)
-- 🉑[数据分析和可视化精讲](http://t.cn/A6qlcSCV)
-- [掌握高效数据可视化技法（完结）](https://www.acfun.cn/v/ac20848856)
-- [内幕：报价上万的大屏数据可视化，成本只有10分钟？（附18套可视化模板）](https://www.bilibili.com/video/BV1Kz4y1r76w)
-- [手摸手搭建python数据可视化平台（2020 · 周更）](https://www.bilibili.com/video/BV1zi4y1t7YU)
-- ⭐[重磅 ！微软官方出了免费 Python 视频教程](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489780&idx=1&sn=ff00b3e4d5fed6edf1aea91425df2071&chksm=eaf6b9c1dd8130d70aba3251e09906232f430e015a7a7307b5a835efef9b62e38885175f482d#rd)
-- [数据分析，你应该具备的13个数据思维](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489601&idx=2&sn=e85439488bf98df090c2c9fd04aa38e9&chksm=eaf6b974dd813062e28723cbeb6aa1773092c190775781dbdc80c082911bf048a5afbf4b85a2#rd)
-- [全解析！9个处理Excel的Python库，到底哪个最好用？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489016&idx=1&sn=189adc7795cebc6e71543d6bbeebb735&chksm=eaf6b4cddd813ddb53f2db0e1e901e293569b2292179801dc73223799e5ea90d4dfe049b30a9#rd)
+> 本页为自动化办公 · 合集。
+>
+> 🎯另有：社区 · 全部资源👉 [点我直达](https://blog.csdn.net/weixin_42321517/article/details/113122547) 👈
+>
+> 有问必答的 [知识星球](https://mp.weixin.qq.com/s/PXNVFNsjAOgCmQ6QGalJPw)和 ✍️[交流群](https://mp.weixin.qq.com/s/CadAaJUTUlXmTxJAjFUfPQ)，见文末哟~
+
+
+
+- Python数据分析
+  - [全解析！9个处理Excel的Python库，到底哪个最好用？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489016&idx=1&sn=189adc7795cebc6e71543d6bbeebb735&chksm=eaf6b4cddd813ddb53f2db0e1e901e293569b2292179801dc73223799e5ea90d4dfe049b30a9#rd)
+  - [手摸手搭建python数据可视化平台（2020 · 周更）](https://www.bilibili.com/video/BV1zi4y1t7YU)
+
+
+
+- 各行业通用的数据分析（非Python）
+
+    - 🔥[七周成为数据分析师](https://www.acfun.cn/v/ac19843284)
+    - [Power BI教程_商业数据可视化](https://www.acfun.cn/v/ac19838235)
+    - 🉑[掌握高效数据可视化技法（完结）](https://www.acfun.cn/v/ac20848856)
+    - [数据分析，你应该具备的13个数据思维](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489601&idx=2&sn=e85439488bf98df090c2c9fd04aa38e9&chksm=eaf6b974dd813062e28723cbeb6aa1773092c190775781dbdc80c082911bf048a5afbf4b85a2#rd)
+
+
+
+- 数据可视化
+    - [内幕：报价上万的大屏数据可视化，成本只有10分钟？（附18套可视化模板）](https://www.bilibili.com/video/BV1Kz4y1r76w)
+    - ⭐[重磅 ！微软官方出了免费 Python 视频教程](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489780&idx=1&sn=ff00b3e4d5fed6edf1aea91425df2071&chksm=eaf6b9c1dd8130d70aba3251e09906232f430e015a7a7307b5a835efef9b62e38885175f482d#rd)
+    - [0基础快速入门数据可视化（完结）](https://www.bilibili.com/video/BV19z4y167Tb)
+    - [Python可视化库-Matplotlib](https://www.bilibili.com/video/BV1hZ4y1V7mU)
+    - [Python可视化库Seaborn](https://www.bilibili.com/video/BV1dy4y1z71q)
+
+
 
 
 
