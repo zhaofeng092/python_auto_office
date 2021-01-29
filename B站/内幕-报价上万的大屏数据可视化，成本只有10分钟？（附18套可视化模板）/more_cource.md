@@ -11,8 +11,10 @@
 
 
 - Python数据分析
+  - [278页PDF：《Python数据分析基础》，0基础入门专用~](https://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489987&idx=3&sn=f3147773c995dd939a9dcf114d074b23&chksm=eaf6b8f6dd8131e0bcb562e20e58ad8c7a0b3fb286c94a65b80af2918009ac2f0e90d4ecd3b4&token=1256110927&lang=zh_CN#rd)
   - [全解析！9个处理Excel的Python库，到底哪个最好用？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489016&idx=1&sn=189adc7795cebc6e71543d6bbeebb735&chksm=eaf6b4cddd813ddb53f2db0e1e901e293569b2292179801dc73223799e5ea90d4dfe049b30a9#rd)
-  - [手摸手搭建python数据可视化平台（2020 · 周更）](https://www.bilibili.com/video/BV1zi4y1t7YU)
+  - 
+  - [Python金融数据分析高级训练营（完结）](https://www.bilibili.com/video/BV1Ut4y1i7wS)
 
 
 
@@ -22,6 +24,7 @@
     - [Power BI教程_商业数据可视化](https://www.acfun.cn/v/ac19838235)
     - 🉑[掌握高效数据可视化技法（完结）](https://www.acfun.cn/v/ac20848856)
     - [数据分析，你应该具备的13个数据思维](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489601&idx=2&sn=e85439488bf98df090c2c9fd04aa38e9&chksm=eaf6b974dd813062e28723cbeb6aa1773092c190775781dbdc80c082911bf048a5afbf4b85a2#rd)
+    - [【互联网人】反复强调的数据思维，到底是什么？](https://www.bilibili.com/video/BV1Nf4y1q7NC)
 
 
 
@@ -31,6 +34,9 @@
     - [0基础快速入门数据可视化（完结）](https://www.bilibili.com/video/BV19z4y167Tb)
     - [Python可视化库-Matplotlib](https://www.bilibili.com/video/BV1hZ4y1V7mU)
     - [Python可视化库Seaborn](https://www.bilibili.com/video/BV1dy4y1z71q)
+    - [手摸手搭建python数据可视化平台（2020 · 周更）](https://www.bilibili.com/video/BV1zi4y1t7YU)
+
+
 
 
 
