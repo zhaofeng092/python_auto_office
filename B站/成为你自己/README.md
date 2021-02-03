@@ -18,11 +18,16 @@
     - [童年阴影评估](http://www.urlort.cn/2Qbuge)
 
 
+
+
 - 爱的能力：
     - [恋爱心理成熟度评估](http://www.urlort.cn/2SIV69)
     - 👬[面对伴侣，你是哪种依恋类型？](http://www.urlort.cn/2UJuC7)
     - [异性魅力评估](http://www.urlort.cn/2UJv93)
     
+
+
+
 
 - 面对生活：
     - [气质类型评估](http://www.urlort.cn/2UJvh8)
@@ -33,20 +38,4 @@
 
 ## 心理分析的交流群
 
-👉关注公众号：Python自动化办公社区，在后台发送：**心理分析**，即可加入群聊~
-
-
-
-## → 🚀社区资源仓库&社区交流群：
-
-
-##### 📱社区资源仓库
-
-<img src="https://img-blog.csdnimg.cn/20201231105911656.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="csdn资源仓库" style="zoom:50%;" />
-
-##### 🆗社区交流群
-
-<img src="https://img-blog.csdnimg.cn/20210102004119705.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="交流群" style="zoom:50%;" />
-
-
-
+👉关注公众号：[Python自动化办公社区](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow)，在后台发送：**心理分析**，即可加入群聊~
