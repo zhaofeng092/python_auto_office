@@ -14,8 +14,9 @@
 
 - 个人成长：
     - 🌟[潜在心理创伤测试](http://www.urlort.cn/2SIUm2)
-    - [你延续着哪些来自童年的性格陷阱？](http://www.urlort.cn/2SIUK8)
+    - [你心底有哪些隐藏的偏见？](http://www.urlort.cn/2UJxkf)
     - [童年阴影评估](http://www.urlort.cn/2Qbuge)
+    - [习惯性重复：你在重复家庭的伤害吗？](http://www.urlort.cn/2UJxt0)
 
 
 
@@ -24,7 +25,8 @@
     - [恋爱心理成熟度评估](http://www.urlort.cn/2SIV69)
     - 👬[面对伴侣，你是哪种依恋类型？](http://www.urlort.cn/2UJuC7)
     - [异性魅力评估](http://www.urlort.cn/2UJv93)
-    
+    - [婚姻质量评估](http://www.urlort.cn/2UJwZ0)
+
 
 
 
@@ -33,6 +35,7 @@
     - [气质类型评估](http://www.urlort.cn/2UJvh8)
     - 🏃[发现属于自己的职场优势](http://www.urlort.cn/2S7zo0)
     - [情商测试「专业版」](http://www.urlort.cn/2UJvx1)
+    - [你能从人际关系中获得多少支持？](http://www.urlort.cn/2UJx8c)
 
 
 
