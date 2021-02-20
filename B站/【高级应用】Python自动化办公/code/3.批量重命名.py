@@ -17,7 +17,7 @@ for filename in fileList:
 
     if del_replace_content in filename:
         old_name = filename
-        new_name = old_name.replace(del_replace_content, '')
+        new_name = old_name.replace(del_replace_content, 'mp4')
         os.rename(path + os.sep + old_name, path + os.sep + new_name)
 
         print(filename)
