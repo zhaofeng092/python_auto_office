@@ -39,11 +39,13 @@
 
 
 
-- 心理课程：
-  - [家庭关系必修课：32堂幸福修炼法](http://www.urlort.cn/2VSYDc)
-  - 👪[如何减少原生家庭对婚姻的影响？](http://www.urlort.cn/2VSYW3)
-  - [越吵越亲密的哈佛亲密关系攻略](http://www.urlort.cn/2VSZD6)
-  - [21天摆脱抑郁困扰 别让坏情绪拖累你的人生](http://www.urlort.cn/2VSXI9)
+## 心理课程的链接
+
+- [家庭关系必修课：32堂幸福修炼法](http://www.urlort.cn/2VSYDc)
+- 👪[如何减少原生家庭对婚姻的影响？](http://www.urlort.cn/2VSYW3)
+- [越吵越亲密的哈佛亲密关系攻略](http://www.urlort.cn/2VSZD6)
+- [21天摆脱抑郁困扰 别让坏情绪拖累你的人生](http://www.urlort.cn/2VSXI9)
+- [实用人格手册：读懂自己与他人的必备指南](http://www.urlort.cn/2VT0wc)
 
 
 
@@ -51,4 +53,4 @@
 
 ## 心理分析的交流群
 
-👉关注公众号：[Python自动化办公社区](https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow)，在后台发送：**心理分析**，即可加入群聊~
+👉关注公众号：[程序员兆锋](https://mp.weixin.qq.com/s/lfTqnFUWldEm9e4HvMmdxQ)，关注后，在后台发送命令：**心理分析**，即可加入群聊~
