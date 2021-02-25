@@ -18,6 +18,8 @@
 
 
 
+- 更多：[106本Python电子书](https://mp.weixin.qq.com/s/Wa27Or7SaChF5rCw7LLdVg)
+
 - 🚸学习交流群：[进群](https://mp.weixin.qq.com/s/oLSUxE1RwTFK5iJFb-jFgQ) 
 - 📱社区资源合集：[合集](https://blog.csdn.net/weixin_42321517/article/details/113122547)
 
