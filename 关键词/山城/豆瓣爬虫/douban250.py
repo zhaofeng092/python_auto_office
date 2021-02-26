@@ -28,3 +28,5 @@ for n in range(0,10):
         year=yearline[0:4] #只取年份前四个字符
         # 打印结果
         print(title,'\t',year)
+        #如果反复测试，这里依然打印不出内容，说明你的IP被封了，需要更好的伪装爬虫 or 使用代理IP
+        # 高级爬虫教程，链接：https://mp.weixin.qq.com/s/dUpSxPgTRMGTb5T7-Ya9Ow
