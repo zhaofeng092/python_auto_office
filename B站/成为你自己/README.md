@@ -42,7 +42,7 @@
 
 ## 心理课程的链接
 - 你是不是像[兆锋](https://mp.weixin.qq.com/s/lfTqnFUWldEm9e4HvMmdxQ)一样：听完武老师的课，学到了很多，但是还有困惑？
-- 👇下面是一些扩展的专项课程和图书，送给有需要的同学~
+- 👇下面是一些扩展的专项心理分析课程和图书，送给有需要的同学~
 - 点我领取：[链接](https://mp.weixin.qq.com/s/xAUgsKBqgyRBH-Z9SLyN1Q)
       
     
