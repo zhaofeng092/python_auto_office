@@ -41,7 +41,9 @@
 
 
 ## 心理课程的链接
-- 你是不是像[兆锋](https://mp.weixin.qq.com/s/lfTqnFUWldEm9e4HvMmdxQ)一样：听完武老师的课，学到了很多，但是还有困惑？希望继续学习？👇下面是一些扩展的专项课程，送给有需要的同学~
+- 你是不是像[兆锋](https://mp.weixin.qq.com/s/lfTqnFUWldEm9e4HvMmdxQ)一样：听完武老师的课，学到了很多，但是还有困惑？
+
+- 👇下面是一些扩展的专项课程，送给有需要的同学~
 
     - 家庭内涵
       - [家庭关系必修课：32堂幸福修炼法](http://www.urlort.cn/2VSYDc)
