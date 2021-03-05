@@ -41,9 +41,9 @@
 
 
 ## 心理课程的链接
-- 你是不是像[兆锋](https://mp.weixin.qq.com/s/lfTqnFUWldEm9e4HvMmdxQ)一样：听完武老师的课，学到了很多，但是还有困惑？
+- 你是不是像[兆锋](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyMzIwOTgzMA==&action=getalbum&album_id=1758897098374119429&scene=173&from_msgid=2247483708&from_itemidx=1&count=3&uin=&key=&devicetype=Windows+10+x64&version=63010213&lang=zh_CN&ascene=1&session_us=gh_d1e9c776c1dd&fontgear=2)一样：听完武老师的课，学到了很多，但是还有困惑？
 - 👇下面是一些扩展的专项心理分析课程和图书，送给有需要的同学~
-- 点我领取：[链接](https://mp.weixin.qq.com/s/xAUgsKBqgyRBH-Z9SLyN1Q)
+- 点我领取：[链接](https://gitee.com/zhaofeng092/python_auto_office/blob/master/B%E7%AB%99/%E6%88%90%E4%B8%BA%E4%BD%A0%E8%87%AA%E5%B7%B1/%E6%9B%B4%E5%A4%9A%E8%AF%BE%E7%A8%8B.md)
       
     
 
