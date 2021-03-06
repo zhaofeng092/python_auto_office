@@ -1,4 +1,8 @@
-# → Excel教材推荐
+#### 51个Excel模板，下载：https://mp.weixin.qq.com/s/iQ01wbHC6_XLpVIGUCOq7A
+
+
+
+#### → Excel教材推荐
 
 > 获取以下教材，请直接复制淘口令，到淘宝打开，自动弹出~
 
@@ -6,13 +10,17 @@
 - 《Excel数据处理与分析》，淘口令：￥UxsJcIC58Fn￥
 - 《和秋叶一起学Excel 第2版》，淘口令：￥FAx2cICgPLl￥
 
+#### 更多资料
+
+- [106本Python电子书](https://mp.weixin.qq.com/s/Wa27Or7SaChF5rCw7LLdVg)
+
+- 更多🔥[Python入门教程 · 合集](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E7%BE%A4%E8%81%8A/%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B/%E5%85%A5%E9%97%A8.md)
 
 
-> 如果对资源有疑问，请加入🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA) 联系群主解决~
+
+- 🚸学习交流群：[进群](https://mp.weixin.qq.com/s/oLSUxE1RwTFK5iJFb-jFgQ) 
+- 📱社区资源合集：[合集](https://blog.csdn.net/weixin_42321517/article/details/113122547)
 
 
 
-## → 🚀社区资源仓库&社区交流群：
-
-<img src="https://img-blog.csdnimg.cn/20201231105911656.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="csdn资源仓库" style="zoom:50%;" />
-<img src="https://img-blog.csdnimg.cn/20201230181619243.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="group" style="zoom: 50%;" />
+![合集](https://img-blog.csdnimg.cn/20210303170458567.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center)<img src="https://img-blog.csdnimg.cn/20201230181619243.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjMyMTUxNw==,size_16,color_FFFFFF,t_70#pic_center" alt="group" style="zoom: 50%;" />
