@@ -6,6 +6,20 @@
 </div>
 
 
+你好，我是小编：程序员兆锋，我的微信是：hdylw1024，
+
+我是山东人，硕士毕业于华南理工大学，目前在佛山工作，💼[法学院毕业后，我是怎么成为Python程序员的？](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)
+
+2021年是我做[Python自动化办公社区](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E7%BE%A4%E8%81%8A/%E5%85%A8%E7%BD%91%E5%90%8C%E5%90%8D.md)的第3年：👉[我为什么要做Python自动化办公社区？](https://mp.weixin.qq.com/s/TUUX5reeYAcrTZVDh-VSuA)
+
+我是一个坚持长期主义的知识分享者，希望和你共同努力，真正掌握实用知识。
+
+以下资料和学习群，长期有效。
+
+------
+
+
+
 - 📚资源介绍：[内幕 \| 报价上万的大屏数据可视化，成本只有10分钟？](https://www.bilibili.com/video/BV1Kz4y1r76w)
 - 🚀资源下载
   - 链接：[https://pan.baidu.com/s/1ts1ikrx39n1_X_5rO9AkCA](https://pan.baidu.com/s/1ts1ikrx39n1_X_5rO9AkCA)
