@@ -1,14 +1,16 @@
-#### 51个Excel模板，下载：https://mp.weixin.qq.com/s/iQ01wbHC6_XLpVIGUCOq7A
+- #### 51个Excel模板
+
+  - 下载：https://mp.weixin.qq.com/s/iQ01wbHC6_XLpVIGUCOq7A
 
 
 
-#### → Excel教材推荐
+- ####  Excel教材推荐
 
-> 获取以下教材，请直接复制淘口令，到淘宝打开，自动弹出~
+  > 获取以下教材，请直接复制淘口令，到淘宝打开，自动弹出~
 
-- 《word excel ppt 入门到精通》，淘口令：￥bnKUcIC5t4q￥
-- 《Excel数据处理与分析》，淘口令：￥UxsJcIC58Fn￥
-- 《和秋叶一起学Excel 第2版》，淘口令：￥FAx2cICgPLl￥
+  - 《word excel ppt 入门到精通》，淘口令：￥ImfQczxEXbD￥
+  - 《Excel数据处理与分析》，淘口令：￥xOumczxEwyW￥
+  - 《和秋叶一起学Excel 第2版》，淘口令：5.0￥G7QfczxwI6Y￥
 
 #### 更多资料
 
