@@ -9,14 +9,15 @@
 
 
 
-- 📚资源介绍：[47页PPT：如何利用Python进行自动化办公？](https://mp.weixin.qq.com/s/k4opXSWsgjBGpu8aUVetSw)
+- 📚资源名称：47页PPT：如何利用Python进行自动化办公？]
 - 🚀资源下载：
 
   - 链接：[https://pan.baidu.com/s/1M6K9pwWuNnXjP7PSQNYJjA](https://pan.baidu.com/s/1M6K9pwWuNnXjP7PSQNYJjA ) 
   - 提取码：4123
-  - 🔥[Python+自动化办公 · 合集](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E7%BE%A4%E8%81%8A/%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC.md)
 
+##### 更多资料
 
+- 🔥[Python+自动化办公 · 合集](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E7%BE%A4%E8%81%8A/%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B/%E8%87%AA%E5%8A%A8%E5%8C%96%E5%8A%9E%E5%85%AC.md)
 
 - 更多：[106本Python电子书](https://mp.weixin.qq.com/s/Wa27Or7SaChF5rCw7LLdVg)
 
