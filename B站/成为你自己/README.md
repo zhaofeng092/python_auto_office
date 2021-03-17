@@ -13,10 +13,10 @@
 ## 心理测试的链接
 
 - 个人成长：
-    - 🌟[潜在心理创伤测试](http://www.urlort.cn/2SIUm2)
+    - 💘[潜在心理创伤测试](http://www.urlort.cn/2SIUm2)
     - [你心底有哪些隐藏的偏见？](http://www.urlort.cn/2UJxkf)
     - [童年阴影评估](http://www.urlort.cn/2Qbuge)
-    - [习惯性重复：你在重复家庭的伤害吗？](http://www.urlort.cn/2UJxt0)
+    - 😥[习惯性重复：你在重复家庭的伤害吗？](http://www.urlort.cn/2UJxt0)
     - [原生家庭影响评估](http://www.urlort.cn/2VT4Q3)
 
 
@@ -45,7 +45,7 @@
 - 👇下面是一些扩展的专项心理分析课程和图书，送给有需要的同学~
 - 点我领取：[链接](https://gitee.com/zhaofeng092/python_auto_office/blob/master/B%E7%AB%99/%E6%88%90%E4%B8%BA%E4%BD%A0%E8%87%AA%E5%B7%B1/%E6%9B%B4%E5%A4%9A%E8%AF%BE%E7%A8%8B.md)
       
-    
+  
 
 
 
