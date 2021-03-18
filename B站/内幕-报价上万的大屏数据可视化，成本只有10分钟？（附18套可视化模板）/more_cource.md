@@ -13,7 +13,8 @@
 - Python数据分析
   - [278页PDF：《Python数据分析基础》，0基础入门专用~](https://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489987&idx=3&sn=f3147773c995dd939a9dcf114d074b23&chksm=eaf6b8f6dd8131e0bcb562e20e58ad8c7a0b3fb286c94a65b80af2918009ac2f0e90d4ecd3b4&token=1256110927&lang=zh_CN#rd)
   - [全解析！9个处理Excel的Python库，到底哪个最好用？](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247489016&idx=1&sn=189adc7795cebc6e71543d6bbeebb735&chksm=eaf6b4cddd813ddb53f2db0e1e901e293569b2292179801dc73223799e5ea90d4dfe049b30a9#rd)
-  - 
+  - [推荐5个Excel自动化办公免费学习资源~（数据分析、Python、VBA等）](https://mp.weixin.qq.com/s/AsMD-SiMjDe6U5JO06qz0Q)
+  - 👉[如何用Python处理Excel？Pandas视频教程&官方文档来啦~](https://mp.weixin.qq.com/s/v8GdZ1YpVSy-bwRZyo2n1g)
   - [Python金融数据分析高级训练营（完结）](https://www.bilibili.com/video/BV1Ut4y1i7wS)
 
 
