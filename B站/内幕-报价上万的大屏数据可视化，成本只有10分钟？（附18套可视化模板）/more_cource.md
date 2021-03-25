@@ -20,7 +20,7 @@
 
 
 - 各行业通用的数据分析（非Python）
-
+- [人人都能学会的数据分析](https://t6.lagounews.com/mRFARfRncR6AD)
     - 🔥[七周成为数据分析师](https://www.acfun.cn/v/ac19843284)
     - [Power BI教程_商业数据可视化](https://www.acfun.cn/v/ac19838235)
     - 🉑[掌握高效数据可视化技法（完结）](https://www.acfun.cn/v/ac20848856)
