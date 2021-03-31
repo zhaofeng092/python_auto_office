@@ -21,7 +21,7 @@
 
 > 直接复制打开百度云链接，进行下载即可~
 >
-> 如果对资源有疑问，请加入🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA) 联系群主解决~
+> 🚸学习Python过程中有任何问题，欢迎加入我的学习交流群👉 [进群](https://mp.weixin.qq.com/s/oLSUxE1RwTFK5iJFb-jFgQ) 👈
 
 
 
