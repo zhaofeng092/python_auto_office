@@ -18,6 +18,7 @@
     - [童年阴影评估](http://www.urlort.cn/2Qbuge)
     - 😥[习惯性重复：你在重复家庭的伤害吗？](http://www.urlort.cn/2UJxt0)
     - [原生家庭影响评估](http://www.urlort.cn/2VT4Q3)
+    - [🙋发现你最突出的5项天赋](https://mp.weixin.qq.com/s/O75jkwzme78h9Y7EHJq_bA)
 
 
 
