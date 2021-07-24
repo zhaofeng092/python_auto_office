@@ -1,0 +1,35 @@
+import pandas as pd
+
+def low_score_red(s):
+    color = 'red' if s<60 else 'green'
+    return f'color:{color}'
+
+students = pd.read_excel('c:/Temp/Students.xlsx')
+students.style.applymap(low_score_red, subset=['Test_1', 'Test_2', 'Test_3'])
+
+========================
+
+import pandas as pd
+
+def highest_score_green2(col):
+    return ['background-color:lime' if v==col.max() else 'background-color:red' for v in col]
+
+students = pd.read_excel('c:/Temp/Students.xlsx')
+students.style.apply(highest_score_green2, subset=['Test_1', 'Test_2', 'Test_3'])
+
+========================
+
+import pandas as pd
+import seaborn as sns
+
+color_map = sns.light_palette('green', as_cmap=True)
+
+students = pd.read_excel('c:/Temp/Students.xlsx')
+students.style.background_gradient(cmap=color_map, subset=['Test_1','Test_2','Test_3'])
+
+========================
+
+import pandas as pd
+
+students = pd.read_excel('c:/Temp/Students.xlsx')
+students.style.bar(color='orange', subset=['Test_1','Test_2','Test_3'])
