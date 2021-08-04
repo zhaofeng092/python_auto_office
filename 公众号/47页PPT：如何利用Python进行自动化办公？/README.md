@@ -12,8 +12,8 @@
 - 📚资源名称：47页PPT：如何利用Python进行自动化办公？]
 - 🚀资源下载：
 
-  - 链接：[https://pan.baidu.com/s/1M6K9pwWuNnXjP7PSQNYJjA](https://pan.baidu.com/s/1M6K9pwWuNnXjP7PSQNYJjA ) 
-  - 提取码：4123
+  - 链接：https://pan.baidu.com/s/1q0r2rXcV859APdwmlgj3Jw 
+  - 提取码：da38
 
 ##### 更多资料
 
