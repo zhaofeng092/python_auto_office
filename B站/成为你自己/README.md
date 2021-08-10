@@ -27,8 +27,9 @@
     - [恋爱心理成熟度评估](http://www.urlort.cn/2SIV69)
     - 👬[面对伴侣，你是哪种依恋类型？](http://www.urlort.cn/2UJuC7)
     - [异性魅力评估](http://www.urlort.cn/2UJv93)
-    - [婚姻质量评估](http://www.urlort.cn/2UJwZ0)
-    - [亲子关系亲密程度评估](http://www.urlort.cn/2VT1hd)
+    - [什么样的异性最适合你？](http://url.newrank.cn/353MW6)
+    - [爱情智商评估](http://url.newrank.cn/353N5e)
+    - [出轨倾向](http://url.newrank.cn/353LH8)
 
 
 
@@ -38,13 +39,23 @@
     - [情商测试「专业版」](http://www.urlort.cn/2UJvx1)
     - [你能从人际关系中获得多少支持？](http://www.urlort.cn/2UJx8c)
     - [家庭-工作平衡度评估](http://www.urlort.cn/2VT4V5)
+    
+    
+    
+- 学会去爱：
+
+    - 👨‍👩‍👧‍👦[超越原生家庭，活出全新自我](http://www.urlort.cn/2VT445)
+    - [21天摆脱抑郁困扰：别让坏情绪拖累你的人生](http://www.urlort.cn/2VSXI9)
+    - [实用人格手册：读懂自己与他人的必备指南](http://www.urlort.cn/2VT0wc)
+    - 🍭[给90后女生的关系课](http://www.urlort.cn/2VT6gc)
+    - [越吵越亲密的哈佛亲密关系攻略](http://www.urlort.cn/2VSZD6)
 
 
 
-## 心理课程的链接
-- 你是不是像[兆锋](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyMzIwOTgzMA==&action=getalbum&album_id=1758897098374119429&scene=173&from_msgid=2247483708&from_itemidx=1&count=3&uin=&key=&devicetype=Windows+10+x64&version=63010213&lang=zh_CN&ascene=1&session_us=gh_d1e9c776c1dd&fontgear=2)一样：听完武老师的课，学到了很多，但是还有困惑？
+## 心理图书的链接
+- 你是不是像[兆锋](https://mp.weixin.qq.com/s/XQwfM_CpeSiKyRS3P7zHKg)一样：听完武老师的课，学到了很多，但是还有困惑？
 - 👇下面是一些扩展的专项心理分析课程和图书，送给有需要的同学~
-- 点我领取：[链接](https://gitee.com/zhaofeng092/python_auto_office/blob/master/B%E7%AB%99/%E6%88%90%E4%B8%BA%E4%BD%A0%E8%87%AA%E5%B7%B1/%E6%9B%B4%E5%A4%9A%E8%AF%BE%E7%A8%8B.md)
+- 点我领取：[链接](https://mp.weixin.qq.com/s/7zqsqToOsBBOEGXvNOLFQA)
       
   
 
@@ -52,4 +63,4 @@
 
 ## 心理分析的交流群
 
-👉关注公众号：[程序员兆锋](https://mp.weixin.qq.com/s/lfTqnFUWldEm9e4HvMmdxQ)，关注后，在后台发送命令：**心理分析**，即可加入群聊~
+👉关注公众号：[锋哥和小明的日常](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyMzIwOTgzMA==&action=getalbum&album_id=1861970403066249218&scene=173&from_msgid=2247484459&from_itemidx=1&count=3&nolastread=1&uin=&key=&devicetype=Windows+10+x64&version=63030522&lang=zh_CN&ascene=1&session_us=gh_d1e9c776c1dd&fontgear=2)，关注后，在后台发送命令：**心理分析**，即可加入群聊~
