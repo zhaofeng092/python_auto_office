@@ -6,7 +6,7 @@
 
 ## 📣写在前面
 
-这里是法学院毕业的Python程序员兆锋，这是我在CSDN的第7篇文章，希望助您自动化办公~
+这里是法学院毕业的程序员兆锋，这是我在CSDN的第7篇文章，希望助您自动化办公~
 
 | 🎯  [关于作者](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [社区公众号](https://mp.weixin.qq.com/s/xkZSp3606rTPN_JbLT3hSQ)   |  🚸 [社区交流群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w)   |
 | ---- | ---- | ---- |

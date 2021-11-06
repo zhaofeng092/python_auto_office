@@ -4,7 +4,7 @@
 
 ### 1、资源说明
 
-这里是法学院毕业的Python程序员兆锋，这里是我的代码仓库，欢迎大家交流使用~
+这里是法学院毕业的程序员兆锋，这里是我的代码仓库，欢迎大家交流使用~
 
 - 一定要看！！！*<u>**关于这个资源仓库的使用，请看我录制的教程：👉[点我打开](https://www.bilibili.com/video/BV1Ry4y1m7Ai?p=2)**</u>*👈
 - 一定要看！！！*<u>**关于这个资源仓库的使用，请看我录制的教程：👉[点我打开](https://www.bilibili.com/video/BV1Ry4y1m7Ai?p=2)**</u>*👈
@@ -31,7 +31,7 @@
 | ------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1114                                 | [早知道这些查询数据的API，我还学什么爬虫啊.doc](https://mp.weixin.qq.com/s/QFlh0OB-niHupylvTPC24g) | 点开查看置顶留言：[传送门](https://mp.weixin.qq.com/s/hVR1NDcxc3sh6v6k4g1QZQ) |
 | 1113                                 | [Python经典练习题100道（附链接）](https://mp.weixin.qq.com/s/2xJ_OjGNCN15B1WlN6O_GQ) | 点开查看置顶留言：[传送门](https://mp.weixin.qq.com/s/xIiawqD6X2u1ei4zk7_JNw) |
-| 1112                                 | [震惊脸！这5个软件难道只有Python程序员才知道吗？](https://mp.weixin.qq.com/s/CGrV_A9e3uaZDjsaAghq2w) | [传送门](https://mp.weixin.qq.com/s/5LqlkTbOM_GxyaAIYwwjRQ)  |
+| 1112                                 | [震惊脸！这5个软件难道只有程序员才知道吗？](https://mp.weixin.qq.com/s/CGrV_A9e3uaZDjsaAghq2w) | [传送门](https://mp.weixin.qq.com/s/5LqlkTbOM_GxyaAIYwwjRQ)  |
 | 1104                                 | [一个开源工具箱，帮你找出被偷走的个人数据~！](https://mp.weixin.qq.com/s/szHwiXrC6Xl1gsjEPm6APw) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E4%B8%80%E4%B8%AA%E5%BC%80%E6%BA%90%E5%B7%A5%E5%85%B7%E7%AE%B1%EF%BC%8C%E5%B8%AE%E4%BD%A0%E6%89%BE%E5%87%BA%E8%A2%AB%E5%81%B7%E8%B5%B0%E7%9A%84%E4%B8%AA%E4%BA%BA%E6%95%B0%E6%8D%AE~%EF%BC%81/info.txt) |
 | tf2                                  | [《TensorFlow 2.0 深度学习算法实战》中文版教材下载](https://mp.weixin.qq.com/s/rKfWYyJHdhCMtKU_HrlMmg) | 点开查看置顶留言：[传送门](https://mp.weixin.qq.com/s/tybIP2TumJAZgx3gRtOGHg) |
 | 防撤回                               | [微信防撤回功能，了解一下？](https://mp.weixin.qq.com/s/xej4h0gyP3snjpsW3NvNRg) | [传送门](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%AC%E4%BC%97%E5%8F%B7/%E5%BE%AE%E4%BF%A1%E9%98%B2%E6%92%A4%E5%9B%9E%E5%8A%9F%E8%83%BD%EF%BC%8C%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%8B%EF%BC%9F/info.txt) |

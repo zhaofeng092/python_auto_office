@@ -4,7 +4,7 @@
 
 ### 1、资源说明
 
-这里是法学院毕业的Python程序员兆锋，这里是我的代码仓库，欢迎大家交流使用~
+这里是法学院毕业的程序员兆锋，这里是我的代码仓库，欢迎大家交流使用~
 
 | 🎯  [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [我的公众号](https://mp.weixin.qq.com/s/xkZSp3606rTPN_JbLT3hSQ)   |  🚸 [我的交流群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w)   |
 | ---- | ---- | ---- |

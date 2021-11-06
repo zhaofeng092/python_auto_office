@@ -45,7 +45,7 @@
 
 你好，我是小编：兆锋，我的微信是：hdylw1024，
 
-我是山东人，硕士毕业于华南理工大学，目前在佛山工作，💼[法学院毕业后，我是怎么成为Python程序员的？](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)
+我是山东人，这里有我们团队的故事：💼[法学院毕业后，我是怎么成为程序员的？](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)
 
 2021年是我做[Python自动化办公社区](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E7%BE%A4%E8%81%8A/%E5%85%A8%E7%BD%91%E5%90%8C%E5%90%8D.md)的第3年：👉[我为什么要做Python自动化办公社区？](https://mp.weixin.qq.com/s/TUUX5reeYAcrTZVDh-VSuA)
 

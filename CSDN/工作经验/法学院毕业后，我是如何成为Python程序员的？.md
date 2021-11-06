@@ -14,9 +14,9 @@
 
 
 
-> - [*法学院*毕业后，我是怎么成为Python程序员的？（1）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247485183&idx=2&sn=ef4f0b8257a0e3fa6345181a093e599b&chksm=eaf6a7cadd812edcd06daef4b8108d79f6034555ac8431149d5a9863b5f13e53dc8432ef22e4#rd)
-> - [*法学院*毕业后，我是怎么成为Python程序员的？（2）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247485212&idx=2&sn=4ecc5c315092ca6fc47bdb0cebeaca75&chksm=eaf6a629dd812f3fcb1d57ca0d342bfb4d9a62b8232614e01c841a3ad73e46de13dd1b8051f7#rd)
-> - [*法学院*毕业后，我是怎么成为Python程序员的？（3）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247485242&idx=1&sn=53c66f17132456cd347ba7571841aec7&chksm=eaf6a60fdd812f19a731098328afb3e66cac7381a9834844684b7f07e01371d3c9063b79e050#rd)
+> - [*法学院*毕业后，我是怎么成为程序员的？（1）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247485183&idx=2&sn=ef4f0b8257a0e3fa6345181a093e599b&chksm=eaf6a7cadd812edcd06daef4b8108d79f6034555ac8431149d5a9863b5f13e53dc8432ef22e4#rd)
+> - [*法学院*毕业后，我是怎么成为程序员的？（2）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247485212&idx=2&sn=4ecc5c315092ca6fc47bdb0cebeaca75&chksm=eaf6a629dd812f3fcb1d57ca0d342bfb4d9a62b8232614e01c841a3ad73e46de13dd1b8051f7#rd)
+> - [*法学院*毕业后，我是怎么成为程序员的？（3）](http://mp.weixin.qq.com/s?__biz=MzI2Nzg5MjgyNg==&mid=2247485242&idx=1&sn=53c66f17132456cd347ba7571841aec7&chksm=eaf6a60fdd812f19a731098328afb3e66cac7381a9834844684b7f07e01371d3c9063b79e050#rd)
 
 
 
