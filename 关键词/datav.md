@@ -16,7 +16,7 @@
 - 🚀资源下载
   - 链接：[https://pan.baidu.com/s/1ts1ikrx39n1_X_5rO9AkCA](https://pan.baidu.com/s/1ts1ikrx39n1_X_5rO9AkCA)
   - 提取码：90qb
-  - 🚸学习Python过程中有任何问题，欢迎加入我的学习交流群👉 [进群](https://mp.weixin.qq.com/s/oLSUxE1RwTFK5iJFb-jFgQ) 👈
+  - 🚸学习Python过程中有任何问题，欢迎加入我的学习交流群👉 [进群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w) 👈
   - 更多🔥数据分析&数据可视化课程：[传送门](https://mp.weixin.qq.com/s/rJVy8DLIdqdyjMPY1SHpag)
 
 
@@ -27,7 +27,7 @@
 #### 更多
 
 
-你好，这里是👉[法学院毕业的程序员兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ) ，欢迎你来我一起学习Python，🚸我的交流群：[进群](https://mp.weixin.qq.com/s/oLSUxE1RwTFK5iJFb-jFgQ) 
+你好，这里是👉[法学院毕业的程序员兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ) ，欢迎你来我一起学习Python，🚸我的交流群：[进群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w) 
 
 👇这里是我整理的[Python学习资料](https://mp.weixin.qq.com/s/2LiIoxPl2SwPHWVxP6UaJQ)，作为见面礼，送给你啦~
 

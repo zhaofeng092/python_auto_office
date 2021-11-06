@@ -16,12 +16,12 @@
 - 🚀资源下载：
 
   - [100道练习题-传送门](https://www.runoob.com/python/python-exercise-example100.html)
-  - 🚸学习Python过程中有任何问题，欢迎加入我的学习交流群👉 [进群](https://mp.weixin.qq.com/s/oLSUxE1RwTFK5iJFb-jFgQ) 👈
+  - 🚸学习Python过程中有任何问题，欢迎加入我的学习交流群👉 [进群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w) 👈
   - 更多：🔥[Python入门 · 资源合集](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E7%BE%A4%E8%81%8A/%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B/%E5%85%A5%E9%97%A8.md)
 
 
 
-- 🚸学习交流群：[进群](https://mp.weixin.qq.com/s/oLSUxE1RwTFK5iJFb-jFgQ) 
+- 🚸学习交流群：[进群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w) 
 - 📱社区资源合集：[合集](https://blog.csdn.net/weixin_42321517/article/details/113122547)
 
 

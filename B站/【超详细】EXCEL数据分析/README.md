@@ -11,7 +11,7 @@
 1. 关注社区微博，微博直达：[Python自动化办公社区](https://weibo.com/u/7411061007)
 2. 转发该课程到微博，并@Python自动化办公社区：👉 [【超详细】EXCEL数据分析（分析、公式、函数、可视化）](https://www.bilibili.com/video/BV195411t7vN)
 3. 看到你发出的@信息（👇如下图），我会第一时间，把资料的百度云链接私信到你的微博~
-4. [兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)的回复很快，一天上班10小时+，你也可以获取更多资源，请加入🚸 [社区交流群](https://mp.weixin.qq.com/s/oLSUxE1RwTFK5iJFb-jFgQ) ~
+4. [兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)的回复很快，一天上班10小时+，你也可以获取更多资源，请加入🚸 [社区交流群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w) ~
 5. 更多🔥数据分析&数据可视化课程：[传送门](https://mp.weixin.qq.com/s/rJVy8DLIdqdyjMPY1SHpag)
 
 

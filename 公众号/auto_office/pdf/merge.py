@@ -23,4 +23,4 @@ def merge_pdfs(paths, output):
 
 if __name__ == '__main__':
     paths = ['静夜思.pdf', '静夜思.pdf']
-    merge_pdfs(paths, output='merged.pdf')
+    merge_pdfs(paths, output='pandas官方文档中文版.pdf')
