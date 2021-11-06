@@ -8,7 +8,7 @@
 
 这里是法学院毕业的Python程序员兆锋，这是我在CSDN的第7篇文章，希望助您自动化办公~
 
-| 🎯  [关于作者](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [社区公众号](http://t.cn/A6Gkrbzw)   |  🚸 [社区交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)   |
+| 🎯  [关于作者](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [社区公众号](https://mp.weixin.qq.com/s/xkZSp3606rTPN_JbLT3hSQ)   |  🚸 [社区交流群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w)   |
 | ---- | ---- | ---- |
 
 > 首先推荐3套经典的学习课程，在各自领域都是排名第一的课程哦~
@@ -86,7 +86,7 @@
 如果你也正在IT这条路上探索，欢迎一路同行，
 
 - 欢迎在📋[CSDN的评论区](http://t.cn/A6qTvrFK)留言交流您的问题；
-- 也欢迎点击加入：🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)  ；
+- 也欢迎点击加入：🚸 [我的交流群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w)  ；
 - 如果有私人问题/交流合作，欢迎联系📲我的邮箱：1529577833@qq.com
 
 最后，整理分享知识不易，如果资料对你帮助，感谢赞赏支持哟~💖[点击：打开赞赏码](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E8%B4%A6%E5%8F%B7%E5%85%B1%E7%94%A8%E8%B5%84%E6%BA%90/image/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)

@@ -4,7 +4,7 @@
 
 > 本页为自动化办公 · 合集。
 >
-> 🎯另有：社区 · 全部资源👉 [点我直达](https://blog.csdn.net/weixin_42321517/article/details/113122547) 👈
+> 🎯另有：社区 · 全部资源👉 [点我直达](https://mp.weixin.qq.com/s/G_5cY05Qoc_yCXGQs4vIeg) 👈
 >
 > 有问必答的 [知识星球](https://mp.weixin.qq.com/s/PXNVFNsjAOgCmQ6QGalJPw)和 ✍️[交流群](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyMzIwOTgzMA==&action=getalbum&album_id=1861970403066249218&scene=173&from_msgid=2247484814&from_itemidx=1&count=3&nolastread=1#wechat_redirect)，见文末哟~
 
@@ -43,7 +43,7 @@
 
 
 
-> 如果对资源有疑问，请加入🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA) 联系群主解决~
+> 如果对资源有疑问，请加入🚸 [我的交流群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w) 联系群主解决~
 
 
 

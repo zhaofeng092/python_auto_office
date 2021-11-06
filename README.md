@@ -1,9 +1,10 @@
 <div align="center">
     <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/badge/Github/%E7%A8%8B%E5%BA%8F%E5%91%98?icon=github&color=red"></a>
-    <a href="http://t.cn/A6Gkrbzw"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
+    <a href="https://mp.weixin.qq.com/s/xkZSp3606rTPN_JbLT3hSQ"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
     <a href="https://space.bilibili.com/259649365"> <img src="https://badgen.net/badge/pick/B%E7%AB%99?icon=dependabot&color=blue"></a>
-    <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyMzIwOTgzMA==&action=getalbum&album_id=1861970403066249218&scene=173&from_msgid=2247484814&from_itemidx=1&count=3&nolastread=1#wechat_redirect"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
+    <a href="https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
 </div>
+
 
 
 
@@ -141,7 +142,7 @@
 如果你也正在IT这条路上探索，欢迎一路同行，
 
 - 欢迎在📋[CSDN的评论区](http://t.cn/A6qTvrFK)留言交流您的问题；
-- 也欢迎点击加入：🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)  ；
+- 也欢迎点击加入：🚸 [我的交流群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w)  ；
 - 如果有私人问题/交流合作，欢迎联系📲我的邮箱：1529577833@qq.com
 
 最后，整理分享知识不易，如果资料对你帮助，感谢赞赏支持哟~💖[点击：打开赞赏码](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E8%B4%A6%E5%8F%B7%E5%85%B1%E7%94%A8%E8%B5%84%E6%BA%90/image/%E5%BE%AE%E4%BF%A1%E6%94%B6%E6%AC%BE%E7%A0%81.jpg)

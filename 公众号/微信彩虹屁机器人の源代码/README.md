@@ -1,8 +1,8 @@
 <div align="center">
     <a href="https://github.com/zhaofeng092/python_auto_office"> <img src="https://badgen.net/badge/Github/%E7%A8%8B%E5%BA%8F%E5%91%98?icon=github&color=red"></a>
-    <a href="http://t.cn/A6Gkrbzw"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
+    <a href="https://mp.weixin.qq.com/s/xkZSp3606rTPN_JbLT3hSQ"> <img src="https://badgen.net/badge/follow/%E5%85%AC%E4%BC%97%E5%8F%B7?icon=rss&color=green"></a>
     <a href="https://space.bilibili.com/259649365"> <img src="https://badgen.net/badge/pick/B%E7%AB%99?icon=dependabot&color=blue"></a>
-    <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkyMzIwOTgzMA==&action=getalbum&album_id=1861970403066249218&scene=173&from_msgid=2247484814&from_itemidx=1&count=3&nolastread=1#wechat_redirect"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
+    <a href="https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w"> <img src="https://badgen.net/badge/join/%E4%BA%A4%E6%B5%81%E7%BE%A4?icon=atom&color=yellow"></a>
 </div>
 
 #### 机器人:radio: 软件和源代码、说明文档
@@ -38,7 +38,7 @@
 - 更多🔥[Python入门教程 · 合集](https://gitee.com/zhaofeng092/python_auto_office/blob/master/%E5%85%B3%E9%94%AE%E8%AF%8D/%E7%BE%A4%E8%81%8A/%E6%9C%80%E6%96%B0%E6%95%99%E7%A8%8B/%E5%85%A5%E9%97%A8.md)
 
 - 🚸学习交流群：[进群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w) 
-- 📱社区资源合集：[合集](https://blog.csdn.net/weixin_42321517/article/details/113122547)
+- 📱社区资源合集：[合集](https://mp.weixin.qq.com/s/G_5cY05Qoc_yCXGQs4vIeg)
 
 
 ------

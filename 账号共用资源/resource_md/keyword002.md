@@ -12,7 +12,7 @@
 
 
 
-| 🎯  [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [我的公众号](http://t.cn/A6Gkrbzw)   |  🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA)   |
+| 🎯  [关于兆锋](https://mp.weixin.qq.com/s/UrJ5PkRWYydaajGetUqFYQ)   |  📚 [我的公众号](https://mp.weixin.qq.com/s/xkZSp3606rTPN_JbLT3hSQ)   |  🚸 [我的交流群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w)   |
 | ---- | ---- | ---- |
 
 
@@ -21,7 +21,7 @@
 
 > 例如，关键词是：【datav】，那么资源在表格第二行，，点击表格中的**传送门**直达，其他关键词也是同样的查找逻辑。
 >
-> 如果对资源有疑问，请加入🚸 [我的交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA) 告知群主，进行修改~
+> 如果对资源有疑问，请加入🚸 [我的交流群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w) 告知群主，进行修改~
 >
 > 另外，查看**Python自动化办公社区**的资源仓库，请点击：🚀[打开资源仓库](https://gitee.com/zhaofeng092/python_auto_office)
 
@@ -57,7 +57,7 @@
 | 视频                                          | 综合                                            | IT                                                           | 生活                                     |
 | --------------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- |
 | 🚗 [B站](https://space.bilibili.com/259649365) | [知乎](https://www.zhihu.com/people/a-fei-2020) | [csdn](https://blog.csdn.net/weixin_42321517)、[简书](https://www.jianshu.com/u/b84b890b3431) | ⛳ [微博](https://weibo.com/u/7411061007) |
-| [A站](https://www.acfun.cn/u/35901274)        | 🚀 [公众号](http://t.cn/A6Gkrbzw)                | [oschina](https://my.oschina.net/u/3888978)、[github](https://github.com/zhaofeng092/python_auto_office) | 📲 我的邮箱：1529577833@qq.com            |
+| [A站](https://www.acfun.cn/u/35901274)        | 🚀 [公众号](https://mp.weixin.qq.com/s/xkZSp3606rTPN_JbLT3hSQ)                | [oschina](https://my.oschina.net/u/3888978)、[github](https://github.com/zhaofeng092/python_auto_office) | 📲 我的邮箱：1529577833@qq.com            |
 
 
 

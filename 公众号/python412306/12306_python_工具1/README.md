@@ -144,7 +144,7 @@ docker-compose up -d
 ### 关于防封
 目前查询和登录操作是分开的，查询是不依赖用户是否登录，放在 A 云 T 云容易被限制 ip，建议在其它网络环境下运行
 
-🚸[交流群](https://mp.weixin.qq.com/s/6cR5fMSCtdI5sJdWiDwhOA) 
+🚸[交流群](https://mp.weixin.qq.com/s/wx-JkgOUoJhb-7ZESxl93w) 
 
 ### Online IDE
 [![在 Gitpod 中打开](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/pjialin/py12306)
